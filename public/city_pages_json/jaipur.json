@@ -1,0 +1,179 @@
+{
+  "city": "Jaipur",
+  "foodSpots": [
+    {
+      "shopName": "Gulab Ji Chai Wale",
+      "images": [
+        "jai_gulab_1_v0vmus",
+        "jai_gulab_2_drghyl",
+        "jai_gulab_3_s6uftk"
+      ],
+      "dishName": "Kulhad Chai, Bun Samosa, Samosa, Kachori, Bun Kachori",
+      "avgPrice": "₹20-₹60",
+      "touristPlaceNearby": "MI Road / Ganpati Plaza",
+      "distanceFromTouristPlace": "Located on MI Road market area",
+      "description": "Gulab Ji Chai Wale is one of the most famous breakfast spots in Jaipur and a must-visit while exploring top tourist locations in Jaipur like MI Road and nearby heritage markets. Established in 1946, this legendary chai stall is known for thick aromatic elaichi chai served in kulhad along with bun samosa and kachori.",
+      "tips": "Best visited early morning for breakfast chai experience. Locals usually start arriving from 4–5 AM.",
+      "fullAddress": "Gulab Ji Chai Wale, Ganpati Plaza, MI Road, Jaipur, Rajasthan",
+      "routeDetails": "Located on MI Road near Ganpati Plaza; easily reachable while exploring central Jaipur markets.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Gulab+Ji+Chai+Wale+Jaipur"
+    },
+
+    {
+      "shopName": "Napoli Pizzeria",
+      "images": [
+        "jai_napoli_1_pxmhcc",
+        "jai_napoli_2_xuwucm"
+      ],
+      "dishName": "Neapolitan Pizza, Burrata Pizza, Panuozzo Sandwich, Tiramisu",
+      "avgPrice": "₹350-₹900",
+      "touristPlaceNearby": "C-Scheme Cafe Area",
+      "distanceFromTouristPlace": "Located in modern cafe hub area",
+      "description": "Napoli Pizzeria Jaipur is known for authentic Neapolitan style sourdough pizza made using 24‑hour fermented dough and fresh mozzarella. Popular among tourists and cafe lovers looking for best pizza in Jaipur.",
+      "tips": "Perfect lunch or dinner spot for pizza lovers exploring modern cafe culture in Jaipur.",
+      "fullAddress": "Napoli Pizzeria, Jaipur, Rajasthan",
+      "routeDetails": "Located in Jaipur cafe district; reachable by cab from major tourist areas.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Napoli+Pizzeria+Jaipur"
+    },
+
+    {
+      "shopName": "Samrat Restaurant (Masala Chowk Stall)",
+      "images": [
+        "jai_samrat_1_hbfjsj",
+        "jai_samrat_2_u3ircf"
+      ],
+      "dishName": "Jalebi",
+      "avgPrice": "₹60",
+      "touristPlaceNearby": "Albert Hall Museum / Pink City",
+      "distanceFromTouristPlace": "Walking distance from Albert Hall",
+      "description": "Samrat Restaurant stall inside Masala Chowk is famous for fresh jalebi and traditional Jaipur sweets. Located inside the Masala Chowk street food hub near Albert Hall Museum.",
+      "tips": "Best snack or dessert stop while exploring Albert Hall and Ram Niwas Garden.",
+      "fullAddress": "Masala Chowk Food Court, Ram Niwas Garden, Jaipur, Rajasthan",
+      "routeDetails": "Inside Masala Chowk food court in Ram Niwas Garden.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Masala+Chowk+Jaipur"
+    },
+
+    {
+      "shopName": "Pawana Rajasthani Vyanjan Stall",
+      "images": [
+        "jai_pawana_1_klcngv",
+        "jai_pawana_2_tllgdj"
+      ],
+      "dishName": "Rajasthani Thali, Bejad Roti, Gatte Ki Sabzi, Churma",
+      "avgPrice": "₹200-₹260",
+      "touristPlaceNearby": "Albert Hall Museum",
+      "distanceFromTouristPlace": "Walking distance",
+      "description": "Pawana Rajasthani Vyanjan offers an authentic Rajasthani thali including dal, gatte ki sabzi, churma and traditional bejad roti cooked on clay pot.",
+      "tips": "Best lunch option if you want authentic Rajasthani thali experience.",
+      "fullAddress": "Masala Chowk Food Court, Ram Niwas Garden, Jaipur",
+      "routeDetails": "Inside Masala Chowk food court near Albert Hall Museum.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Pawana+Rajasthani+Vyanjan+Masala+Chowk"
+    },
+
+    {
+      "shopName": "Gopal Singh Patasi Bhandar",
+      "images": [
+        "jai_gopal_1_tyx9tg",
+        "jai_gopal_2_bx4t1v"
+      ],
+      "dishName": "Pav Bhaji",
+      "avgPrice": "₹100-₹150",
+      "touristPlaceNearby": "Albert Hall Museum",
+      "distanceFromTouristPlace": "Inside Masala Chowk area",
+      "description": "Gopal Singh Patasi Bhandar serves popular street snacks including pav bhaji and chaat inside the famous Masala Chowk food hub.",
+      "tips": "Great evening snack stop after sightseeing around Albert Hall.",
+      "fullAddress": "Masala Chowk Food Court, Ram Niwas Garden, Jaipur",
+      "routeDetails": "Located inside Masala Chowk food court.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Gopal+Singh+Patasi+Bhandar+Jaipur"
+    },
+
+    {
+      "shopName": "Tapri – The Tea House",
+      "images": [
+        "jai_tapri_1_kux1np",
+        "jai_tapri_2_av5h9j"
+      ],
+      "dishName": "Tulsi Chai, Tadka Maggi, Biscuit Chai Combo",
+      "avgPrice": "₹120-₹250",
+      "touristPlaceNearby": "Central Park",
+      "distanceFromTouristPlace": "Near Central Park",
+      "description": "Tapri – The Tea House is one of the most popular chai cafes in Jaipur known for tulsi chai and relaxed rooftop cafe vibes.",
+      "tips": "Perfect evening tea spot after visiting Central Park or exploring C-Scheme cafes.",
+      "fullAddress": "Tapri – The Tea House, Central Park Area, C-Scheme, Jaipur",
+      "routeDetails": "Located in C-Scheme near Central Park.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Tapri+The+Tea+House+Jaipur"
+    },
+
+    {
+      "shopName": "Natraj Restaurant",
+      "images": [
+        "JAI_natraj_1_jiwlts",
+        "JAI_natraj_2_dbca5l",
+        "JAI_natraj_3_y902mh"
+      ],
+      "dishName": "Rajasthani Thali (Dal Baati Churma)",
+      "avgPrice": "₹250-₹400",
+      "touristPlaceNearby": "MI Road",
+      "distanceFromTouristPlace": "Located on MI Road",
+      "description": "Natraj Restaurant is one of the most famous places for authentic Rajasthani thali including dal baati churma and traditional vegetarian dishes.",
+      "tips": "Best lunch destination for authentic Rajasthani thali experience.",
+      "fullAddress": "Natraj Restaurant, MI Road, Jaipur",
+      "routeDetails": "Located on MI Road in central Jaipur.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Natraj+Restaurant+Jaipur"
+    },
+
+    {
+      "shopName": "Laxmi Misthan Bhandar (LMB)",
+      "images": [
+        "jai_LMB_1_nux86g",
+        "jai_LMB_2_j0xcbn",
+        "jai_LMB_3_dudo9i"
+      ],
+      "dishName": "Paneer Ghewar with Rabri, Rajasthani Thali, Churma",
+      "avgPrice": "₹180-₹350",
+      "touristPlaceNearby": "Johari Bazaar / Pink City",
+      "distanceFromTouristPlace": "Inside Pink City market",
+      "description": "LMB is one of the most iconic sweet shops and restaurants in Jaipur famous for paneer ghewar and traditional Rajasthani sweets.",
+      "tips": "Best dessert stop while exploring Hawa Mahal and Johari Bazaar markets.",
+      "fullAddress": "Laxmi Misthan Bhandar, Johari Bazaar, Pink City, Jaipur",
+      "routeDetails": "Located inside Johari Bazaar market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=LMB+Jaipur"
+    },
+
+    {
+      "shopName": "Curious Life Coffee Roasters",
+      "images": [
+        "jai_curious_1_oacrg5",
+        "jai_curious_2_d99wqr",
+        "jai_curious_3_ak6v6j"
+      ],
+      "dishName": "Specialty Coffee, Latte, Cold Brew, Pastries",
+      "avgPrice": "₹200-₹400",
+      "touristPlaceNearby": "C-Scheme",
+      "distanceFromTouristPlace": "Located in Saroj Market",
+      "description": "Curious Life Coffee Roasters is one of Jaipur’s best specialty coffee cafes known for freshly roasted beans and high quality brews.",
+      "tips": "Great brunch or coffee break spot for cafe lovers.",
+      "fullAddress": "Curious Life Coffee Roasters, Saroj Market, C-Scheme, Jaipur",
+      "routeDetails": "Located in Saroj Market area of C-Scheme.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Curious+Life+Coffee+Roasters+Jaipur"
+    },
+
+    {
+      "shopName": "Chokhi Dhani Ethnic Village Resort",
+      "images": [
+        "jai_choki_1_pcx0lo",
+        "jai_choki_2_qliun8"
+      ],
+      "dishName": "Unlimited Traditional Rajasthani Meal",
+      "avgPrice": "₹800-₹1400",
+      "touristPlaceNearby": "Chokhi Dhani Cultural Village",
+      "distanceFromTouristPlace": "20-25 km from Pink City",
+      "description": "Chokhi Dhani offers a full Rajasthani cultural experience including traditional food, folk dance, camel rides and village activities.",
+      "tips": "Best dinner experience with cultural entertainment and unlimited Rajasthani meal.",
+      "fullAddress": "Chokhi Dhani Village Resort, Tonk Road, Jaipur",
+      "routeDetails": "Located on Tonk Road highway outside Jaipur city center.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Chokhi+Dhani+Jaipur"
+    }
+
+  ]
+}

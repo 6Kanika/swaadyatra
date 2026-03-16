@@ -1,5 +1,8 @@
 import Image from "next/image";
-import { MapPin } from "lucide-react";
+import { MapPin, User } from "lucide-react";
+
+const CLOUD = process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME;
+const cl = (id: string) => `https://res.cloudinary.com/${CLOUD}/image/upload/f_auto,q_auto,w_1600/${id}`;
 
 const stories = [
   {
@@ -7,10 +10,10 @@ const stories = [
     city: "Varanasi",
     food: "Banarasi Kachori",
     quote: "Tried Banarasi Kachori near Dashashwamedh Ghat. The food was incredibly authentic and the route guidance made it super easy to find the place.",
-    avatar: "https://randomuser.me/api/portraits/men/32.jpg",
-    foodImg: "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=1600&q=90",
+
+    foodImg: cl("amrit_sunny_1_sol0vt"),
     gradient: "from-black/80 via-black/40 to-transparent",
-    accent: "#FF9F1C",
+    accent: "#E23744",
     align: "items-end",
     textSide: "text-left",
   },
@@ -19,8 +22,8 @@ const stories = [
     city: "Amritsar",
     food: "Amritsari Kulcha",
     quote: "Found the best Kulcha near the Golden Temple through this website. It saved us so much time and the experience was truly unforgettable.",
-    avatar: "https://randomuser.me/api/portraits/women/44.jpg",
-    foodImg: "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600&q=90",
+
+    foodImg: cl("amrit_chungi_1_rxkj7x"),
     gradient: "from-black/80 via-black/40 to-transparent",
     accent: "#E23744",
     align: "items-start",
@@ -31,10 +34,10 @@ const stories = [
     city: "Hyderabad",
     food: "Hyderabadi Biryani",
     quote: "SwaadYatra led me to a tiny biryani shop near Charminar that locals swear by. Best biryani I've ever had — no tourist trap!",
-    avatar: "https://randomuser.me/api/portraits/women/68.jpg",
-    foodImg: "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=1600&q=90",
+
+    foodImg: cl("amrit_kesar_2_gc305z"),
     gradient: "from-black/80 via-black/40 to-transparent",
-    accent: "#FF9F1C",
+    accent: "#E23744",
     align: "items-end",
     textSide: "text-left",
   },
@@ -43,8 +46,8 @@ const stories = [
     city: "Delhi",
     food: "Chole Bhature",
     quote: "Discovered a legendary Chole Bhature stall in Chandni Chowk that's been running for 60 years. The app's directions were spot on.",
-    avatar: "https://randomuser.me/api/portraits/men/75.jpg",
-    foodImg: "https://images.unsplash.com/photo-1567337710282-00832b415979?w=1600&q=90",
+
+    foodImg: cl("delhi_sitaram_1_gpvt99"),
     gradient: "from-black/80 via-black/40 to-transparent",
     accent: "#E23744",
     align: "items-start",
@@ -55,10 +58,10 @@ const stories = [
     city: "Jaipur",
     food: "Dal Baati Churma",
     quote: "Had the most authentic Dal Baati Churma near Hawa Mahal. The food map on SwaadYatra is a game-changer for every food lover.",
-    avatar: "https://randomuser.me/api/portraits/women/12.jpg",
-    foodImg: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=1600&q=90",
+
+    foodImg: cl("JAI_natraj_2_dbca5l"),
     gradient: "from-black/80 via-black/40 to-transparent",
-    accent: "#FF9F1C",
+    accent: "#E23744",
     align: "items-end",
     textSide: "text-left",
   },
@@ -67,8 +70,8 @@ const stories = [
     city: "Lucknow",
     food: "Galouti Kebab",
     quote: "The Galouti Kebabs near Bara Imambara were melt-in-your-mouth perfection. I would never have found this place without SwaadYatra.",
-    avatar: "https://randomuser.me/api/portraits/men/54.jpg",
-    foodImg: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1600&q=90",
+
+    foodImg: cl("amrit_gurdas_1_bb11ui"),
     gradient: "from-black/80 via-black/40 to-transparent",
     accent: "#E23744",
     align: "items-start",
@@ -81,7 +84,7 @@ export default function StoryCards() {
     <section id="stories">
       {/* Section header */}
       <div className="bg-[#FFF8F0] text-center py-20 px-4">
-        <span className="text-[#FF9F1C] font-semibold uppercase tracking-widest text-sm">
+        <span className="text-[#E23744] font-semibold uppercase tracking-widest text-sm">
           Featured Experiences
         </span>
         <h2 className="text-4xl md:text-5xl font-extrabold text-gray-800 mt-3">
@@ -143,20 +146,9 @@ export default function StoryCards() {
               />
 
               {/* Author row */}
-              <div className={`flex items-center gap-4 ${s.textSide === "text-right" ? "flex-row-reverse" : ""}`}>
-                <div className="relative shrink-0">
-                  <Image
-                    src={s.avatar}
-                    alt={s.name}
-                    width={56}
-                    height={56}
-                    className="rounded-full object-cover ring-2 ring-white/30"
-                  />
-                  {/* Glow ring */}
-                  <div
-                    className="absolute -inset-1 rounded-full opacity-40 blur-sm"
-                    style={{ backgroundColor: s.accent }}
-                  />
+              <div className={`flex items-center gap-3 ${s.textSide === "text-right" ? "flex-row-reverse" : ""}`}>
+                <div className="w-10 h-10 rounded-full flex items-center justify-center shrink-0" style={{ backgroundColor: s.accent }}>
+                  <User className="w-5 h-5 text-white" />
                 </div>
                 <div className={s.textSide}>
                   <p className="text-white font-bold text-base">{s.name}</p>

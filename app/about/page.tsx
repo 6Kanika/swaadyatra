@@ -18,11 +18,30 @@ export const metadata: Metadata = {
     "SwaadYatra helps travelers discover the best street food spots, famous dishes, and authentic local eateries in every Indian city. Explore food while travelling across India.",
   keywords:
     "food travel India, street food guide India, best food spots in Indian cities, exploring food while travelling, tourist food discovery platform, famous dishes in Indian cities",
+  alternates: {
+    canonical: "https://www.swaadyatra.com/about",
+  },
   openGraph: {
     title: "About SwaadYatra – India's Food Travel Discovery Platform",
     description:
       "Discover authentic local food spots near India's top tourist destinations with SwaadYatra.",
+    url: "https://www.swaadyatra.com/about",
     type: "website",
+    images: [
+      {
+        url: "https://res.cloudinary.com/dinzfa92w/image/upload/f_auto,q_auto,w_1200/hero_sec_nltkkk",
+        width: 1200,
+        height: 630,
+        alt: "About SwaadYatra – India's Food Travel Discovery Platform",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "About SwaadYatra – India's Food Travel Discovery Platform",
+    description:
+      "Discover authentic local food spots near India's top tourist destinations with SwaadYatra.",
+    images: ["https://res.cloudinary.com/dinzfa92w/image/upload/f_auto,q_auto,w_1200/hero_sec_nltkkk"],
   },
 };
 
@@ -129,34 +148,19 @@ export default function AboutPage() {
       </section>
 
       {/* ── 4. VISION — wave top, same style as hero ── */}
-      <section
-        className="relative overflow-hidden"
-        style={{ background: "linear-gradient(135deg, #E23744 0%, #c72d38 50%, #a8232d 100%)" }}
-      >
+      <section className="relative overflow-hidden hero-gradient">
         {/* top-left highlight */}
-        <div
-          className="absolute top-0 left-0 w-[420px] h-[260px] pointer-events-none"
-          style={{
-            background:
-              "radial-gradient(ellipse at 20% 20%, rgba(255,255,255,0.15) 0%, transparent 70%)",
-          }}
-        />
+        <div className="absolute top-0 left-0 w-[420px] h-[260px] pointer-events-none glow-white-tl" />
         {/* yellow accent glow */}
-        <div
-          className="absolute bottom-10 right-10 w-48 h-48 pointer-events-none"
-          style={{
-            background: "radial-gradient(circle, rgba(255,193,7,0.18) 0%, transparent 70%)",
-            filter: "blur(24px)",
-          }}
-        />
+        <div className="absolute bottom-10 right-10 w-48 h-48 pointer-events-none glow-yellow-br" />
 
         {/* wave TOP edge — flipped vertically */}
-        <div className="absolute top-0 left-0 w-full leading-none" style={{ lineHeight: 0 }}>
+        <div className="absolute top-0 left-0 w-full leading-[0]">
           <svg
             viewBox="0 0 1440 80"
             xmlns="http://www.w3.org/2000/svg"
             preserveAspectRatio="none"
-            style={{ width: "100%", height: "80px", display: "block", transform: "scaleY(-1)" }}
+            className="block w-full h-[80px] scale-y-[-1]"
           >
             <path
               className="wave-path"
@@ -164,10 +168,9 @@ export default function AboutPage() {
               fill="rgba(255,255,255,0.20)"
             />
             <path
-              className="wave-path"
+              className="wave-path wave-path-delayed"
               d="M0,32 C180,80 360,-16 540,32 C720,80 900,-16 1080,32 C1260,80 1440,-16 1440,32 L1440,80 L0,80 Z"
               fill="#f9fafb"
-              style={{ animationDelay: "0.6s" }}
             />
           </svg>
         </div>
@@ -177,7 +180,7 @@ export default function AboutPage() {
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-5">Our Vision</h2>
           <p className="text-xl md:text-2xl leading-relaxed text-white/90 mb-8">
             To become{" "}
-            <strong style={{ color: "#FFC107" }}>
+            <strong className="text-[#FFC107]">
               India&apos;s most trusted food exploration platform for travelers
             </strong>{" "}
             — a place where food culture, tourism, and local discovery come together seamlessly.

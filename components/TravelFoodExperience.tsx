@@ -2,69 +2,60 @@
 
 import Link from "next/link";
 
-export default function TravelFoodExperience() {
-  const stories = [
+const stories = [
     {
       name: "Priya Sharma",
       location: "Varanasi",
       food: "Banarasi Kachori",
       quote: "The crispy kachoris at the ghats made my morning unforgettable!",
-      avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
     },
     {
       name: "Rahul Verma",
       location: "Amritsar",
       food: "Amritsari Kulcha",
       quote: "After Golden Temple, the kulcha at local dhaba was pure heaven!",
-      avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
     },
     {
       name: "Ananya Patel",
       location: "Mumbai",
       food: "Vada Pav",
       quote: "The vada pav near Marine Drive was so good, I had three in one go!",
-      avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
     },
     {
       name: "Arjun Singh",
       location: "Hyderabad",
       food: "Hyderabadi Biryani",
       quote: "Paradise Biryani was worth every bit of the hype. Absolutely divine!",
-      avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
     },
     {
       name: "Sneha Reddy",
       location: "Lucknow",
       food: "Tunday Kabab",
       quote: "Melt-in-mouth kababs at Tunday Kababi - a royal feast experience!",
-      avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
     },
     {
       name: "Vikram Malhotra",
       location: "Jaipur",
       food: "Dal Baati Churma",
       quote: "Exploring Pink City and ending with dal baati churma was magical!",
-      avatar: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80",
     },
     {
       name: "Meera Kapoor",
       location: "Delhi",
       food: "Chole Bhature",
       quote: "The fluffy bhature at Sitaram's is the best breakfast in Delhi!",
-      avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&q=80",
     },
     {
       name: "Karan Desai",
       location: "Kolkata",
       food: "Kathi Roll",
       quote: "Nizam's kathi rolls are legendary - perfectly spiced and wrapped!",
-      avatar: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400&q=80",
     },
-  ];
+];
 
-  // Duplicate stories for seamless infinite loop
-  const loopedStories = [...stories, ...stories];
+const loopedStories = [...stories, ...stories];
 
+export default function TravelFoodExperience() {
   return (
     <section className="py-12 md:py-16 bg-[#FFFBF0] overflow-hidden">
       <div className="container mx-auto px-4">
@@ -106,11 +97,8 @@ export default function TravelFoodExperience() {
             >
               {/* Visitor Info */}
               <div className="flex items-center gap-3 mb-4">
-                <div className="w-14 h-14 rounded-full overflow-hidden ring-2 ring-[#E23744] shadow-md flex-shrink-0">
-                  <div
-                    className="w-full h-full bg-cover bg-center"
-                    style={{ backgroundImage: `url(${story.avatar})` }}
-                  />
+                <div className="w-10 h-10 rounded-full bg-[#E23744] flex items-center justify-center flex-shrink-0">
+                  <span className="text-white font-bold text-sm">{story.name.charAt(0)}</span>
                 </div>
                 <div className="flex-1 min-w-0">
                   <h3 className="text-base font-bold text-gray-800 truncate">{story.name}</h3>
@@ -158,6 +146,7 @@ export default function TravelFoodExperience() {
         .marquee-track {
           animation: marquee 30s linear infinite;
           width: max-content;
+          will-change: transform;
         }
         .marquee-track:hover {
           animation-play-state: paused;

@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import FeaturedCities from "@/components/FeaturedCities";
@@ -6,10 +7,48 @@ import TravelFoodExperience from "@/components/TravelFoodExperience";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import { Store } from "lucide-react";
+import { websiteSchema } from "@/lib/jsonld";
+
+export const metadata: Metadata = {
+  title: "SwaadYatra – Discover the Best Street Food in Every Indian City",
+  description:
+    "Explore the most famous street food spots, iconic local dishes, and authentic eateries near top tourist places across India. Your ultimate food travel guide by SwaadYatra.",
+  keywords:
+    "best street food India, food travel guide, famous food spots India, street food near tourist places, authentic Indian food, food discovery India, best food in Delhi, best food in Jaipur, best food in Amritsar",
+  alternates: {
+    canonical: "https://www.swaadyatra.com",
+  },
+  openGraph: {
+    title: "SwaadYatra – Discover the Best Street Food in Every Indian City",
+    description:
+      "Explore famous street food, iconic local dishes, and authentic eateries near top tourist places across India.",
+    url: "https://www.swaadyatra.com",
+    type: "website",
+    images: [
+      {
+        url: "https://res.cloudinary.com/dinzfa92w/image/upload/f_auto,q_auto,w_1200/hero_sec_nltkkk",
+        width: 1200,
+        height: 630,
+        alt: "SwaadYatra – India's Best Street Food Discovery Platform",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "SwaadYatra – Discover the Best Street Food in Every Indian City",
+    description:
+      "Explore famous street food, iconic local dishes, and authentic eateries near top tourist places across India.",
+    images: ["https://res.cloudinary.com/dinzfa92w/image/upload/f_auto,q_auto,w_1200/hero_sec_nltkkk"],
+  },
+};
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema()) }}
+      />
       <Navbar />
       <Hero />
       <FeaturedCities />
@@ -40,7 +79,7 @@ export default function Home() {
               </p>
             </div>
             <div className="flex-shrink-0">
-              <Link href="/contact">
+              <Link href="/contact#vendor-listing">
                 <span className="inline-flex items-center gap-2 bg-white text-[#E23744] hover:bg-gray-100 font-bold px-8 py-4 rounded-xl transition-all duration-300 hover:shadow-lg hover:-translate-y-0.5 text-base cursor-pointer">
                   <Store className="w-5 h-5" />
                   Apply For Listing

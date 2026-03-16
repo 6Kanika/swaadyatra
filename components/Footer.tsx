@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Facebook, Instagram, Twitter, Youtube, Mail, Phone, MapPin } from "lucide-react";
+import { Linkedin, Instagram, Twitter, Youtube, Mail, MapPin } from "lucide-react";
 
 export default function Footer() {
   const quickLinks = [
@@ -17,7 +17,7 @@ export default function Footer() {
   ];
 
   const socialLinks = [
-    { icon: Facebook, href: "#", label: "Facebook" },
+    { icon: Linkedin, href: "#", label: "LinkedIn" },
     { icon: Instagram, href: "#", label: "Instagram" },
     { icon: Twitter, href: "#", label: "Twitter" },
     { icon: Youtube, href: "#", label: "YouTube" },
@@ -30,9 +30,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-10">
           {/* Logo and Description */}
           <div className="lg:col-span-1">
-            <h2 className="text-2xl md:text-3xl font-bold text-[#E23744] mb-4">
+            <span className="text-2xl md:text-3xl font-bold text-[#E23744] mb-4 block">
               SwaadYatra
-            </h2>
+            </span>
             <p className="text-gray-400 text-sm leading-relaxed mb-6">
               Discover the best food spots near India's most famous tourist destinations. 
               Your journey to authentic flavors starts here.
@@ -41,15 +41,11 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-3 text-gray-400 text-sm">
                 <Mail className="w-4 h-4 text-[#E23744]" />
-                <span>info@swaadyatra.com</span>
-              </div>
-              <div className="flex items-center gap-3 text-gray-400 text-sm">
-                <Phone className="w-4 h-4 text-[#E23744]" />
-                <span>+91 98765 43210</span>
+                <span>swaadyatraa@gmail.com</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400 text-sm">
                 <MapPin className="w-4 h-4 text-[#E23744]" />
-                <span>New Delhi, India</span>
+                <span>Greater Noida, India</span>
               </div>
             </div>
           </div>
@@ -111,20 +107,7 @@ export default function Footer() {
               ))}
             </div>
 
-            {/* Newsletter */}
-            <div>
-              <h4 className="text-sm font-semibold mb-3 text-white">Subscribe to Newsletter</h4>
-              <div className="flex gap-2">
-                <input
-                  type="email"
-                  placeholder="Your email"
-                  className="flex-1 px-3 py-2 bg-gray-800 border border-gray-700 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-[#E23744] focus:border-transparent"
-                />
-                <button className="bg-[#E23744] hover:bg-[#c72d38] px-4 py-2 rounded-lg transition-colors text-sm font-semibold">
-                  Subscribe
-                </button>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>
@@ -142,6 +125,9 @@ export default function Footer() {
               </Link>
               <Link href="/terms" className="text-gray-400 hover:text-[#E23744] transition-colors">
                 Terms of Service
+              </Link>
+              <Link href="/disclaimer" className="text-gray-400 hover:text-[#E23744] transition-colors">
+                Disclaimer
               </Link>
               <Link href="/sitemap" className="text-gray-400 hover:text-[#E23744] transition-colors">
                 Sitemap

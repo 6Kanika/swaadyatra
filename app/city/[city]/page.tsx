@@ -5,6 +5,8 @@ import path from "path";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import FoodSpotCard, { FoodSpot } from "@/components/city/FoodSpotCard";
+import FloatingReviews from "@/components/city/FloatingReviews";
+import { cityPageSchema } from "@/lib/jsonld";
 
 interface CityData {
   city: string;
@@ -31,10 +33,34 @@ export async function generateMetadata({
   if (!data) return { title: "City Not Found" };
 
   const { city } = data;
+  const ogImage = `https://res.cloudinary.com/dinzfa92w/image/upload/f_auto,q_auto,w_1200/${data.foodSpots[0]?.images[0]}`;
   return {
     title: `Best Food in ${city} | Famous Street Food & Restaurants Near Tourist Places – SwaadYatra`,
     description: `Discover the best food spots in ${city}. Explore famous street food, iconic restaurants, and must-try dishes near top tourist places in ${city}. Your complete ${city} food guide by SwaadYatra.`,
     keywords: `best food in ${city}, famous food spots ${city}, street food near tourist places ${city}, ${city} restaurants, ${city} food guide`,
+    alternates: {
+      canonical: `https://www.swaadyatra.com/city/${citySlug}`,
+    },
+    openGraph: {
+      title: `Best Food in ${city} | Famous Street Food & Restaurants – SwaadYatra`,
+      description: `Explore famous street food, iconic restaurants, and must-try dishes near top tourist places in ${city}.`,
+      url: `https://www.swaadyatra.com/city/${citySlug}`,
+      type: "website",
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+          alt: `Best food spots in ${city} – SwaadYatra`,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `Best Food in ${city} | Famous Street Food – SwaadYatra`,
+      description: `Explore famous street food and must-try dishes near top tourist places in ${city}.`,
+      images: [ogImage],
+    },
   };
 }
 
@@ -51,8 +77,39 @@ export default async function CityPage({
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(cityPageSchema(city, citySlug, foodSpots)) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              { "@type": "ListItem", position: 1, name: "Home", item: "https://www.swaadyatra.com" },
+              { "@type": "ListItem", position: 2, name: "Cities", item: "https://www.swaadyatra.com" },
+              { "@type": "ListItem", position: 3, name: city, item: `https://www.swaadyatra.com/city/${citySlug}` },
+            ],
+          }),
+        }}
+      />
       <Navbar />
       <main>
+        {/* Breadcrumb */}
+        <nav aria-label="Breadcrumb" className="bg-white border-b border-gray-100">
+          <div className="container mx-auto max-w-5xl px-4 py-2.5">
+            <ol className="flex items-center gap-1.5 text-sm text-gray-500">
+              <li><a href="/" className="hover:text-[#E23744] transition-colors">Home</a></li>
+              <li className="select-none">›</li>
+              <li><span className="hover:text-[#E23744] transition-colors">Cities</span></li>
+              <li className="select-none">›</li>
+              <li className="text-[#E23744] font-medium" aria-current="page">{city}</li>
+            </ol>
+          </div>
+        </nav>
+
         {/* Hero heading section */}
         <header className="bg-gradient-to-br from-[#E23744] to-[#c72d38] text-white py-12 md:py-16 px-4">
           <div className="container mx-auto max-w-3xl text-center">
@@ -78,23 +135,7 @@ export default async function CityPage({
           ))}
         </section>
 
-        {/* City food review / SEO section */}
-        <section
-          aria-label={`${city} food culture`}
-          className="bg-orange-50 border-t border-orange-100 py-12 md:py-16 px-4"
-        >
-          <div className="container mx-auto max-w-3xl text-center">
-            <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
-              Explore the Food Culture of {city}
-            </h2>
-            <p className="text-gray-700 text-base md:text-lg leading-relaxed mb-4">
-              {city} is a city where every lane tells a culinary story. The best food in {city} is deeply rooted in its heritage, culture, and the warmth of its people. Whether you are a street food lover hunting for famous food spots near tourist places or a traveler seeking authentic local dining experiences, {city} never disappoints.
-            </p>
-            <p className="text-gray-700 text-base md:text-lg leading-relaxed">
-              The street food near tourist places in {city} offers an unmatched blend of taste and tradition. Every spot listed above has been curated to help you experience the true soul of {city} through its food. SwaadYatra brings you the most trusted, traveler-verified food guide so your journey is as delicious as it is memorable.
-            </p>
-          </div>
-        </section>
+        <FloatingReviews />
       </main>
       <Footer />
     </>

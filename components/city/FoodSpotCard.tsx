@@ -28,9 +28,9 @@ export default function FoodSpotCard({ spot, index }: { spot: FoodSpot; index: n
         {/* Content — right on desktop, bottom on mobile */}
         <div className="p-5 md:p-6 flex flex-col gap-3">
           {/* Shop name */}
-          <h2 className="text-xl md:text-2xl font-bold text-gray-900 leading-tight">
+          <h3 className="text-xl md:text-2xl font-bold text-gray-900 leading-tight">
             <span className="text-[#E23744]">#{index + 1}</span> {spot.shopName}
-          </h2>
+          </h3>
 
           {/* Dish name */}
           <p className="text-sm font-semibold text-[#E23744] uppercase tracking-wide">

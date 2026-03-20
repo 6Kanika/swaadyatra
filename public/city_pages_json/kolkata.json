@@ -1,0 +1,234 @@
+{
+  "city": "Kolkata",
+  "hero": {
+    "tagline": "The City of Joy serves timeless flavours — from iconic Rasgulla to spicy Kathi Rolls on Park Street.",
+    "highlights": [
+      "15 curated food spots across Kolkata's iconic landmarks",
+      "Authentic Bengali sweets, Misal Pav & Irani chai near Victoria Memorial & Park Street",
+      "From Bara Bazar chaat to heritage Irani cafés in Bhawanipur"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Flurys",
+      "images": [
+        "kol_flurys_1_oelctm",
+        "kol_flurys_2_joc7qd"
+      ],
+      "dishName": "English Breakfast (Vegan English Breakfast), Sourdough Bread, Baked Beans, Sauteed Mushrooms, Hash Brown, Scrambled Tofu, Fresh Fruit Bowl, Watermelon Juice, Latte Coffee",
+      "avgPrice": "₹900 per person approx",
+      "touristPlaceNearby": "Park Street",
+      "distanceFromTouristPlace": "~0.3 km from Park Street Metro Station",
+      "description": "Flurys is one of the most iconic breakfast cafés in Kolkata and a must-visit food destination near Park Street. Famous for its classic English breakfast, bakery items, and vintage European café vibe, this legendary restaurant is among the best food places in Kolkata for tourists exploring top tourist locations of Kolkata.",
+      "tips": "Best visited in the morning for breakfast to enjoy their famous English breakfast with coffee and the classic heritage café vibe.",
+      "fullAddress": "18A, Park St, Park Street area, Kolkata, West Bengal 700016, India",
+      "routeDetails": "From Park Street Metro Station walk towards Park Street main road for around 3–4 minutes to reach Flurys.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Flurys+18A+Park+Street+Kolkata"
+    },
+    {
+      "shopName": "6 Ballygunge Place",
+      "images": [
+        "kol_bapa_1_ebn9fo"
+      ],
+      "dishName": "Radha Ballavi, Bapa Doi (Traditional Bengali Dessert), Authentic Bengali Vegetarian Dishes",
+      "avgPrice": "₹600–₹800 per person",
+      "touristPlaceNearby": "Ballygunge Area",
+      "distanceFromTouristPlace": "~1 km from Ballygunge Phari",
+      "description": "6 Ballygunge Place is one of the best restaurants in Kolkata for authentic Bengali cuisine. Known for traditional dishes like Radha Ballavi and the famous Bengali dessert Bapa Doi, this restaurant is a top food destination for travelers searching for the best food to try in Kolkata.",
+      "tips": "Visit during lunch time to enjoy a full Bengali meal and do not miss their signature Bapa Doi dessert.",
+      "fullAddress": "6, Ballygunge Place, Ballygunge, Kolkata, West Bengal 700019, India",
+      "routeDetails": "From Ballygunge Phari crossing take Ballygunge Place road and walk or take a short auto ride to reach the restaurant.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=6+Ballygunge+Place+Restaurant+Kolkata"
+    },
+    {
+      "shopName": "Anand Restaurant",
+      "images": [
+        "kol_anand_1_mcjczy",
+        "kol_anand_2_md8iqr"
+      ],
+      "dishName": "Wafer Dosa, Onion Rava Dosa, Mix Uttapam, Idli Finger Chips, Idli, Vada, Rava Upma, Dahi Vada, Filter Coffee",
+      "avgPrice": "₹250–₹350 per person",
+      "touristPlaceNearby": "Chandni Chowk",
+      "distanceFromTouristPlace": "~0.2 km from Chandni Chowk Metro Station",
+      "description": "Anand Restaurant is one of the most famous South Indian food restaurants in Kolkata located near Chandni Chowk market. Known for crispy wafer dosa, onion rava dosa, uttapam and filter coffee, this legendary spot is a must-visit for tourists searching for the best South Indian food in Kolkata.",
+      "tips": "Perfect for breakfast or evening snacks. Definitely try their wafer dosa with filter coffee.",
+      "fullAddress": "Chandni Chowk Market Area, Central Avenue, Chandni Chawk, Kolkata, West Bengal 700072, India",
+      "routeDetails": "Exit Chandni Chowk Metro Station and walk towards Central Avenue market lane where Anand Restaurant is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Anand+Restaurant+Chandni+Chowk+Central+Avenue+Kolkata"
+    },
+    {
+      "shopName": "KC Das",
+      "images": [
+        "kol_kc_1_xwzdsx",
+        "kol_kc_2_hnhwoz"
+      ],
+      "dishName": "Rasgulla, Rajbhog (Kesar Rajbhog), Giant Rasgulla",
+      "avgPrice": "₹100–₹200",
+      "touristPlaceNearby": "Esplanade / New Market",
+      "distanceFromTouristPlace": "~0.3 km from Esplanade Metro Station",
+      "description": "KC Das is one of the most legendary sweet shops in Kolkata and is widely associated with the iconic Bengali dessert Rasgulla. Located near the Esplanade tourist district, it is a must-visit for travelers looking for the best sweets in Kolkata.",
+      "tips": "Visit after exploring New Market or Esplanade and try their iconic rasgulla or rajbhog.",
+      "fullAddress": "11, Esplanade Row West, Dharmatala, Esplanade, Kolkata, West Bengal 700069, India",
+      "routeDetails": "From Esplanade Metro Station walk towards Dharmatala crossing and Esplanade Row West where the iconic KC Das sweet shop is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=KC+Das+Esplanade+Row+West+Kolkata"
+    },
+    {
+      "shopName": "Tiwari Brothers",
+      "images": [
+        "kol_tiwari_1_ar17dv",
+        "kol_tiwari_2_pwl4rn"
+      ],
+      "dishName": "Raj Kachori, Chole Bhature, Chole Tikki, Kaju Katli, Kaju Anjeer Sweet, Desi Ghee Laddu, Son Papdi, Kaju Roll, Imarti, Malai Kulfi Falooda",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Bara Bazar Market",
+      "distanceFromTouristPlace": "~0.6 km from MG Road Metro Station",
+      "description": "Tiwari Brothers is one of the most famous chaat and sweet shops in Bara Bazar Kolkata. The place is widely known for its giant Raj Kachori, Chole Bhature, Chole Tikki and traditional North Indian chaat. Apart from snacks, the shop is extremely popular for desi ghee sweets and refreshing kulfi falooda.",
+      "tips": "Try the giant Raj Kachori first, then Chole Bhature, and finish with Malai Kulfi or sweets.",
+      "fullAddress": "34, Kali Krishna Tagore St, Bara Bazar, Jorasanko, Kolkata, West Bengal 700007, India",
+      "routeDetails": "From MG Road Metro Station walk towards the busy Bara Bazar wholesale market area through Kali Krishna Tagore Street.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Tiwari+Brothers+Kali+Krishna+Tagore+Street+Bara+Bazar+Kolkata"
+    },
+    {
+      "shopName": "Vardaan Chilla Stall",
+      "images": [
+        "kol_vardaan_1_lsa6gh",
+        "kol_vardaan_2_qanjbe"
+      ],
+      "dishName": "Paneer Cheese Chilla, Moong Dal Chilla",
+      "avgPrice": "₹80–₹130",
+      "touristPlaceNearby": "Victoria Memorial",
+      "distanceFromTouristPlace": "~1 km",
+      "description": "One of the best street food spots in Kolkata near Camac Street, famous for crispy Moong Dal Chilla and Paneer Cheese Chilla cooked on large iron tawa. Locals visit this place after shopping in Vardaan Market. This stall is popular among tourists exploring best food to try in Kolkata.",
+      "tips": "Visit during evening hours when the market is lively and the chillas are freshly prepared.",
+      "fullAddress": "Vardaan Market, Camac Street, Kolkata, West Bengal, India",
+      "routeDetails": "From Victoria Memorial, head towards Camac Street and enter Vardaan Market food lane where the stall is located outside the shopping market.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Vardaan+Market+Camac+Street+Kolkata"
+    },
+    {
+      "shopName": "Victoria Bada Stall",
+      "images": [
+        "kol_victoria_2_yierib"
+      ],
+      "dishName": "Victoria Bada, Kanji Bada",
+      "avgPrice": "₹30–₹40",
+      "touristPlaceNearby": "Victoria Memorial",
+      "distanceFromTouristPlace": "~1 km",
+      "description": "A must-try food in Kolkata originating near Victoria Memorial. Victoria Bada are crispy moong dal fritters served with tangy chutney and fermented kanji water. This iconic snack is considered one of the top tourist street foods in Kolkata that you should not miss while exploring the city's evening food markets.",
+      "tips": "Try it with kanji water for authentic taste; slightly sour water enhances flavor.",
+      "fullAddress": "Vardaan Market Street Food Lane, Camac Street, Kolkata, West Bengal, India",
+      "routeDetails": "Walk from Victoria Memorial towards Camac Street and enter Vardaan Market street food area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Victoria+Bada+Stall+Vardaan+Market+Camac+Street+Kolkata"
+    },
+    {
+      "shopName": "Sharma Tea Stall",
+      "images": [
+        "kol_sharma_1_uwua3h",
+        "kol_sharma_2_tm6qh0"
+      ],
+      "dishName": "Club Kachori, Badi Kachori, Aloo Sabzi, Jalebi, Gulab Jamun, Kesar Chai",
+      "avgPrice": "₹30–₹80",
+      "touristPlaceNearby": "Kalighat Temple",
+      "distanceFromTouristPlace": "~1.5 km",
+      "description": "One of the most famous breakfast spots in Kolkata, known for Club Kachori and Badi Kachori served with spicy aloo sabzi. The stall is extremely popular among locals and tourists looking for best breakfast in Kolkata along with Kesar Chai, Jalebi and Gulab Jamun. A must-visit stop while exploring Bhawanipur food street.",
+      "tips": "Visit before noon to try Club Kachori as it sells out quickly.",
+      "fullAddress": "Near Bhawanipur Gurudwara, Bhawanipur, Kolkata, West Bengal, India",
+      "routeDetails": "From Kalighat Temple head towards Bhawanipur Gurudwara; Sharma Tea Stall is located just beside the Gurudwara.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sharma+Tea+Stall+Bhawanipur+Gurudwara+Kolkata"
+    },
+    {
+      "shopName": "Balwant Singh Eating House",
+      "images": [
+        "kol_balbant_1_yksl2f",
+        "kol_balbant_2_sgds16"
+      ],
+      "dishName": "Doodh Cola (Milk + Cola Soda Drink)",
+      "avgPrice": "₹80–₹120",
+      "touristPlaceNearby": "Kalighat Temple",
+      "distanceFromTouristPlace": "~1.6 km",
+      "description": "A 100-year-old iconic drink shop in Kolkata famous for the unusual Doodh Cola – a mix of chilled milk, sugar and cola soda. This unique beverage attracts tourists searching for unique food experiences in Kolkata and is considered one of the most unusual must-try drinks in Kolkata street food culture.",
+      "tips": "First-time visitors should try the original milk cola before experimenting with other variations.",
+      "fullAddress": "Near Bhawanipur Gurudwara, Bhawanipur, Kolkata, West Bengal, India",
+      "routeDetails": "From Bhawanipur Gurudwara walk a few steps ahead; the shop is located on the same street.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Balwant+Singh+Eating+House+Bhawanipur+Kolkata"
+    },
+    {
+      "shopName": "Kaidi Kitchen",
+      "images": [
+        "kol_kaidi_1_hhejlv",
+        "kol_kaidi_2_o441by"
+      ],
+      "dishName": "Cream Cheese Dimsum, Corn Cheese Balls",
+      "avgPrice": "₹200–₹400",
+      "touristPlaceNearby": "Park Street",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "A unique jail-themed restaurant in Kolkata known for its immersive ambience and café style food. Popular dishes include cream cheese dimsum and corn cheese balls. It is a fun dining experience for tourists exploring Park Street nightlife and themed restaurants in Kolkata.",
+      "tips": "Visit with friends to enjoy the themed ambience and try multiple small dishes.",
+      "fullAddress": "Camac Street Area, Near Park Street, Kolkata, West Bengal, India",
+      "routeDetails": "From Park Street walk towards Camac Street; the restaurant is located in the commercial area with a prison-themed interior.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Kaidi+Kitchen+Camac+Street+Kolkata"
+    },
+    {
+      "shopName": "Balaram Mullick & Radharaman Mullick",
+      "images": [
+        "kol_balarm_1_r1t3bw",
+        "kol_balarm_2_dgy9lm"
+      ],
+      "dishName": "Baked Rasgulla, Baked Kalakand, Mango Sandesh, Blueberry Sandesh, Jalbhara Nolen Gur Sandesh, Kesar Malai Sandesh, Tre Leches Sandesh, Dab Sandesh, Mishti Doi",
+      "avgPrice": "₹25–₹150",
+      "touristPlaceNearby": "Kalighat Temple",
+      "distanceFromTouristPlace": "~1.7 km",
+      "description": "One of the most iconic sweet shops in Kolkata known for reinventing traditional Bengali sweets. Their Baked Rasgulla and Nolen Gur Sandesh are globally famous and a must-try for tourists exploring best sweets in Kolkata. The shop offers hundreds of varieties including fusion desserts like blueberry sandesh and tre leches sandesh.",
+      "tips": "Try baked rasgulla and nolen gur sandesh first as they are the signature items.",
+      "fullAddress": "2A, Paddapukur Road, Bhawanipur, Kolkata, West Bengal, India",
+      "routeDetails": "From Kalighat Temple travel towards Bhawanipur via Sarat Bose Road; the famous sweet shop is located near Paddapukur Road.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Balaram+Mullick+Radharaman+Mullick+Paddapukur+Road+Kolkata"
+    },
+    {
+      "shopName": "Suraj Chaat Stall",
+      "images": [
+        "kol_suraj_1_cwgj3t"
+      ],
+      "dishName": "Suji Puchka (Semolina Golgappa), Aata Puchka",
+      "avgPrice": "₹30",
+      "touristPlaceNearby": "Howrah Bridge",
+      "distanceFromTouristPlace": "~2 km from Howrah Bridge",
+      "description": "A hidden gem for Delhi-style suji golgappa in Kolkata. While Kolkata is famous for atta puchka, this stall serves crunchy suji puchka with tangy raw mango water, making it a unique stop for travelers exploring Burrabazar street food in Kolkata.",
+      "tips": "Try suji puchka with raw mango water for the best flavor.",
+      "fullAddress": "Opposite Mahima Saree Store, Burrabazar, Kolkata, West Bengal, India",
+      "routeDetails": "From Howrah Bridge head towards Burrabazar market and locate Mahima Saree store; the chaat stall is right opposite it.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Suraj+Chaat+Stall+Burrabazar+Kolkata"
+    },
+    {
+      "shopName": "Momo Aunty Stall",
+      "images": [
+        "kol_momo_1_odu22a",
+        "kol_momo_2_qfvl6z"
+      ],
+      "dishName": "Soyabean Momos, Atta Momos, Veg Momos with Soup",
+      "avgPrice": "₹40–₹80",
+      "touristPlaceNearby": "Sovabazar Rajbari",
+      "distanceFromTouristPlace": "~3 km",
+      "description": "A famous local momo stall in Kolkata known for healthier atta momos and soyabean momos served with spicy chutney and hot soup. The stall is popular among students and locals looking for budget street food in Kolkata and offers a unique twist compared to regular maida momos.",
+      "tips": "Ask for extra spicy momo chutney and enjoy with the complimentary soup.",
+      "fullAddress": "Bangur Avenue Street Food Lane, Kolkata, West Bengal, India",
+      "routeDetails": "From Sovabazar area travel towards Bangur Avenue market where the momo stall is located in the evening street food lane.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Momo+Aunty+Stall+Bangur+Avenue+Kolkata"
+    },
+    {
+      "shopName": "Balaji South Indian Food",
+      "images": [
+        "kol_balaji_1_saszsh",
+        "kol_balaji_2_pei62j"
+      ],
+      "dishName": "Dip Idli, Dip Vada, Masala Dosa",
+      "avgPrice": "₹50–₹120",
+      "touristPlaceNearby": "Lake Town Clock Tower",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "A popular South Indian breakfast spot in Lake Town Kolkata known for its unique Dip Idli and Dip Vada soaked in hot sambar. The dishes are extremely light and flavorful, making it a great place for those searching for authentic South Indian food in Kolkata.",
+      "tips": "Ask specifically for 'Dip Idli / Dip Vada' as it is the specialty style served in sambar.",
+      "fullAddress": "Lake Town Market Area, Near Lake Town Clock Tower, Kolkata, West Bengal, India",
+      "routeDetails": "From Lake Town Clock Tower walk towards the Lake Town market street food lane where the shop is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Balaji+South+Indian+Food+Lake+Town+Kolkata"
+    }
+  ]
+}

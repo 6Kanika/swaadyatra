@@ -1,0 +1,241 @@
+{
+  "city": "Pune",
+  "hero": {
+    "tagline": "The Oxford of the East serves soulful flavours — from spicy Misal Pav to heritage Irani chai.",
+    "highlights": [
+      "14 curated food spots across Pune's iconic landmarks",
+      "Authentic Maharashtrian thalis, Misal Pav & Irani chai near Shaniwar Wada & FC Road",
+      "From Zaveri Bazaar-style khau gallis to Bandra-style café culture in Koregaon Park"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Suraj South Indian Breakfast Stall",
+      "images": [
+        "Pune_shrinath1_cwkzc2",
+        "Pune_shrinath2_k3zuc5"
+      ],
+      "dishName": "Idli, Vada, Upma, Plain Dosa, Batata Vada, Idli Fry with Sambar & Coconut Chutney",
+      "avgPrice": "₹30–₹50",
+      "touristPlaceNearby": "Pune Railway Station",
+      "distanceFromTouristPlace": "~300–500 m from Pune Railway Station",
+      "description": "One of the oldest breakfast stalls in Pune, running for more than 70 years, famous among locals for authentic South Indian breakfast. Travelers visiting top tourist places near Pune Railway Station often stop here for a light and affordable morning meal. Their soft idli, crispy vada, fresh upma, and simple dosa served with hot sambar and coconut chutney make it one of the best food spots to try in Pune for breakfast.",
+      "tips": "Visit early morning as items sell out quickly. Best combo: Idli + Vada mix plate. Stall usually closes by afternoon.",
+      "fullAddress": "Near hospital beside Pune Railway Station, Pune, Maharashtra, India",
+      "routeDetails": "Walk from Pune Railway Station towards the nearby hospital area; inside the local street market you will find the crowded breakfast stall.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Suraj+South+Indian+Breakfast+Stall+Pune+Railway+Station"
+    },
+    {
+      "shopName": "Darpan Misal",
+      "images": [
+        "Pune_darpan1_edcfuc",
+        "Pune_darpan2_mkf1hg"
+      ],
+      "dishName": "Misal Pav (Matki Sprouts Misal with Tari, Sev, Onion, Tomato, Pav, Salad)",
+      "avgPrice": "₹80",
+      "touristPlaceNearby": "Shaniwar Wada",
+      "distanceFromTouristPlace": "~2 km from Shaniwar Wada",
+      "description": "A legendary Pune street food destination famous for its authentic Misal Pav, one of the most iconic foods to try in Pune. Cooked traditionally on a coal sigdi, the spicy matki sprout curry with fiery tari, farsan, onion, and soft pav attracts locals daily. Food lovers visiting historic tourist places like Shaniwar Wada often come here to experience Pune's most famous breakfast dish.",
+      "tips": "Ask for medium spicy if you are not used to very spicy food. Can add extra spicy chutney if you like strong flavors.",
+      "fullAddress": "Sonawane Chowk, Raviwar Peth, Pune, Maharashtra, India",
+      "routeDetails": "From Shaniwar Wada take an auto or walk toward Raviwar Peth market area; Sonawane Chowk is a well-known local junction where the shop is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Darpan+Misal+Sonawane+Chowk+Raviwar+Peth+Pune"
+    },
+    {
+      "shopName": "Local Sabudana Vada Stall",
+      "images": [
+        "Pune_vidya1_p9xb6h",
+        "Pune_vidya2_axhguf"
+      ],
+      "dishName": "Sabudana Vada (with peanut chutney, cucumber yogurt chutney)",
+      "avgPrice": "₹50 per plate",
+      "touristPlaceNearby": "Shaniwar Wada",
+      "distanceFromTouristPlace": "~1.5 km from Shaniwar Wada",
+      "description": "A popular Pune fasting street food spot known for its crispy Sabudana Vada, a Maharashtrian favorite made from sago, peanuts, potato, and spices. Served with sweet-spicy peanut chutney and cucumber yogurt chutney, it is loved by both locals and tourists exploring traditional food streets of Pune.",
+      "tips": "Fresh vadas are fried continuously, so ask for hot ones straight from the fryer. Perfect snack while exploring nearby markets.",
+      "fullAddress": "307 Rasta Peth, Khau Galli, Opposite Hospital, Pune, Maharashtra, India",
+      "routeDetails": "From Shaniwar Wada head toward Rasta Peth market area; the famous Khau Galli street food lane has the stall opposite a hospital.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sabudana+Vada+Stall+Rasta+Peth+Khau+Galli+Pune"
+    },
+    {
+      "shopName": "Vikas Home-Style Veg Food Stall",
+      "images": [
+        "Pune_kaka1_vy8w2f",
+        "Pune_kaka2_voozwf"
+      ],
+      "dishName": "Maharashtrian Veg Thali (Masoor Dal, Methi Dal, Matki Sprouts Curry, Chana Curry, Farsan Bhaji, Sev Curry, Masala Rice, Chapati, Papad)",
+      "avgPrice": "₹70",
+      "touristPlaceNearby": "Shaniwar Wada",
+      "distanceFromTouristPlace": "~6 km from Shaniwar Wada",
+      "description": "A hidden gem for authentic Maharashtrian home-style food in Pune. This place serves a budget-friendly traditional veg thali featuring local Pune specialties like matki sprouts curry, masoor dal, methi dal, farsan bhaji, sev curry, masala rice, and fresh chapatis. Tourists searching for local cuisine near Pune tourist attractions love this spot for the experience of traditional homemade Maharashtrian meals.",
+      "tips": "Food is freshly cooked by local women, so expect simple but authentic flavors. Best for lunch time visits.",
+      "fullAddress": "Vikas area, Karve Nagar, Pune, Maharashtra, India",
+      "routeDetails": "From Deccan area take a rickshaw or bus to Karve Nagar; the stall is in the Vikas locality.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Vikas+Home+Style+Veg+Food+Karve+Nagar+Pune"
+    },
+    {
+      "shopName": "Vaidya Upahar Gruha",
+      "images": [
+        "Pune_jaishankar1_jltsi1",
+        "Pune_jaishankar2_alc1y9",
+        "Pune_jaishankar3_pa5q15"
+      ],
+      "dishName": "Green Misal with Bread, Kharvas, Masala Tak",
+      "avgPrice": "₹80–₹150",
+      "touristPlaceNearby": "Shaniwar Wada",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "One of the most iconic heritage food spots in Pune, famous for its 114-year-old legacy and authentic Maharashtrian flavors. Their unique Green Misal made from sprouted moong/matki is different from the usual red spicy misal and has a mild coconut flavor with bread instead of pav, giving it a traditional Pune touch. A must-visit destination in any Pune street food and heritage food guide.",
+      "tips": "Visit early morning for the freshest Misal; seating is limited due to the old heritage structure. Try Kharvas if available as it's rarely found authentic.",
+      "fullAddress": "1218/1219, Budhwar Peth, Near Shaniwar Wada, Pune, Maharashtra 411002, India",
+      "routeDetails": "From Shaniwar Wada, walk towards Budhwar Peth market area; the restaurant is located in the old heritage lanes of central Pune.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Vaidya+Upahar+Gruha+Budhwar+Peth+Pune"
+    },
+    {
+      "shopName": "Appa",
+      "images": [
+        "Pune_appa1_op7jz7",
+        "Pune_appa2_idjtzt"
+      ],
+      "dishName": "Sabudana Khichdi, Dadpe Pohe, Kothimbir Vadi, Alu Vadi, Dahi Vada, Usal, Kokum Sharbat",
+      "avgPrice": "₹100–₹200",
+      "touristPlaceNearby": "Shaniwar Wada",
+      "distanceFromTouristPlace": "~2 km",
+      "description": "A famous place to experience authentic Maharashtrian cuisine in Pune. The restaurant serves a wide variety of regional dishes like Sabudana Khichdi, Dadpe Pohe (a unique no-fire preparation), Kothimbir Vadi, Alu Vadi, Usal and Dahi Vada. Dadpe Pohe is particularly special as it is prepared without cooking, using fresh ingredients like coconut, peanuts, onion, tomato and lemon.",
+      "tips": "Try Dadpe Pohe for a unique Maharashtrian experience. Pair Sabudana Khichdi with peanut chutney or thecha. Visit during breakfast hours for the best variety.",
+      "fullAddress": "Near Deccan area / Old Pune locality, Pune, Maharashtra, India",
+      "routeDetails": "From Shaniwar Wada head towards Deccan Gymkhana area by auto or cab.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Appa+Restaurant+Deccan+Pune"
+    },
+    {
+      "shopName": "Vaishali",
+      "images": [
+        "Pune_vaishali1_urudvl",
+        "Pune_vaishali2_nzzc9l",
+        "Pune_vaishali3_oswl76"
+      ],
+      "dishName": "Mysore Masala Dosa, South Indian Breakfast",
+      "avgPrice": "₹150–₹250",
+      "touristPlaceNearby": "Fergusson College Road",
+      "distanceFromTouristPlace": "Located on FC Road",
+      "description": "One of the most famous restaurants on FC Road Pune and a legendary breakfast destination for locals and tourists. Known for its crispy Mysore Masala Dosa and classic South Indian food, Vaishali is often included in every Pune food guide for tourists visiting top places in Pune. The restaurant's lively atmosphere and long-standing reputation make it a perfect stop for people exploring FC Road and Deccan Gymkhana.",
+      "tips": "Visit early morning or weekdays to avoid long queues. Weekend wait times can be long.",
+      "fullAddress": "1218/1, Fergusson College Rd, Shivajinagar, Pune, Maharashtra 411004",
+      "routeDetails": "Easily reachable by walking along Fergusson College Road near Deccan Gymkhana area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Vaishali+Restaurant+Fergusson+College+Road+Pune"
+    },
+    {
+      "shopName": "Cafe Goodluck",
+      "images": [
+        "Pune_cafegoodluck1_pxnril",
+        "Pune_cafegoodluck2_yqusxg"
+      ],
+      "dishName": "Bun Maska, Irani Chai",
+      "avgPrice": "₹80–₹150",
+      "touristPlaceNearby": "Deccan Gymkhana",
+      "distanceFromTouristPlace": "~200 m",
+      "description": "One of the oldest Irani cafes in Pune, famous for its bun maska and Irani chai combination. This historic café has served generations of Pune residents and remains a popular stop for visitors exploring top tourist areas like FC Road and Deccan Gymkhana. Its old-world charm and classic Irani menu make it a must-visit place for anyone searching for best cafés in Pune.",
+      "tips": "Best enjoyed in the morning or evening with chai. Seating fills quickly during college hours.",
+      "fullAddress": "759/75/1, Deccan Gymkhana, Fergusson College Rd, Pune, Maharashtra 411004",
+      "routeDetails": "Located directly on Fergusson College Road near Deccan Gymkhana.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Cafe+Goodluck+Deccan+Gymkhana+Pune"
+    },
+    {
+      "shopName": "Burger Camp",
+      "images": [
+        "Pune_burgercamp1_hiw1rm",
+        "Pune_burgercamp2_ob0jei"
+      ],
+      "dishName": "Classic Burgers",
+      "avgPrice": "₹120–₹200",
+      "touristPlaceNearby": "MG Road Camp",
+      "distanceFromTouristPlace": "Walking distance",
+      "description": "A legendary burger spot in Pune's Camp area known for serving large and affordable burgers for decades. Popular among college students and tourists exploring MG Road and Camp market, it is considered one of the best budget food stops in Pune.",
+      "tips": "Seating can take time during peak hours due to huge crowd.",
+      "fullAddress": "Camp Area near MG Road, Pune, Maharashtra",
+      "routeDetails": "Walk through MG Road Camp market area to reach the burger shop.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Burger+Camp+MG+Road+Camp+Pune"
+    },
+    {
+      "shopName": "Cafe Yezdan",
+      "images": [
+        "Pune_yezdan1_r7bx2k",
+        "Pune_yezdan2_bbvpus",
+        "Pune_yezdan3_v9zmkw"
+      ],
+      "dishName": "Bun Maska, Irani Chai, Omelets",
+      "avgPrice": "₹80–₹150",
+      "touristPlaceNearby": "Camp Area Pune",
+      "distanceFromTouristPlace": "~200 m",
+      "description": "One of the most iconic Irani cafés in Pune, famous for its bun maska, omelets and Irani chai. This heritage café is open almost every day of the year and is a must-visit stop for travelers exploring historic Camp area, one of the top tourist locations in Pune.",
+      "tips": "Visit for breakfast to enjoy the authentic Irani café vibe.",
+      "fullAddress": "242 MG Road, Camp, Pune, Maharashtra",
+      "routeDetails": "Located directly on MG Road in Camp area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Cafe+Yezdan+MG+Road+Camp+Pune"
+    },
+    {
+      "shopName": "Hotel Shreyas",
+      "images": [
+        "Pune_hotelshreyas1_dl5o87",
+        "Pune_hotelshreyas2_vsfntp"
+      ],
+      "dishName": "Maharashtrian Thali",
+      "avgPrice": "₹250–₹400",
+      "touristPlaceNearby": "Deccan Gymkhana",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "A well-known restaurant serving traditional Maharashtrian thali in Pune. Tourists visiting Deccan Gymkhana and FC Road areas often come here for a complete local meal experience featuring authentic regional dishes.",
+      "tips": "Best visited during lunch for the full thali experience.",
+      "fullAddress": "Apte Road, Deccan Gymkhana, Pune, Maharashtra",
+      "routeDetails": "Reach via Apte Road from Deccan Gymkhana junction.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hotel+Shreyas+Apte+Road+Deccan+Gymkhana+Pune"
+    },
+    {
+      "shopName": "Satvik Misal",
+      "images": [
+        "Pune_satvik1_lyo2ux",
+        "Pune_satvik2_dhtnkl"
+      ],
+      "dishName": "Unlimited Misal Pav",
+      "avgPrice": "₹99–₹150",
+      "touristPlaceNearby": "New Sangvi",
+      "distanceFromTouristPlace": "~10 km from city center",
+      "description": "A popular destination for unlimited Misal Pav in Pune, known for serving authentic spicy misal at budget price. It is a favorite among locals searching for best misal pav in Pune suburbs.",
+      "tips": "Go hungry because the misal is unlimited.",
+      "fullAddress": "New Sangvi, Pimpri-Chinchwad, Pune, Maharashtra",
+      "routeDetails": "Reach via Pimpri-Chinchwad road toward New Sangvi area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Satvik+Misal+New+Sangvi+Pune"
+    },
+    {
+      "shopName": "Shawarmaji",
+      "images": [
+        "Pune_shawararma1_kt4daj",
+        "Pune_shawararma2_at3lzf",
+        "Pune_shawararma3_rqdbj3"
+      ],
+      "dishName": "Shawarma",
+      "avgPrice": "₹120–₹200",
+      "touristPlaceNearby": "Koregaon Park",
+      "distanceFromTouristPlace": "~1 km",
+      "description": "A popular stop for Middle Eastern street food in Pune, especially shawarma lovers exploring Koregaon Park nightlife and cafes. Known for flavorful wraps and quick bites.",
+      "tips": "Best for evening snacks or late-night food cravings.",
+      "fullAddress": "Koregaon Park Area, Pune, Maharashtra",
+      "routeDetails": "Reach via North Main Road in Koregaon Park.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Shawarmaji+Koregaon+Park+Pune"
+    },
+    {
+      "shopName": "Sawai Veg",
+      "images": [
+        "Pune_sawai1_e7fq1h",
+        "Pune_sawai2_nrrtis"
+      ],
+      "dishName": "Aamras Thali (Aamras, Khasta Puri, Potato Bhaji, Veg Pulao, Hara Bhara Kabab, Roasted Papad), Veg Biryani",
+      "avgPrice": "₹350–₹500 per person",
+      "touristPlaceNearby": "Pu La Deshpande Garden (Pune-Okayama Friendship Garden)",
+      "distanceFromTouristPlace": "~1–2 km",
+      "description": "Located near one of the top tourist locations in Pune, Pu La Deshpande Garden, Sawai Veg is a popular stop for travelers searching for the best food to try in Pune after sightseeing. Their signature Aamras Thali is famous during the summer mango season and features pure Ratnagiri mango pulp prepared traditionally without machine processing. The soft khasta puris made with milk and ghee perfectly complement the rich aamras.",
+      "tips": "Best time to visit is evening after exploring Pu La Deshpande Garden. Try the Aamras Thali during mango season. Weekends can be crowded, so reaching early helps avoid waiting.",
+      "fullAddress": "Sawai Veg Restaurant, Sinhagad Road, Pune, Maharashtra, India",
+      "routeDetails": "From Pu La Deshpande Garden exit towards Sinhagad Road and drive straight towards the main commercial stretch. Easily reachable by auto or cab.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sawai+Veg+Restaurant+Sinhagad+Road+Pune"
+    }
+  ]
+}

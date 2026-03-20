@@ -1,0 +1,183 @@
+{
+  "city": "Mahabaleshwar",
+  "hero": {
+    "tagline": "Maharashtra's strawberry capital serves misty hill flavours — from Mapro's wood-fire pizza to chocolate-dipped strawberries in the night market.",
+    "highlights": [
+      "11 curated food spots across Mahabaleshwar's iconic viewpoints and markets",
+      "Fresh strawberries, Maharashtrian snacks & artisan cheese on the Panchgani route",
+      "From highway cheese factories to colonial forest resort dining near Charlotte Lake"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Mapro Garden Food Court",
+      "images": [
+        "maha_mapro_1_fa25i4"
+      ],
+      "dishName": "Wood Fire Pizza, Veg Sandwich, Strawberry with Cream",
+      "avgPrice": "₹200–₹350",
+      "touristPlaceNearby": "Mapro Garden",
+      "distanceFromTouristPlace": "Inside Mapro Garden",
+      "description": "Mapro Garden Food Court is one of the most famous food stops near Mahabaleshwar tourist attractions. Visitors exploring Mapro Garden, one of the top tourist locations in Mahabaleshwar, often stop here to try their wood-fired pizza, veg sandwiches, and the iconic strawberry with fresh cream. Surrounded by strawberry farms and Mapro's famous product store, this place is very popular among tourists looking for the best food to try in Mahabaleshwar while enjoying the scenic garden environment.",
+      "tips": "Expect heavy crowds on weekends and holidays; strawberry cream is the must-try item here.",
+      "fullAddress": "Mapro Garden, Panchgani–Mahabaleshwar Rd, Gureghar, Maharashtra",
+      "routeDetails": "Located inside Mapro Garden food court area after entering the garden complex.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mapro+Garden+Mahabaleshwar"
+    },
+    {
+      "shopName": "Potato Twister Street Stall",
+      "images": [
+        "maha_potato_1_zi3cqh"
+      ],
+      "dishName": "Potato Twister with Peri Peri & Sauces",
+      "avgPrice": "₹80–₹120",
+      "touristPlaceNearby": "Mahabaleshwar Market",
+      "distanceFromTouristPlace": "Inside market area",
+      "description": "Potato Twister stalls in Mahabaleshwar Main Market, one of the busiest tourist hubs in the city, serve crispy spiral potatoes topped with peri-peri seasoning and sauces. This trendy street snack attracts many tourists looking for unique foods to try in Mahabaleshwar while exploring the vibrant night market filled with shopping and food options.",
+      "tips": "Best eaten hot right after preparation for maximum crispiness.",
+      "fullAddress": "Mahabaleshwar Main Market, Mahabaleshwar, Maharashtra",
+      "routeDetails": "Roadside vendor inside Mahabaleshwar night market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mahabaleshwar+Main+Market"
+    },
+    {
+      "shopName": "Mahabaleshwar Market Dessert Stall",
+      "images": [
+        "maha_desert_1_poqcuc"
+      ],
+      "dishName": "Corn Bhajiya, Chocolate Dipped Strawberries",
+      "avgPrice": "₹160",
+      "touristPlaceNearby": "Mahabaleshwar Market",
+      "distanceFromTouristPlace": "Inside market area",
+      "description": "Dessert stalls in Mahabaleshwar Market, one of the top tourist locations in Mahabaleshwar, offer delicious treats like corn bhajiya and chocolate-dipped strawberries (London-style) topped with white and dark chocolate. Strawberries are a specialty of this hill station, making this dessert one of the best foods to try in Mahabaleshwar for tourists visiting the market area.",
+      "tips": "Chocolate strawberries are a must-try dessert when visiting Mahabaleshwar during strawberry season.",
+      "fullAddress": "Mahabaleshwar Main Market, Mahabaleshwar, Maharashtra",
+      "routeDetails": "Dessert and snack stall located in the central walking area of Mahabaleshwar market.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mahabaleshwar+Main+Market"
+    },
+    {
+      "shopName": "Elphinstone Point Food Stalls",
+      "images": [
+        "maha_parsi_1_eblbth"
+      ],
+      "dishName": "Maggi, Momos, Tea, Coffee, Poha, Vada Pav, Kanda Bhaji, Misal, Bhel Puri, Sweet Corn, Lemon Soda, Buttermilk, Coconut Water, Ice Gola",
+      "avgPrice": "₹30–₹120",
+      "touristPlaceNearby": "Elphinstone Point",
+      "distanceFromTouristPlace": "At Elphinstone Point",
+      "description": "Food stalls near Elphinstone Point, one of the best scenic viewpoints and top tourist locations in Mahabaleshwar, offer a wide range of quick snacks like bhel puri, sweet corn, Maggi, misal, vada pav and refreshing drinks. Tourists visiting the viewpoint for panoramic views of Koyna Valley and Savitri Valley often take a break here to enjoy spicy street food with the cool mountain breeze. It's one of the best places to enjoy local street food while visiting Mahabaleshwar tourist points.",
+      "tips": "Bhel puri and sweet corn are popular quick snacks while enjoying the valley view.",
+      "fullAddress": "Elphinstone Point View Area, Mahabaleshwar, Maharashtra",
+      "routeDetails": "Located near the viewpoint entrance where multiple local food stalls are set up along the walking path.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Elphinstone+Point+Mahabaleshwar"
+    },
+    {
+      "shopName": "Table Land Snack Stalls",
+      "images": [
+        "maha_table_1_vxiai9"
+      ],
+      "dishName": "Roasted Corn (Bhutta), Strawberries, Local Snacks",
+      "avgPrice": "₹40–₹100",
+      "touristPlaceNearby": "Table Land Panchgani",
+      "distanceFromTouristPlace": "At Table Land",
+      "description": "Table Land in Panchgani, located about 20 km from Mahabaleshwar, is one of the largest volcanic plateaus in Asia and a major tourist attraction. Visitors exploring the viewpoint, horse rides, and scenic Krishna River and Sahyadri mountain views often try simple snacks like roasted corn and fresh strawberries from local vendors. It is a great stop for travelers searching for local food experiences near Mahabaleshwar and Panchgani tourist locations.",
+      "tips": "Best enjoyed while walking across the plateau or during sunset viewpoints.",
+      "fullAddress": "Table Land, Panchgani, Maharashtra",
+      "routeDetails": "Small snack vendors located around the large Table Land plateau area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Table+Land+Panchgani+Maharashtra"
+    },
+    {
+      "shopName": "Parsi Point Snack Stall",
+      "images": [
+        "maha_parsi_1_eblbth",
+        "maha_parsi_2_wacwjl"
+      ],
+      "dishName": "Bhutta, Strawberries, Local Snacks",
+      "avgPrice": "₹40–₹100",
+      "touristPlaceNearby": "Parsi Point",
+      "distanceFromTouristPlace": "At Parsi Point",
+      "description": "Snack stalls near Parsi Point in Panchgani, one of the most popular viewpoints near Mahabaleshwar, serve quick bites like roasted corn and fresh strawberries. Tourists visiting the point for beautiful views of the Krishna Valley and surrounding Sahyadri hills often enjoy these light snacks while relaxing at the viewpoint. It's a classic street food stop near Panchgani tourist attractions.",
+      "tips": "Try fresh strawberries if visiting during strawberry season.",
+      "fullAddress": "Parsi Point View Area, Panchgani, Maharashtra",
+      "routeDetails": "Small snack stalls located near the viewpoint parking and walking area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Parsi+Point+Panchgani+Maharashtra"
+    },
+    {
+      "shopName": "Old Mahabaleshwar Snack Stall",
+      "images": [
+        "maha_oldmaha_1_wx4rui"
+      ],
+      "dishName": "Lemon Water, Local Snacks",
+      "avgPrice": "₹30–₹60",
+      "touristPlaceNearby": "Krishnadevi Temple (Old Mahabaleshwar)",
+      "distanceFromTouristPlace": "Near temple complex",
+      "description": "Near Krishnadevi Temple in Old Mahabaleshwar, tourists exploring one of the oldest religious and historical places in Mahabaleshwar can find small stalls selling refreshing drinks like lemon water and light snacks. Visitors coming to see the origin point of the Krishna River often stop here for quick refreshments during temple visits.",
+      "tips": "Ideal for a quick refreshment after temple exploration.",
+      "fullAddress": "Near Krishnadevi Temple, Old Mahabaleshwar, Maharashtra",
+      "routeDetails": "Located near the temple entrance area where small refreshment stalls are available.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Krishnadevi+Temple+Old+Mahabaleshwar"
+    },
+    {
+      "shopName": "Bagicha Restaurant",
+      "images": [
+        "maha_bagicha_1_x5nh7x",
+        "maha_bagicha_2_hoeado"
+      ],
+      "dishName": "Makai Patties, Lemon Mint Juice, Kanda Bhaji, Strawberry with Cream, Strawberry Ice Cream, Sitaphal Ice Cream",
+      "avgPrice": "₹200–₹350",
+      "touristPlaceNearby": "Mahabaleshwar Market Area",
+      "distanceFromTouristPlace": "Near main market tourist area",
+      "description": "Bagicha Restaurant is one of the best places to eat in Mahabaleshwar near tourist market areas. Known for its garden-style ambiance and nearby strawberry fields, this restaurant serves specialties like crispy makai patties, kanda bhaji, refreshing lemon mint juice, and the famous strawberry with cream dessert. Tourists looking for authentic local food experiences in Mahabaleshwar often stop here after sightseeing.",
+      "tips": "Makai patties and lemon mint juice are highly recommended items here.",
+      "fullAddress": "Mahabaleshwar Market Area, Mahabaleshwar, Maharashtra",
+      "routeDetails": "Located within the main Mahabaleshwar town area surrounded by strawberry farms.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Bagicha+Restaurant+Mahabaleshwar"
+    },
+    {
+      "shopName": "Cafe Peter",
+      "images": [
+        "maha_cafe_1_fn8y70",
+        "maha_cafe_2_mfqbb6"
+      ],
+      "dishName": "Indian, Korean & Chinese Veg Dishes",
+      "avgPrice": "₹250–₹400",
+      "touristPlaceNearby": "Mahabaleshwar Market Area",
+      "distanceFromTouristPlace": "Near market area",
+      "description": "Cafe Peter is a relaxed vegetarian café located in the main tourist area of Mahabaleshwar. The café offers a variety of Indian, Korean and Chinese vegetarian dishes, making it a popular dining spot for travelers exploring the town. With comfortable seating and a calm environment, it is one of the best cafes in Mahabaleshwar for tourists looking for good food and a relaxing break after sightseeing.",
+      "tips": "Great place to relax and enjoy a slow meal after exploring Mahabaleshwar town.",
+      "fullAddress": "Mahabaleshwar Town Area, Mahabaleshwar, Maharashtra",
+      "routeDetails": "Located in the central Mahabaleshwar town area with indoor and outdoor seating.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Cafe+Peter+Mahabaleshwar"
+    },
+    {
+      "shopName": "Pure Gold Cheese Factory & Cafe Berry",
+      "images": [
+        "maha_pure_1_ck2y4v",
+        "maha_pure_2_pofdwx"
+      ],
+      "dishName": "Veg Cheese (Plain, Classic, Smoked Cheddar, Garlic Herbs), Fruit Preserves, Milkshakes, Pizza, Sandwich, Cakes & Pastries",
+      "avgPrice": "₹150–₹400",
+      "touristPlaceNearby": "Panchgani–Mahabaleshwar Road",
+      "distanceFromTouristPlace": "On highway between Panchgani and Mahabaleshwar",
+      "description": "Pure Gold Cheese Factory is a unique food destination on the Panchgani–Mahabaleshwar tourist route. Visitors can watch the cheese-making process and taste different varieties like classic cheese, smoked cheddar and garlic herb cheese. The complex also includes Cafe Berry offering milkshakes, pizza, sandwiches and desserts along with fruit preserves and jams. It's one of the most interesting food stops near Mahabaleshwar for tourists who love artisanal food experiences.",
+      "tips": "Cheese tasting is available before buying; a great stop while traveling between Panchgani and Mahabaleshwar.",
+      "fullAddress": "Panchgani–Mahabaleshwar Road, Maharashtra",
+      "routeDetails": "Located directly on the Panchgani–Mahabaleshwar road; includes cheese factory, tasting area, café and cake shop.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Pure+Gold+Cheese+Factory+Panchgani+Mahabaleshwar"
+    },
+    {
+      "shopName": "Farmhouse Cafe (Hotel Dreamland)",
+      "images": [
+        "maha_farmhouse_1_wmp0yo",
+        "maha_farmhouse_2_ozfndn"
+      ],
+      "dishName": "Pizza, Pasta, Soup, Watermelon & Feta Salad",
+      "avgPrice": "₹300–₹500",
+      "touristPlaceNearby": "Mahabaleshwar Town",
+      "distanceFromTouristPlace": "Inside hotel property",
+      "description": "Farmhouse Cafe at Hotel Dreamland is a peaceful dining spot in Mahabaleshwar town, known for serving continental dishes like pizza, pasta, soups and fresh salads. The café offers beautiful daytime views and a relaxed atmosphere, making it a great place for tourists looking for good cafes and continental food in Mahabaleshwar after visiting nearby sightseeing spots.",
+      "tips": "Watermelon and feta salad is a recommended refreshing dish here.",
+      "fullAddress": "Hotel Dreamland, Mahabaleshwar, Maharashtra",
+      "routeDetails": "Located inside Hotel Dreamland with a scenic daytime view seating area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hotel+Dreamland+Mahabaleshwar"
+    }
+  ]
+}

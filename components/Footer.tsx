@@ -12,8 +12,8 @@ export default function Footer() {
   ];
 
   const popularCities = [
-    "Delhi", "Mumbai", "Varanasi", "Jaipur", 
-    "Agra", "Lucknow", "Amritsar", "Hyderabad"
+    "Delhi", "Mumbai", "Varanasi", "Jaipur",
+    "Nainital", "Pune", "Amritsar", "Kashmir", "Kolkata", "Puri", "Darjeeling", "Matheran", "Mahabaleshwar", "Lucknow", "Tirupati"
   ];
 
   const socialLinks = [

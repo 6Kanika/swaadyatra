@@ -1,0 +1,170 @@
+{
+  "city": "Matheran",
+  "hero": {
+    "tagline": "Maharashtra's only car-free hill station serves misty trail snacks — from roasted bhutta at King George Point to heritage dining at Verandah in the Forest.",
+    "highlights": [
+      "10 curated food spots across Matheran's iconic viewpoints and trails",
+      "Authentic Maharashtrian snacks, Misal Pav & Vada Pav near Charlotte Lake & market",
+      "From highway dhabas on the Mumbai route to colonial forest resort dining"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Local Corn Stall (Viewpoint Vendor)",
+      "images": [
+        "math_corn_1_k6zyad"
+      ],
+      "dishName": "Roasted Corn (Bhutta)",
+      "avgPrice": "₹20–₹40",
+      "touristPlaceNearby": "King George Point",
+      "distanceFromTouristPlace": "At the viewpoint",
+      "description": "Enjoy hot roasted corn (bhutta) while admiring the scenic valley views at King George Point, one of the best tourist locations in Matheran. Street vendors here serve freshly roasted corn with lemon, salt, and masala, making it one of the best local foods to try in Matheran during a hill station trip. Tourists visiting this viewpoint often grab a corn to enjoy with the misty mountain views and waterfalls, making it a classic Matheran travel food experience.",
+      "tips": "Best enjoyed during monsoon or winter while enjoying the foggy valley view. Carry small cash for street vendors.",
+      "fullAddress": "Near King George Point Viewpoint, Matheran Hill Station, Raigad District, Maharashtra, India",
+      "routeDetails": "From Matheran Market walk towards Charlotte Lake route → continue to King George Point → corn stalls are located near the viewpoint area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=King+George+Point+Matheran"
+    },
+    {
+      "shopName": "Small Local Restaurants near Charlotte Lake",
+      "images": [
+        "math_charlotte_1_yksk0i",
+        "math_charlotte_2_gxemwm"
+      ],
+      "dishName": "Maggi, Veg Thali, Puri Sabzi, Tea, Basic Snacks",
+      "avgPrice": "₹80–₹200",
+      "touristPlaceNearby": "Charlotte Lake",
+      "distanceFromTouristPlace": "Walking distance from Charlotte Lake",
+      "description": "Near Charlotte Lake, one of the top tourist locations in Matheran, visitors can find several small local restaurants serving Maggi, veg thali, puri sabzi, and tea. After exploring famous viewpoints like Lord's Point, Echo Point, and King George Point, tourists often stop here for a quick meal. This area is considered one of the best places to eat in Matheran while sightseeing, offering simple hill-station comfort food with scenic lake views and cool weather, making it perfect for travelers searching for best food to try in Matheran near major attractions.",
+      "tips": "Carry cash since digital payments may not work due to poor network. Try hot Maggi or tea during monsoon weather.",
+      "fullAddress": "Near Charlotte Lake Area, close to Shri Vishwanath Temple, Matheran Hill Station, Raigad District, Maharashtra, India",
+      "routeDetails": "From Matheran Market → walk towards Charlotte Lake and Lord's Point route → small restaurants and food stalls appear near the lake and temple area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Charlotte+Lake+Matheran"
+    },
+    {
+      "shopName": "Local Restaurants near Matheran Railway Station",
+      "images": [
+        "math_localmath_1_zh3ewi",
+        "math_localmath_2_ndfran"
+      ],
+      "dishName": "Veg Meals, Non-Veg Meals, Local Snacks",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Matheran Railway Station",
+      "distanceFromTouristPlace": "Within the market area",
+      "description": "The Matheran Market area near the railway station is one of the best places for travelers searching for restaurants in Matheran hill station. Several eateries serve vegetarian meals, non-veg dishes, snacks, and basic Indian food, making it a convenient food stop after exploring popular attractions like Charlotte Lake, Echo Point, Louisa Point, and Honeymoon Point. This market is considered a top food stop for tourists visiting Matheran, where visitors can relax and enjoy simple local meals after a day of sightseeing in one of the most popular hill stations near Mumbai.",
+      "tips": "Market restaurants remain open even in the evening. Carry cash and keep food secure from monkeys.",
+      "fullAddress": "Matheran Market Area near Matheran Railway Station, Raigad District, Maharashtra, India",
+      "routeDetails": "From Matheran Railway Station walk towards Matheran Main Market → multiple restaurants are located along the main market street.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Matheran+Railway+Station+Market"
+    },
+    {
+      "shopName": "Sai Samarth Dhaba & Snacks",
+      "images": [
+        "math_samarth_1_vicf3f",
+        "math_samarth_2_ocpepv"
+      ],
+      "dishName": "Misal Pav, Vada Pav",
+      "avgPrice": "₹60–₹120",
+      "touristPlaceNearby": "Khopoli (Mumbai–Matheran Route)",
+      "distanceFromTouristPlace": "On the highway route",
+      "description": "Sai Samarth Dhaba & Snacks in Khopoli is a popular highway food stop for travelers heading to Matheran, one of the best tourist locations near Mumbai. Known for its authentic Maharashtrian street food like Misal Pav and Vada Pav, this small family-run eatery serves freshly prepared breakfast items that are perfect before starting your journey to top tourist locations of Matheran. The crispy hot vada and spicy misal with farsan make it a must-try food stop for tourists exploring the best food to try on the way to Matheran hill station.",
+      "tips": "Best visited in the morning during the Mumbai–Matheran journey; food is freshly prepared so you may need to wait a few minutes.",
+      "fullAddress": "Sai Samarth Dhaba & Snacks, Khopoli, Maharashtra, India",
+      "routeDetails": "Located on the highway route between Mumbai and Matheran; travelers commonly stop here while driving toward Matheran hill station.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sai+Samarth+Dhaba+Khopoli+Maharashtra"
+    },
+    {
+      "shopName": "Small Tea Stalls on Matheran Walking Route",
+      "images": [
+        "math_smalltea_1_fwzyzf"
+      ],
+      "dishName": "Tea (Masala Chai), Batata Vada, Vada Pav",
+      "avgPrice": "₹20–₹80",
+      "touristPlaceNearby": "Charlotte Lake",
+      "distanceFromTouristPlace": "On the walking trail",
+      "description": "While walking through the scenic trails of Matheran hill station, tourists will encounter small tea stalls offering hot Masala Chai, Batata Vada, and Vada Pav. These stalls are perfect pit stops for travelers exploring the beautiful tourist locations in Matheran. Enjoying hot tea with Maharashtrian snacks on these forest trails is one of the most memorable food experiences for visitors discovering the best places to visit in Matheran.",
+      "tips": "Great stop during long walks; perfect for warming up during rainy or cold weather.",
+      "fullAddress": "Tea Stalls along the walking route to Charlotte Lake, Matheran, Maharashtra, India",
+      "routeDetails": "Found along the pedestrian walking path used by tourists traveling between the Matheran entry point and Charlotte Lake.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Charlotte+Lake+Walking+Trail+Matheran"
+    },
+    {
+      "shopName": "The Verandah in the Forest – Dune Barr Resort",
+      "images": [
+        "math_veranda_1_evuteb",
+        "math_veranda_2_gjb0w8"
+      ],
+      "dishName": "Dal Tadka, Maharashtrian Bharwa Baingan, Chapati, Homemade Ice Cream (Chocolate, Butterscotch, Vanilla), Aloo Paratha, Medu Vada, Sambar, Lemon Drink",
+      "avgPrice": "₹200–₹500",
+      "touristPlaceNearby": "Charlotte Lake",
+      "distanceFromTouristPlace": "Near Charlotte Lake",
+      "description": "The Verandah in the Forest at Dune Barr Resort offers a peaceful dining experience in Matheran, one of the best hill station tourist destinations near Mumbai. Known for freshly prepared meals made only after ordering, the restaurant serves authentic Maharashtrian dishes like Bharwa Baingan and Dal Tadka along with homestyle chapatis. Tourists can also enjoy in-house homemade ice creams and hearty breakfasts like Aloo Paratha, Medu Vada, and Sambar. Surrounded by greenery and close to popular tourist attractions like Charlotte Lake, this place is ideal for travelers looking for best food experiences in Matheran while exploring top tourist spots.",
+      "tips": "Food is cooked fresh after ordering, so expect a wait of 30–40 minutes; contacting the resort before arrival can help reduce waiting time.",
+      "fullAddress": "The Verandah in the Forest (Dune Barr Resort), Matheran, Maharashtra, India",
+      "routeDetails": "Reachable via walking trails inside Matheran from the main market area toward Charlotte Lake.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Verandah+in+the+Forest+Dune+Barr+Resort+Matheran"
+    },
+    {
+      "shopName": "Local Restaurant near Charlotte Lake",
+      "images": [
+        "math_smalllocal_1_acjole"
+      ],
+      "dishName": "Puri Bhaji, Lemon Soda, Tea",
+      "avgPrice": "₹120–₹250",
+      "touristPlaceNearby": "Charlotte Lake",
+      "distanceFromTouristPlace": "Walking distance",
+      "description": "Near Charlotte Lake, one of the most visited tourist attractions in Matheran, travelers will find several small restaurants serving simple and satisfying meals. A popular combination here is Puri Bhaji with refreshing Lemon Soda and hot Tea, perfect after exploring nearby viewpoints. These restaurants are convenient food stops for tourists discovering the best tourist places in Matheran and looking for affordable local meals close to major sightseeing points.",
+      "tips": "Good lunch option while visiting Charlotte Lake and nearby viewpoints; tea here is especially recommended.",
+      "fullAddress": "Restaurant near Charlotte Lake area, Matheran, Maharashtra, India",
+      "routeDetails": "Located in the Charlotte Lake tourist area where multiple restaurants are present near the entrance of the lake.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Charlotte+Lake+Matheran"
+    },
+    {
+      "shopName": "Hakimi Restaurant",
+      "images": [
+        "math_hakimi_1_o1256y",
+        "math_hakimi_2_oxv9iu"
+      ],
+      "dishName": "Manchow Soup, Chicken Kolhapuri, Tandoori Roti",
+      "avgPrice": "₹250–₹500",
+      "touristPlaceNearby": "Matheran Market",
+      "distanceFromTouristPlace": "Located inside Matheran Market",
+      "description": "Hakimi Restaurant in Matheran Market is a popular dining option for tourists exploring the main market area of Matheran hill station. The restaurant is known for serving flavorful Mughlai and Chinese dishes such as Manchow Soup, Chicken Kolhapuri, and Tandoori Roti. With a comfortable ambiance and good service, it becomes a great dinner spot for travelers after visiting top tourist attractions in Matheran. It is one of the best restaurants in Matheran market for dinner after sightseeing.",
+      "tips": "Ideal for dinner after exploring the market and nearby viewpoints; usually busy during evening hours.",
+      "fullAddress": "Hakimi Restaurant, Matheran Market Area, Matheran, Maharashtra, India",
+      "routeDetails": "Easily reachable by walking through the main Matheran Market street near the railway station area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hakimi+Restaurant+Matheran"
+    },
+    {
+      "shopName": "Hotel Divadkar",
+      "images": [
+        "math_divadkar_1_kdhs2d",
+        "math_divadkar_2_fvv6qa"
+      ],
+      "dishName": "Misal Pav, Aloo Paratha, Tea",
+      "avgPrice": "₹120–₹250",
+      "touristPlaceNearby": "Matheran Railway Station",
+      "distanceFromTouristPlace": "Very close to Matheran Station",
+      "description": "Hotel Divadkar near Matheran Railway Station is a convenient breakfast spot for travelers starting their day in the popular hill station of Matheran. Known for its Misal Pav, Aloo Paratha, and refreshing tea, this restaurant offers a proper sit-down breakfast experience near the station area. For tourists exploring top tourist places in Matheran, this spot is ideal to enjoy a filling morning meal before heading toward viewpoints and nature trails.",
+      "tips": "Great breakfast stop before starting sightseeing; reach early in the morning to avoid waiting.",
+      "fullAddress": "Hotel Divadkar, near Matheran Railway Station, Matheran, Maharashtra, India",
+      "routeDetails": "Located near the Matheran railway station area and easily reachable from the market by walking.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hotel+Divadkar+Matheran+Railway+Station"
+    },
+    {
+      "shopName": "Roadside Food Stall (Aman Lodge Route)",
+      "images": [
+        "math_roadside_1_khrozo",
+        "math_roadside_2_gvkxsy"
+      ],
+      "dishName": "Vada Pav, Bhajiya, Maggi, Tea",
+      "avgPrice": "₹30–₹100",
+      "touristPlaceNearby": "Aman Lodge – Matheran Walking Route",
+      "distanceFromTouristPlace": "On the walking route",
+      "description": "While walking from Aman Lodge to Matheran hill station, tourists often stop at small roadside stalls serving Vada Pav, Bhajiya, Maggi, and hot Tea. These simple stalls are a common sight along the scenic trail leading to one of the most beautiful tourist destinations in Maharashtra. Enjoying freshly cooked snacks during the walk is one of the best local food experiences while traveling to Matheran's top tourist locations.",
+      "tips": "Perfect quick breakfast stop during the walk from Aman Lodge to Matheran town.",
+      "fullAddress": "Small Food Stall on walking route from Aman Lodge to Matheran Hill Station, Maharashtra, India",
+      "routeDetails": "Located along the pedestrian trail between Aman Lodge and Matheran hill station used by tourists walking to the main town.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Aman+Lodge+Matheran+Walking+Route"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "city": "Tirupati",
+  "hero": {
+    "tagline": "The temple city of Andhra Pradesh serves divine flavours — from traditional Andhra thalis near Tirumala to Belgian waffles and filter coffee in the heart of the city.",
+    "highlights": [
+      "18 curated food spots across Tirupati's iconic temples and city landmarks",
+      "Authentic Andhra thalis, South Indian tiffins & temple-style meals near Tirumala & Govindaraja Temple",
+      "From century-old bhavans near the railway station to modern cafes and dessert spots in the city"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "PS4 Pure Veg Restaurant",
+      "images": [
+        "tir_ps4_1_wwxkd0",
+        "tir_ps4_2_anwrms",
+        "tir_ps4_3_rqtxvy"
+      ],
+      "dishName": "Special Veg Thali (12–13 Items), Sambar, Rasam, Dal, Vegetable Curries, Curd Rice, Buttermilk, Payasam, Sweet, Papad, Rice with Ghee & Podi",
+      "avgPrice": "₹150–₹250",
+      "touristPlaceNearby": "Sri Padmavathi Ammavari Temple",
+      "distanceFromTouristPlace": "Approx. 1–2 km from Sri Padmavathi Ammavari Temple",
+      "description": "PS4 Pure Veg Restaurant in Tirupati is widely recommended for travelers looking for authentic South Indian veg meals in Tirupati city. Located close to the famous Sri Padmavathi Ammavari Temple, this restaurant is known for its traditional Tirupati-style special veg thali featuring around 12–13 items including sambar, rasam, dal, vegetable curries, curd rice, buttermilk, papad, sweets and payasam served with unlimited rice. The flavors represent classic Andhra and South Indian temple-style cuisine, making it one of the best food places to try in Tirupati for pilgrims and tourists exploring the top tourist locations of Tirupati.",
+      "tips": "Best visited for lunch after visiting Sri Padmavathi Temple; arrive early as the restaurant often has a wait during peak afternoon hours.",
+      "fullAddress": "PS4 Pure Veg Restaurant, Korlagunta Road, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirupati city center head towards Sri Padmavathi Ammavari Temple; on Korlagunta Road the restaurant appears on the right-hand side directly on the roadside.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=PS4+Pure+Veg+Restaurant+Korlagunta+Road+Tirupati"
+    },
+    {
+      "shopName": "Royal Sarangi Restaurant",
+      "images": [
+        "tir_royal_1_bl2f2d",
+        "tir_royal_2_oqfg6k"
+      ],
+      "dishName": "Paneer Sabzi, Butter Naan, Tandoori Roti, Veg Biryani, Dal Tadka, Butter Kulcha, Buttermilk, Sweet Paan",
+      "avgPrice": "₹200–₹300",
+      "touristPlaceNearby": "Tirumala Balaji Temple",
+      "distanceFromTouristPlace": "Approx. 300–500 meters from Tirumala Balaji Temple complex",
+      "description": "Royal Sarangi Restaurant in Tirupati is a convenient pure veg restaurant near Tirumala Balaji Temple, making it a popular stop for pilgrims after darshan. The restaurant serves North Indian and South Indian vegetarian dishes such as paneer curry with butter naan, tandoori roti, veg biryani, dal tadka and kulcha along with refreshing buttermilk. Located close to one of the most visited tourist locations in Tirupati, this place is known for affordable meals for temple visitors and travelers exploring the best food to try in Tirupati near Tirumala temple area.",
+      "tips": "Ideal for lunch or early dinner after completing Tirumala Balaji Temple darshan; located very close to the temple and convenient for pilgrims.",
+      "fullAddress": "Royal Sarangi Restaurant, beside Ram Bageecha Guest House near Tirumala Balaji Temple area, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirumala Balaji Temple exit area walk towards Ram Bageecha Guest House; Royal Sarangi Restaurant is located right beside the guest house.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Royal+Sarangi+Restaurant+Tirumala+Tirupati"
+    },
+    {
+      "shopName": "Zodiac Restaurant",
+      "images": [
+        "tir_zodiac_1_liu3fk",
+        "tir_zodiac_2_uut8ze"
+      ],
+      "dishName": "Dal Khichdi, Puri Sabzi, Vada, Fried Idli, Dosa, Uttapam, Idli",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Tirupati Railway Station",
+      "distanceFromTouristPlace": "Approx. 1 km from Tirupati Railway Station",
+      "description": "Zodiac Restaurant is considered one of the best restaurants in Tirupati offering a mix of North Indian and South Indian cuisine. Known for its clean ambience and excellent service, the restaurant serves popular breakfast dishes such as puri sabzi, dosa, uttapam, vada, fried idli and comforting dal khichdi. Travelers exploring top tourist locations in Tirupati often stop here for a hearty meal, making it a great place to try best breakfast food in Tirupati before heading to temples or sightseeing.",
+      "tips": "Visit in the morning for breakfast specialties like puri sabzi and fried idli before heading out to explore Tirupati temples.",
+      "fullAddress": "Zodiac Restaurant, Tirupati city center area near Tirupati Railway Station, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirupati Railway Station head towards the central city dining area where Zodiac Restaurant is located among major eateries.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Zodiac+Restaurant+Tirupati"
+    },
+    {
+      "shopName": "Sri Lakshmi Narayana Bhavan",
+      "images": [
+        "tir_lakshmi_1_lwx3kv",
+        "tir_lakshmi_2_oqqxk8"
+      ],
+      "dishName": "Traditional Indian Veg Meals, Packed Meals",
+      "avgPrice": "₹120–₹220",
+      "touristPlaceNearby": "Tirupati Railway Station",
+      "distanceFromTouristPlace": "Approx. 500 meters from Tirupati Railway Station",
+      "description": "Sri Lakshmi Narayana Bhavan is a popular restaurant near Tirupati Railway Station, making it a convenient stop for travelers and pilgrims. Famous for traditional South Indian meals that taste like home-cooked food, the restaurant is well known for its wholesome thali-style meals and takeaway packed food options. It is considered one of the best places to eat in Tirupati for tourists arriving by train, especially for those visiting top tourist attractions in Tirupati and looking for authentic local food.",
+      "tips": "Perfect place to grab a packed meal before boarding a train from Tirupati Railway Station or enjoy a quick traditional lunch.",
+      "fullAddress": "Sri Lakshmi Narayana Bhavan, near Tirupati Railway Station area, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "Exit Tirupati Railway Station and walk towards the nearby market and dining area where Sri Lakshmi Narayana Bhavan is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sri+Lakshmi+Narayana+Bhavan+Tirupati+Railway+Station"
+    },
+    {
+      "shopName": "Usha Vasavi Restaurant",
+      "images": [
+        "tir_usha_2_heosut"
+      ],
+      "dishName": "Curd Rice, Veg Fried Rice, Manchurian, Variety of Veg Rice Dishes",
+      "avgPrice": "₹150–₹250",
+      "touristPlaceNearby": "Tirupati Bus Stand Area",
+      "distanceFromTouristPlace": "Approx. 1–2 km from Tirupati Bus Stand",
+      "description": "Usha Vasavi Restaurant is among the most loved vegetarian restaurants in Tirupati, known for its flavorful Indian and Indo-Chinese dishes. Popular menu items include curd rice, fried rice varieties and manchurian along with several vegetarian comfort meals. Tourists visiting best tourist locations in Tirupati often dine here for its rich flavors and satisfying portions, making it a recommended stop for best veg food in Tirupati city.",
+      "tips": "Try the curd rice after a long temple visit — it is light, refreshing and perfect for the warm Tirupati weather.",
+      "fullAddress": "Usha Vasavi Restaurant, central Tirupati dining area near main bus stand locality, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirupati Bus Stand head towards the main city restaurant zone where Usha Vasavi Restaurant is located among popular eateries.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Usha+Vasavi+Restaurant+Tirupati"
+    },
+    {
+      "shopName": "Southern Spice",
+      "images": [
+        "tir_southern_1_owvomx",
+        "tir_southern_2_bvixpl"
+      ],
+      "dishName": "South Indian Meals, Dosa, Idli, South Indian Snacks",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Tirupati City Center",
+      "distanceFromTouristPlace": "Approx. 2 km from Tirupati Railway Station",
+      "description": "Southern Spice is a well-known destination for authentic South Indian cuisine in Tirupati. The restaurant serves delicious classics like dosa, idli and traditional South Indian meals in a comfortable family-friendly environment. Visitors exploring the top tourist places in Tirupati often enjoy a meal here to experience classic Andhra and South Indian flavors, making it a must-visit for those searching best South Indian food in Tirupati.",
+      "tips": "Ideal for family dinner or evening snacks after sightseeing in Tirupati city.",
+      "fullAddress": "Southern Spice Restaurant, central Tirupati dining district, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirupati Railway Station or Bus Stand travel towards the main restaurant district where Southern Spice is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Southern+Spice+Restaurant+Tirupati"
+    },
+    {
+      "shopName": "Bombay Coffee House",
+      "images": [
+        "tir_bombay_1_mnzxq3"
+      ],
+      "dishName": "Malai Coffee, Pista Coffee, Choco Coffee, Almond Coffee, Lychee Coffee, Gulcand Coffee, Chiku Coffee, Guava Coffee",
+      "avgPrice": "₹120–₹200",
+      "touristPlaceNearby": "Tirupati City Center",
+      "distanceFromTouristPlace": "Approx. 2 km from Tirupati Railway Station",
+      "description": "Bombay Coffee House in Tirupati is a paradise for coffee lovers, offering a wide variety of creative coffee flavors such as malai coffee, pista coffee, choco coffee and fruit-flavored coffees. This cozy café is a great stop for tourists visiting popular tourist places in Tirupati who want to relax with a refreshing drink. If you are searching for best cafes in Tirupati for coffee and desserts, Bombay Coffee House is a must-try spot.",
+      "tips": "Visit during evening hours for a relaxing coffee break after exploring Tirupati temples and markets.",
+      "fullAddress": "Bombay Coffee House, central Tirupati cafe area, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From the main Tirupati market area head towards the cafe zone where Bombay Coffee House is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Bombay+Coffee+House+Tirupati"
+    },
+    {
+      "shopName": "Carrots Restaurant",
+      "images": [
+        "tir_carrot_1_bgt6ve",
+        "tir_carrot_2_zm8ow8"
+      ],
+      "dishName": "Cakes, Desserts, Soups, Fast Food Snacks",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Tirupati City Center",
+      "distanceFromTouristPlace": "Approx. 2 km from Tirupati Railway Station",
+      "description": "Carrots Restaurant in Tirupati is known for its delicious cakes and desserts, along with a menu that includes soups, snacks and fast food options. This restaurant is a good choice for tourists who want a mix of sweet treats and quick meals while exploring the top attractions of Tirupati. It is often recommended for those searching best dessert places in Tirupati.",
+      "tips": "Perfect place to stop for desserts or quick evening snacks while exploring Tirupati city markets.",
+      "fullAddress": "Carrots Restaurant, central Tirupati restaurant district, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "Travel from Tirupati Railway Station towards the city dining district where Carrots Restaurant is situated.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Carrots+Restaurant+Tirupati"
+    },
+    {
+      "shopName": "Dojin Smart Restaurant",
+      "images": [
+        "tir_dojin_1_qtrics",
+        "tir_dojin_2_mfangv"
+      ],
+      "dishName": "Chinese Soups, Fish Manchurian, Schezwan Chicken, Dragon Chicken, Prawn Dishes, North Indian & South Indian Meals",
+      "avgPrice": "₹250–₹400",
+      "touristPlaceNearby": "Tirupati City Center",
+      "distanceFromTouristPlace": "Approx. 2–3 km from Tirupati Railway Station",
+      "description": "Dojin Smart Restaurant is one of the popular multi-cuisine restaurants in Tirupati serving Chinese, North Indian and South Indian dishes. Known for its flavorful manchurian dishes, soups and seafood specialties, the restaurant has gained popularity among locals and tourists exploring top tourist destinations in Tirupati. It is a good option for those searching for best multi-cuisine restaurants in Tirupati.",
+      "tips": "Best visited for dinner with friends or family if you want Chinese or Indo-Chinese dishes in Tirupati.",
+      "fullAddress": "Dojin Smart Restaurant, main dining area of Tirupati city, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirupati Railway Station travel towards the city restaurant hub where Dojin Smart Restaurant is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Dojin+Smart+Restaurant+Tirupati"
+    },
+    {
+      "shopName": "Hot Spot Restaurant",
+      "images": [
+        "tir_hotspot_1_kbmsll",
+        "tir_hotspot_2_eqy9b9",
+        "tir_hotspot_3_aonhi9"
+      ],
+      "dishName": "Italian Dishes, American Meals, Contemporary Multi-Cuisine Dishes",
+      "avgPrice": "₹300–₹500",
+      "touristPlaceNearby": "Tirupati City Center",
+      "distanceFromTouristPlace": "Approx. 2 km from Tirupati Railway Station",
+      "description": "Hot Spot Restaurant in Tirupati offers a modern dining experience with a variety of Italian, American and contemporary cuisine. With stylish décor and a relaxed dining environment, it is a great choice for tourists and families visiting top tourist places in Tirupati who want to try something beyond traditional temple food.",
+      "tips": "Ideal for family dinner or casual dining after a day of temple visits in Tirupati.",
+      "fullAddress": "Hot Spot Restaurant, central Tirupati dining area, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From the Tirupati main market travel towards the city restaurant hub where Hot Spot Restaurant is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hot+Spot+Restaurant+Tirupati"
+    },
+    {
+      "shopName": "Babai Chinese Dishes",
+      "images": [
+        "tir_babai_1_u3jpjm",
+        "tir_babai_2_wiadyo"
+      ],
+      "dishName": "Chinese Fast Food, Noodles, Manchurian, Quick Bites",
+      "avgPrice": "₹120–₹250",
+      "touristPlaceNearby": "Tirupati City Center",
+      "distanceFromTouristPlace": "Approx. 2 km from Tirupati Railway Station",
+      "description": "Babai Chinese Dishes is a popular Chinese food spot in Tirupati, especially loved by young travelers and locals. The restaurant serves tasty noodles, manchurian and quick Chinese snacks at affordable prices, making it a great stop for tourists exploring best food spots in Tirupati and looking for budget-friendly restaurants in Tirupati city.",
+      "tips": "Visit in the evening for quick Chinese snacks while exploring Tirupati's food streets.",
+      "fullAddress": "Babai Chinese Dishes Restaurant, central Tirupati street food and dining area, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirupati Railway Station travel towards the popular food street area where Babai Chinese Dishes is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Babai+Chinese+Dishes+Tirupati"
+    },
+    {
+      "shopName": "Belgian Waffle Mania",
+      "images": [
+        "tir_belgian_1_zsy2k9",
+        "tir_belgian_2_dknyli"
+      ],
+      "dishName": "Belgian Waffles, Red Velvet Mania Waffle, Belgian Dark Chocolate Mania Waffle, Ice Cream, Milkshakes, BWM Special Sundae, Royal Butterscotch Ice Cream",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Tirupati City Center",
+      "distanceFromTouristPlace": "Approx. 2 km from Tirupati Railway Station",
+      "description": "Belgian Waffle Mania is a must-visit dessert destination in Tirupati, famous for authentic Belgian waffles, ice creams and milkshakes. Signature items like red velvet waffles, dark chocolate waffles and royal butterscotch ice cream make it one of the best dessert places in Tirupati for tourists visiting top attractions in Tirupati city.",
+      "tips": "Best visited after dinner for a sweet dessert treat while exploring Tirupati nightlife and markets.",
+      "fullAddress": "Belgian Waffle Mania Dessert Cafe, Tirupati city dessert street area, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirupati main market head towards the dessert café zone where Belgian Waffle Mania is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Belgian+Waffle+Mania+Tirupati"
+    },
+    {
+      "shopName": "Hotel Mayura",
+      "images": [
+        "tir_sarangi_1_xeiyxw"
+      ],
+      "dishName": "Andhra Vegetarian Thali, Regional Curries, Traditional Tiffins",
+      "avgPrice": "₹180–₹320",
+      "touristPlaceNearby": "Govindaraja Swamy Temple",
+      "distanceFromTouristPlace": "~0.9 km",
+      "description": "Hotel Mayura is famous for authentic Andhra-style vegetarian thalis served with spicy regional curries and traditional flavors. Pilgrims searching for authentic Andhra food in Tirupati often visit this restaurant after temple darshan. Its simple setup and delicious meals make it one of the top local food experiences in Tirupati.",
+      "tips": "Try the Andhra thali for lunch to experience local Tirupati flavors.",
+      "fullAddress": "Near Govindaraja Swamy Temple Main Road, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Govindaraja Swamy Temple walk toward the nearby temple market road where the restaurant is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hotel+Mayura+Govindaraja+Swamy+Temple+Tirupati"
+    },
+    {
+      "shopName": "Minerva Coffee Shop",
+      "images": [
+        "tir_minerva_1_wromsp",
+        "tir_minerva_2_drv4ee"
+      ],
+      "dishName": "Dosa, Idli, Vada, South Indian Breakfast, Veg Thali",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Tirupati City Center",
+      "distanceFromTouristPlace": "~2 km",
+      "description": "Minerva Coffee Shop is a well-known vegetarian restaurant famous for classic South Indian breakfasts. Visitors exploring best breakfast places in Tirupati enjoy its crispy dosas, fluffy idlis, and traditional thalis. Its central location makes it a convenient stop while touring top tourist places in Tirupati.",
+      "tips": "Arrive early in the morning to enjoy fresh South Indian breakfast before temple visits.",
+      "fullAddress": "Minerva Grand Hotel, Renigunta Road, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirupati Bus Stand drive along Renigunta Road toward Minerva Grand Hotel where the café is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Minerva+Coffee+Shop+Minerva+Grand+Hotel+Tirupati"
+    },
+    {
+      "shopName": "Cafe Tirupati",
+      "images": [
+        "tir_cafeturipati_1_jzhqiu",
+        "tir_cafeturipati_2_jfils5"
+      ],
+      "dishName": "South Indian Tiffins, Snacks, Filter Coffee",
+      "avgPrice": "₹100–₹220",
+      "touristPlaceNearby": "Tirupati Bus Stand",
+      "distanceFromTouristPlace": "~0.6 km",
+      "description": "Cafe Tirupati is a casual dining spot perfect for quick snacks and strong aromatic filter coffee. Travelers exploring Tirupati tourist attractions and local food spots often stop here for simple yet delicious tiffins.",
+      "tips": "Best place for a quick breakfast or evening coffee break.",
+      "fullAddress": "Central Tirupati Market Road, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "Walk from Tirupati Bus Stand toward the nearby central market street where the café is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Cafe+Tirupati+Market+Road+Tirupati"
+    },
+    {
+      "shopName": "Hotel Bliss Restaurant",
+      "images": [
+        "tir_bliss_1_zblcvv",
+        "tir_bliss_2_atoztm"
+      ],
+      "dishName": "Andhra Special Thali, North Indian Dishes, Continental Meals",
+      "avgPrice": "₹350–₹800",
+      "touristPlaceNearby": "Sri Venkateswara Temple Tirumala",
+      "distanceFromTouristPlace": "~3.5 km",
+      "description": "Hotel Bliss Restaurant offers a refined dining experience with authentic Andhra thalis along with North Indian and continental cuisine. It is a popular dining choice for travelers searching best restaurants near Tirupati temple area.",
+      "tips": "Ideal for dinner with family after a full day of temple visits.",
+      "fullAddress": "Hotel Bliss Complex, Renigunta Road, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Tirupati Bus Stand travel via Renigunta Road toward Hotel Bliss where the restaurant is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hotel+Bliss+Renigunta+Road+Tirupati"
+    },
+    {
+      "shopName": "Sarangi Restaurant",
+      "images": [
+        "tir_sarangi_2_t3vpph",
+        "tir_sarangi_3_evn0fo"
+      ],
+      "dishName": "Biryani, Indian & Continental Meals",
+      "avgPrice": "₹300–₹650",
+      "touristPlaceNearby": "Tirupati Hill View Area",
+      "distanceFromTouristPlace": "~3 km",
+      "description": "Sarangi Restaurant offers scenic views along with flavorful biryanis and multi-cuisine dishes. Visitors exploring romantic dining spots and best restaurants in Tirupati enjoy its peaceful ambiance and freshly prepared meals.",
+      "tips": "Great place for dinner with friends or family while enjoying the city view.",
+      "fullAddress": "Hill View Road Area, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "Drive from Tirupati city center toward the hill view area to reach the restaurant.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sarangi+Restaurant+Tirupati"
+    },
+    {
+      "shopName": "Varuna Restaurant",
+      "images": [
+        "tir_varuna_1_saxknx",
+        "tir_varuna_2_knvyb1"
+      ],
+      "dishName": "Global Buffet, Multi-cuisine Meals",
+      "avgPrice": "₹400–₹900",
+      "touristPlaceNearby": "Tirupati City Center",
+      "distanceFromTouristPlace": "~2.5 km",
+      "description": "Varuna Restaurant provides an all-day dining experience with a wide buffet and global cuisine menu. Tourists exploring best dining places in Tirupati city enjoy its variety and comfortable atmosphere.",
+      "tips": "Try the buffet dinner if you want to taste multiple cuisines at once.",
+      "fullAddress": "Tirupati City Center Hotel District, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "Travel from Tirupati Bus Stand toward the main hotel district in central Tirupati to reach the restaurant.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Varuna+Restaurant+Tirupati"
+    },
+    {
+      "shopName": "Vrinda Restaurant",
+      "images": [
+        "tir_vrinda_1_l3u8lv",
+        "tir_vrinda_2_chesdb",
+        "tir_vrinda_3_ers66x"
+      ],
+      "dishName": "Indian, Chinese & Continental Vegetarian Meals",
+      "avgPrice": "₹180–₹350",
+      "touristPlaceNearby": "Govindaraja Swamy Temple",
+      "distanceFromTouristPlace": "~0.5 km",
+      "description": "Vrinda Restaurant is a colorful family-friendly restaurant serving vegetarian Indian, Chinese, and continental dishes. Pilgrims visiting top tourist locations in Tirupati often dine here before or after temple darshan because of its convenient location near Govindaraja Swamy Temple.",
+      "tips": "Perfect for a satisfying vegetarian meal after visiting Govindaraja Swamy Temple.",
+      "fullAddress": "Near Govindaraja Swamy Temple Road, Tirupati, Andhra Pradesh, India",
+      "routeDetails": "From Govindaraja Swamy Temple walk along the main temple road where the restaurant is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Vrinda+Restaurant+Govindaraja+Swamy+Temple+Tirupati"
+    }
+  ]
+}

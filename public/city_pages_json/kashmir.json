@@ -1,0 +1,191 @@
+{
+  "city": "Kashmir",
+  "hero": {
+    "tagline": "The Paradise on Earth serves soul-warming flavours — from Wazwan feasts to Kahwa on a Shikara.",
+    "highlights": [
+      "11 curated food spots across Kashmir's iconic landmarks",
+      "Authentic Kashmiri Wazwan, Dum Aloo & Kahwa near Dal Lake & Lal Chowk",
+      "From floating snack boats on Dal Lake to cozy dhabas in Sonmarg snow"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Mughal Darbar",
+      "images": [
+        "kash_mughal_1_opmi52",
+        "kash_mughal_2_exeqds",
+        "kash_mughal_3_c52lj9"
+      ],
+      "dishName": "Dum Aloo, Wazwan Paneer (Waza Paneer), Kashmiri Naan, Plain Roti, Nadru (Lotus Stem – seasonal), Dry Vegetable Chutney",
+      "avgPrice": "₹200–₹400 per person",
+      "touristPlaceNearby": "Lal Chowk Srinagar",
+      "distanceFromTouristPlace": "0 km (Located in main market area)",
+      "description": "One of the most famous places to experience authentic Kashmiri cuisine in Srinagar, Mughal Darbar is a must-visit for tourists exploring Lal Chowk. Known for its rich and spicy Dum Aloo and flavorful Wazwan Paneer, this place offers a true taste of traditional Kashmiri food. The unique Kashmiri Naan topped with cream and dry fruits adds a sweet twist to your food journey. If you're searching for the best food to try in Srinagar or top tourist food spots near Lal Chowk, this iconic restaurant should be on your list for an unforgettable local dining experience.",
+      "tips": "Visit during lunch hours for the freshest preparations and ask locals for directions—everyone knows this place.",
+      "fullAddress": "Lal Chowk, Srinagar, Jammu & Kashmir, India",
+      "routeDetails": "Easily reachable by walking or local transport from anywhere in Srinagar city center.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mughal+Darbar+Lal+Chowk+Srinagar"
+    },
+    {
+      "shopName": "Raja Dhaba",
+      "images": [
+        "kash_raja_1_rjhxcb",
+        "kash_raja_2_z2xrlk",
+        "kash_raja_3_b1kono"
+      ],
+      "dishName": "Maggi, Mix Pakoda, Tea",
+      "avgPrice": "₹50–₹150 per person",
+      "touristPlaceNearby": "Sonmarg View Point",
+      "distanceFromTouristPlace": "~5–10 km from Sonmarg main area",
+      "description": "A perfect roadside stop for travelers heading to Sonmarg, Raja Dhaba offers hot Maggi, crispy pakodas, and steaming tea with breathtaking mountain views. While the food is simple, the experience of eating in the snowy landscape makes it one of the best tourist food stops near Sonmarg. Ideal for those searching for must-try food experiences in Kashmir, this spot combines scenic beauty with quick bites.",
+      "tips": "Stop here early during your journey to enjoy fresh hot snacks before the rush of tourists.",
+      "fullAddress": "Sonmarg Road, near scenic view point, Jammu & Kashmir, India",
+      "routeDetails": "Located on the way to Sonmarg; easily accessible via cab or private vehicle on highway.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Raja+Dhaba+Sonmarg+Road+Kashmir"
+    },
+    {
+      "shopName": "Wani Restaurant",
+      "images": [
+        "kash_wani_1_dec4sk",
+        "kash_wani_2_p2fzza",
+        "kash_wani_3_yoivc4"
+      ],
+      "dishName": "Maggi, Tea",
+      "avgPrice": "₹50–₹120 per person",
+      "touristPlaceNearby": "Sonmarg Snow Activity Area",
+      "distanceFromTouristPlace": "Near snow activity zone (0–2 km)",
+      "description": "Located near the snow activity zone in Sonmarg, Wani Restaurant is a popular stop for tourists looking to enjoy Maggi and tea in freezing temperatures. The charm lies in enjoying hot food amidst snow-covered landscapes, making it one of the top food experiences in Sonmarg. If you're exploring the best tourist places in Kashmir, this spot offers a cozy break during your adventure.",
+      "tips": "Eat Maggi immediately after serving—food gets cold very quickly in snowy weather.",
+      "fullAddress": "Sonmarg, Jammu & Kashmir, India",
+      "routeDetails": "Reachable by walking from snow activity points or via local taxis.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Wani+Restaurant+Sonmarg+Kashmir"
+    },
+    {
+      "shopName": "Gurkha Welcome Heritage Houseboat (ITC Houseboat)",
+      "images": [
+        "kash_gurkha_1_d7dpqx",
+        "kash_gurkha_2_fhbadv"
+      ],
+      "dishName": "Kashmiri Kahwa, Bread Toast, Jam, Puri Bhaji, Fruits (Apple, Orange)",
+      "avgPrice": "₹500–₹1000 (included in stay)",
+      "touristPlaceNearby": "Dal Lake / Nigeen Lake",
+      "distanceFromTouristPlace": "On the lake itself",
+      "description": "Enjoy a traditional Kashmiri breakfast experience on a houseboat at Nigeen Lake, one of the most peaceful tourist locations in Srinagar. From authentic Kashmiri Kahwa to homestyle Puri Bhaji and fresh fruits, this experience combines food with culture and scenic beauty. Perfect for travelers looking for unique food experiences in Kashmir and best places to stay and eat in Srinagar.",
+      "tips": "Request homemade breakfast options in advance to enjoy authentic local flavors during your stay.",
+      "fullAddress": "Nigeen Lake, Srinagar, Jammu & Kashmir, India",
+      "routeDetails": "Reachable via Shikara ride from lake entry points.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Gurkha+Welcome+Heritage+Houseboat+Nigeen+Lake+Srinagar"
+    },
+    {
+      "shopName": "Kuds Floating Snack Boat",
+      "images": [
+        "kash_kuds_1_dlgaa7"
+      ],
+      "dishName": "Maggi, Kashmiri Kahwa, Packaged Chips",
+      "avgPrice": "₹100–₹200 per person",
+      "touristPlaceNearby": "Dal Lake (Floating Market Zone)",
+      "distanceFromTouristPlace": "On Dal Lake (0 km)",
+      "description": "One of the most fun food experiences in Srinagar is enjoying Maggi on a Shikara ride in Dal Lake. This floating snack boat serves hot Maggi, Kahwa, and light snacks, making it a favorite among tourists. If you're searching for unique places to eat in Kashmir or best food during Dal Lake boating, this experience perfectly blends adventure with comfort food.",
+      "tips": "Try Maggi with chips for a unique combo and eat quickly before it gets cold on the lake.",
+      "fullAddress": "Dal Lake, Srinagar, Jammu & Kashmir, India (Floating Vendor near market)",
+      "routeDetails": "Located within floating market area; accessible via Shikara.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Dal+Lake+Floating+Market+Srinagar"
+    },
+    {
+      "shopName": "JJ Foods",
+      "images": [
+        "kash_jj_1_plsquv",
+        "kash_jj_2_ceapuy"
+      ],
+      "dishName": "Wazwan Thali (Rogan Josh, Rista, Gushtaba, Kebabs, Methi Maaz, Rice)",
+      "avgPrice": "₹800–₹1500 per person",
+      "touristPlaceNearby": "Srinagar City",
+      "distanceFromTouristPlace": "Within city",
+      "description": "JJ Foods offers a complete authentic Kashmiri Wazwan experience, which is one of the top food experiences in Srinagar. This multi-course traditional feast includes iconic dishes like Rogan Josh, Rista, and Gushtaba cooked with aromatic spices like saffron, cinnamon, and cardamom. If you are searching for the best traditional food in Kashmir or top tourist dining experiences in Srinagar, this place is perfect to explore the rich cultural cuisine of Kashmir.",
+      "tips": "Visit with a group to enjoy the full Wazwan experience as it includes multiple dishes served together.",
+      "fullAddress": "Srinagar, Jammu & Kashmir, India",
+      "routeDetails": "Easily reachable via local taxi or cab in Srinagar.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=JJ+Foods+Srinagar"
+    },
+    {
+      "shopName": "Janta Bakery",
+      "images": [
+        "kash_janta_1_uenczs",
+        "kash_janta_2_p6qbew",
+        "kash_janta_3_egbfvg"
+      ],
+      "dishName": "Chicken Roll, Chicken Burger, Coconut Cookie, Kashmiri Naan, Bakery Snacks & Pastries",
+      "avgPrice": "₹100–₹300 per person",
+      "touristPlaceNearby": "Near JJ Foods / Srinagar Market",
+      "distanceFromTouristPlace": "Walking distance from JJ Foods",
+      "description": "Janta Bakery is a popular bakery in Srinagar known for its delicious snacks, burgers, rolls, and cookies. From crispy chicken rolls to cheesy burgers and unique coconut cookies, this place is ideal for tourists looking for quick bites in Srinagar. A must-visit for those searching for best bakeries in Kashmir or affordable food near tourist places in Srinagar.",
+      "tips": "Try their coconut cookies with tea—they are one of the most loved bakery items here.",
+      "fullAddress": "Srinagar, Jammu & Kashmir, India",
+      "routeDetails": "Easily accessible by walking in local market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Janta+Bakery+Srinagar"
+    },
+    {
+      "shopName": "Baba Sweets",
+      "images": [
+        "kash_baba_1_zhofxr",
+        "kash_baba_2_zybv9r"
+      ],
+      "dishName": "Halwa Paratha (Suji Halwa + Salted Paratha)",
+      "avgPrice": "₹50–₹100 per plate",
+      "touristPlaceNearby": "Hazratbal Dargah",
+      "distanceFromTouristPlace": "Near Dargah (0–1 km)",
+      "description": "A famous street food spot near Hazratbal Dargah, Baba Sweets serves traditional Halwa Paratha which is loved by locals and tourists alike. This combination of sweet suji halwa and crispy paratha is a must-try food in Srinagar. Ideal for travelers exploring top tourist places in Kashmir and looking for authentic street food near Hazratbal.",
+      "tips": "Visit during morning or evening for freshly prepared halwa and paratha.",
+      "fullAddress": "Hazratbal, Srinagar, Jammu & Kashmir, India",
+      "routeDetails": "Walking distance from Hazratbal shrine area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Baba+Sweets+Hazratbal+Srinagar"
+    },
+    {
+      "shopName": "Char Chinar Shikara Stall",
+      "images": ["Kashmiri-kahwa_akaanb"],
+      "dishName": "Kashmiri Kahwa, Snacks (Chips, Biscuits, Cold Drinks)",
+      "avgPrice": "₹50–₹150",
+      "touristPlaceNearby": "Char Chinar Island",
+      "distanceFromTouristPlace": "On island",
+      "description": "Enjoy Kashmiri Kahwa at Char Chinar Island, one of the most scenic tourist places in Srinagar. This experience combines nature, peaceful surroundings, and traditional Kashmiri drinks, making it a must-do activity for tourists visiting Dal Lake.",
+      "tips": "Carry some cash as digital payments may not work on the island.",
+      "fullAddress": "Char Chinar, Dal Lake, Srinagar, Jammu & Kashmir, India",
+      "routeDetails": "Reachable via Shikara ride from Dal Lake.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Char+Chinar+Island+Dal+Lake+Srinagar"
+    },
+    {
+      "shopName": "Moonlight",
+      "images": [
+        "kash_moonlight_1_isjzgz",
+        "kash_moonlight_2_fd1cqz",
+        "kash_moonlight_3_efse3n"
+      ],
+      "dishName": "Walnut Fudge (Dry Fruit Sweet)",
+      "avgPrice": "₹200–₹500 per box",
+      "touristPlaceNearby": "Srinagar (Local Sweet Shop)",
+      "distanceFromTouristPlace": "Within city",
+      "description": "Moonlight is known for its delicious walnut fudge made with dry fruits like walnuts and dates. This is one of the best sweets to try in Kashmir and a great option for souvenirs. Ideal for tourists searching for famous sweets in Srinagar.",
+      "tips": "Buy packed boxes for travel—they make great gifts from Kashmir.",
+      "fullAddress": "Srinagar, Jammu & Kashmir, India",
+      "routeDetails": "Accessible via local market areas.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Moonlight+Sweets+Srinagar"
+    },
+    {
+      "shopName": "Nathu's Sweets",
+      "images": [
+        "kash_nathu_1_pd3eib",
+        "kash_nathu_2_llzd6d",
+        "kash_nathu_3_tzxcmp"
+      ],
+      "dishName": "Pani Puri, Rajma Chawal, Chaat, North Indian & Chinese Food",
+      "avgPrice": "₹150–₹300 per person",
+      "touristPlaceNearby": "Dal Lake Area",
+      "distanceFromTouristPlace": "Near Dal Lake (0–1 km)",
+      "description": "Nathu's Sweets is a popular restaurant offering a wide variety of North Indian food, chaat, and desserts near Dal Lake. From spicy pani puri to comforting rajma chawal, this place is perfect for tourists looking for affordable vegetarian food in Srinagar near major tourist spots.",
+      "tips": "Ideal for families looking for hygienic and budget-friendly meals near Dal Lake.",
+      "fullAddress": "Near Dal Lake, Srinagar, Jammu & Kashmir, India",
+      "routeDetails": "Located opposite a ghat near Dal Lake; easy to reach by walking.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Nathu's+Sweets+Dal+Lake+Srinagar"
+    }
+  ]
+}

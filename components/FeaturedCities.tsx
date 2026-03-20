@@ -19,12 +19,12 @@ const cities = [
     ],
   },
   {
-    name: "Mumbai",
+    name: "Kashmir",
     images: [
-      { src: cl("amrit_jaan_1_ovmorm"),    alt: "Street food in Mumbai" },
-      { src: cl("amrit_sunny_1_sol0vt"),   alt: "Popular dish in Mumbai" },
-      { src: cl("tamatar_chat_ighe98"),     alt: "Chaat – famous Mumbai street food" },
-      { src: cl("amrit_trad_1_ebzmdy"),    alt: "Traditional food of Mumbai" },
+      { src: cl("kash_mughal_1_opmi52"),   alt: "Dum Aloo at Mughal Darbar, Lal Chowk Srinagar" },
+      { src: cl("kash_jj_1_plsquv"),       alt: "Wazwan Thali at JJ Foods, Srinagar" },
+      { src: cl("kash_gurkha_1_d7dpqx"),   alt: "Kashmiri Kahwa on houseboat, Dal Lake" },
+      { src: cl("kash_wani_1_dec4sk"),     alt: "Maggi and tea at Wani Restaurant, Sonmarg" },
     ],
   },
   {
@@ -46,21 +46,21 @@ const cities = [
     ],
   },
   {
-    name: "Agra",
+    name: "Mumbai",
     images: [
-      { src: cl("amrit_trad_1_ebzmdy"),    alt: "Traditional food of Agra" },
-      { src: cl("raj_kachori_tvfckb"),      alt: "Street food near Taj Mahal, Agra" },
-      { src: cl("tamatar_chat_ighe98"),     alt: "Chaat – popular street food in Agra" },
-      { src: cl("amrit_sunny_1_sol0vt"),   alt: "Famous food spot in Agra" },
+      { src: cl("mum_amar_1_ptbfin"),      alt: "Pav Bhaji at Amar Pav Bhaji, Girgaon Chowpatty" },
+      { src: cl("mum_rustom_1_v8gafk"),    alt: "Ice Cream Sandwich at K. Rustom & Co., Churchgate" },
+      { src: cl("mum_pizzabay_1_itmi2c"),  alt: "Paneer Pizza Bread at Pizza By The Bay, Marine Drive" },
+      { src: cl("mum_juhu_1_s8evqp"),      alt: "Butter Pav Bhaji at Juhu Beach" },
     ],
   },
   {
-    name: "Lucknow",
+    name: "Pune",
     images: [
-      { src: cl("amrit_gurdas_1_bb11ui"),  alt: "Kebab – famous street food of Lucknow" },
-      { src: cl("amrit_gurdas_2_jyxj1n"),  alt: "Traditional Awadhi food in Lucknow" },
-      { src: cl("amrit_jaan_1_ovmorm"),    alt: "Popular food spot in Lucknow" },
-      { src: cl("amrit_trad_1_ebzmdy"),    alt: "Authentic cuisine of Lucknow" },
+      { src: cl("Pune_vaishali1_urudvl"),      alt: "Mysore Masala Dosa at Vaishali, FC Road Pune" },
+      { src: cl("Pune_darpan1_edcfuc"),        alt: "Misal Pav at Darpan Misal, Raviwar Peth Pune" },
+      { src: cl("Pune_cafegoodluck1_pxnril"),  alt: "Bun Maska and Irani Chai at Cafe Goodluck, Deccan Pune" },
+      { src: cl("Pune_sawai1_e7fq1h"),         alt: "Aamras Thali at Sawai Veg, Sinhagad Road Pune" },
     ],
   },
   {
@@ -73,35 +73,80 @@ const cities = [
     ],
   },
   {
-    name: "Hyderabad",
+    name: "Puri",
     images: [
-      { src: cl("amrit_kesar_1_gesei5"),   alt: "Famous food of Hyderabad" },
-      { src: cl("amrit_sunny_1_sol0vt"),   alt: "Street food near Charminar, Hyderabad" },
-      { src: cl("amrit_jaan_1_ovmorm"),    alt: "Popular dish in Hyderabad" },
-      { src: cl("delhi_concept_1_cfs0jp"), alt: "Iconic food spot in Hyderabad" },
+      { src: cl("puri_dalma_1_dkh8my"),      alt: "Odia Thali at Dalma Restaurant, Puri" },
+      { src: cl("puri_ganguram_1_dluoec"),   alt: "Khaja at Ganguram Sweets near Jagannath Temple, Puri" },
+      { src: cl("puri_gopal_1_wxqyr5"),      alt: "Chhena sweets at Govindo Sweet Stall, Puri Beach" },
+      { src: cl("puri_nrusingha_1_nvhxnl"), alt: "Khaja prasad at Nrusingha Sweets, Grand Road Puri" },
     ],
   },
   {
-    name: "Bangalore",
+    name: "Nainital",
     images: [
-      { src: cl("amrit_trad_1_ebzmdy"),    alt: "Traditional food of Bangalore" },
-      { src: cl("tamatar_chat_ighe98"),     alt: "Street food in Bangalore" },
-      { src: cl("amrit_gurdas_1_bb11ui"),  alt: "Famous food spot in Bangalore" },
-      { src: cl("raj_kachori_tvfckb"),      alt: "Popular snack in Bangalore" },
+      { src: cl("nan_tamang_1_amqmoq"),      alt: "Momos at Tamang, Tibetan Market Nainital" },
+      { src: cl("nan_naini_1_cbf1fh"),       alt: "Jalebi with Dahi at Naini Jalebi Bhandar, Nainital" },
+      { src: cl("nan_aquarium_1_uq9ugx"),    alt: "Aquarium Island Cafe, Bhimtal Lake Nainital" },
+      { src: cl("nan_ashok_1_x3fjib"),       alt: "Kumaoni Thali at Ashok Hotel, Nainital" },
+    ],
+  },
+  {
+    name: "Darjeeling",
+    images: [
+      { src: cl("Darjeeling_Glenarys1_bgsjzx"),    alt: "English Breakfast at Glenary's, Mall Road Darjeeling" },
+      { src: cl("Darjeeling_Keventers1_emrdsq"),   alt: "Breakfast platter at Keventers, Chowrasta Darjeeling" },
+      { src: cl("Darjeeling_Gangjong1_yxu7w9"),    alt: "Tibetan food at Gang Jong Restaurant, Darjeeling" },
+      { src: cl("Darjleeng_TigerHill_dksqxk"),    alt: "Hot momos at Tiger Hill Sunrise Point, Darjeeling" },
     ],
   },
   {
     name: "Kolkata",
     images: [
-      { src: cl("amrit_chungi_1_rxkj7x"),  alt: "Street food in Kolkata" },
-      { src: cl("delhi_sitaram_1_gpvt99"), alt: "Famous food spot in Kolkata" },
-      { src: cl("amrit_gurdas_2_jyxj1n"),  alt: "Traditional cuisine of Kolkata" },
-      { src: cl("jaipur_kachori_qjnzq2"),  alt: "Popular snack in Kolkata" },
+      { src: cl("kol_flurys_1_oelctm"),  alt: "English Breakfast at Flurys, Park Street Kolkata" },
+      { src: cl("kol_tiwari_1_ar17dv"),  alt: "Raj Kachori at Tiwari Brothers, Bara Bazar Kolkata" },
+      { src: cl("kol_balarm_1_r1t3bw"),  alt: "Baked Rasgulla at Balaram Mullick, Bhawanipur Kolkata" },
+      { src: cl("kol_kc_1_xwzdsx"),      alt: "Rasgulla at KC Das, Esplanade Kolkata" },
+    ],
+  },
+  {
+    name: "Matheran",
+    images: [
+      { src: cl("math_veranda_1_evuteb"),    alt: "Heritage dining at Verandah in the Forest, Matheran" },
+      { src: cl("math_hakimi_1_o1256y"),     alt: "Chicken Kolhapuri at Hakimi Restaurant, Matheran Market" },
+      { src: cl("math_charlotte_1_yksk0i"),  alt: "Local food near Charlotte Lake, Matheran" },
+      { src: cl("math_corn_1_k6zyad"),       alt: "Roasted Bhutta at King George Point, Matheran" },
+    ],
+  },
+  {
+    name: "Mahabaleshwar",
+    images: [
+      { src: cl("maha_mapro_1_fa25i4"),      alt: "Strawberry with cream at Mapro Garden, Mahabaleshwar" },
+      { src: cl("maha_bagicha_1_x5nh7x"),   alt: "Makai Patties at Bagicha Restaurant, Mahabaleshwar" },
+      { src: cl("maha_pure_1_ck2y4v"),      alt: "Artisan cheese at Pure Gold Cheese Factory, Panchgani" },
+      { src: cl("maha_desert_1_poqcuc"),    alt: "Chocolate dipped strawberries at Mahabaleshwar Market" },
+    ],
+  },
+  {
+    name: "Lucknow",
+    images: [
+      { src: cl("luc_raheem_1_lzveti"),      alt: "Kulcha Nahari at Raheem's, Chowk Old Lucknow" },
+      { src: cl("luc_royal_2_fjcfbq"),       alt: "Basket Chaat at Royal Cafe, Hazratganj Lucknow" },
+      { src: cl("luc_sharmatea_1_qxe3fk"),  alt: "Round Samosa and Chai at Sharma Ji Ki Chai, Lucknow" },
+      { src: cl("luc_idrees_1_sgjbub"),      alt: "Mutton Biryani at Idrees Biryani, Aminabad Lucknow" },
+    ],
+  },
+  {
+    name: "Tirupati",
+    images: [
+      { src: cl("tir_ps4_1_wwxkd0"),      alt: "Andhra Veg Thali at PS4 Pure Veg Restaurant, Tirupati" },
+      { src: cl("tir_zodiac_1_liu3fk"),    alt: "South Indian breakfast at Zodiac Restaurant, Tirupati" },
+      { src: cl("tir_belgian_1_zsy2k9"),   alt: "Belgian Waffles at Belgian Waffle Mania, Tirupati" },
+      { src: cl("tir_vrinda_1_l3u8lv"),    alt: "Vegetarian meals at Vrinda Restaurant, Tirupati" },
     ],
   },
 ];
 
-const completedCities = ["delhi", "jaipur", "amritsar", "varanasi"];
+const completedCities = ["delhi", "jaipur", "amritsar", "varanasi", "kashmir", "mumbai", "pune", "kolkata", "nainital", "puri", "darjeeling", "matheran", "mahabaleshwar", "lucknow", "tirupati"];
 
 export default function FeaturedCities() {
   const scrollRef = useRef<HTMLDivElement>(null);

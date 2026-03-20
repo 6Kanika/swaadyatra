@@ -1,0 +1,168 @@
+{
+  "city": "Puri",
+  "hero": {
+    "tagline": "The Sacred City of Lord Jagannath serves divine flavours — from Mahaprasad Khaja to Chhena sweets on the beach.",
+    "highlights": [
+      "10 curated food spots across Puri's iconic landmarks",
+      "Authentic Odia thalis, Chhena sweets & Dahi Vada near Jagannath Temple & Puri Beach",
+      "From beach-side sweet stalls to temple prasad delicacies on Grand Road"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Dahi Vada Vendor (Opposite Niradari Hotel)",
+      "images": [
+        "Screenshot_2026-03-19_203740_p3t3y5"
+      ],
+      "dishName": "Cuttack Style Dahi Vada, Aloo Dum, Ghugni",
+      "avgPrice": "₹40",
+      "touristPlaceNearby": "Puri Lighthouse, Puri Beach",
+      "distanceFromTouristPlace": "~50–100 m from Puri Lighthouse",
+      "description": "This famous Cuttack style Dahi Vada stall near Puri Lighthouse is one of the best breakfast street food experiences in the city. Located close to Puri Beach, this vendor serves soft vadas soaked in spiced curd topped with flavorful Aloo Dum and Ghugni. For travelers exploring best food to try in Puri while enjoying the sea breeze and morning beach vibes, this local street food spot offers an authentic Odia snack loved by tourists and locals alike.",
+      "tips": "Visit early morning for the freshest vadas. Best enjoyed with the sea breeze at Puri Beach.",
+      "fullAddress": "Opposite Niradari Hotel, Near Puri Lighthouse, Puri Beach Road, Puri, Odisha",
+      "routeDetails": "From Puri Beach Lighthouse walk towards Niradari Hotel; the vendor sits just opposite the hotel on the roadside near the beach.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Niradari+Hotel+Puri+Beach+Lighthouse+Puri+Odisha"
+    },
+    {
+      "shopName": "Dalma Restaurant",
+      "images": [
+        "puri_dalma_1_dkh8my",
+        "puri_dalma_2_ivoiy8"
+      ],
+      "dishName": "Special Odia Thali (Dalma, Aloo Parwal Bhaja, Saag Bhaja, Aloo Chokha, Mushroom Curry, Chhena Tarkari, Kheer, Papad, Rice, Buttermilk)",
+      "avgPrice": "₹200–₹300",
+      "touristPlaceNearby": "Puri Beach / Jagannath Temple Area",
+      "distanceFromTouristPlace": "Within main city area, short ride from Jagannath Temple and Puri Beach",
+      "description": "Dalma Restaurant in Puri is a well-known place to try an authentic Odia thali, making it a must-visit food stop for tourists exploring best tourist locations in Puri. The special thali includes traditional dishes like Dalma (lentils with vegetables), saag bhaja, aloo parwal bhaja, mushroom curry, chhena curry, kheer and rice. It's a perfect place for travelers who want to experience traditional Odia cuisine near Jagannath Temple and Puri Beach.",
+      "tips": "Visit during lunch for the full thali experience. Try the Dalma — it's the signature dish of Odisha.",
+      "fullAddress": "Dalma Restaurant, Puri, Odisha",
+      "routeDetails": "Easily accessible from Puri Beach road; located within city dining area and reachable via auto or walk from nearby tourist spots.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Dalma+Restaurant+Puri+Odisha"
+    },
+    {
+      "shopName": "Govindo Sweet Stall",
+      "images": [
+        "puri_gopal_1_wxqyr5"
+      ],
+      "dishName": "Chhena Poda, Rasgulla, Chhena Gaja, Madan Mohan Sweet, Chhena Jhilli",
+      "avgPrice": "₹70",
+      "touristPlaceNearby": "Puri Beach",
+      "distanceFromTouristPlace": "Located directly on Puri Beach area",
+      "description": "This Puri Beach sweet stall run by Govindo serves some of the most iconic Odia chhena-based sweets such as Chhena Poda, Rasgulla, Chhena Gaja and Madan Mohan sweets. While exploring Puri Beach, visitors can enjoy these authentic local desserts made from fresh chhena. It is a perfect stop for tourists looking for best sweets to try in Puri and traditional Odia desserts near the beach.",
+      "tips": "Try Chhena Poda — it's the most unique Odia sweet, baked like a cake from fresh chhena.",
+      "fullAddress": "Puri Beach Street Sweet Stall, Puri Beach Area, Puri, Odisha",
+      "routeDetails": "Walk along Puri Beach street food lane where multiple vendors sell local sweets; Govindo stall is among them.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Puri+Beach+Sweet+Stalls+Puri+Odisha"
+    },
+    {
+      "shopName": "Ganguram Sweets",
+      "images": [
+        "puri_ganguram_1_dluoec",
+        "puri_ganguram_2_rle9k7"
+      ],
+      "dishName": "Khaja (Ghee Khaja, Oil Khaja varieties)",
+      "avgPrice": "₹20–₹40",
+      "touristPlaceNearby": "Jagannath Temple Area",
+      "distanceFromTouristPlace": "Near Jagannath Temple market area",
+      "description": "Ganguram Sweets in Puri is known for serving the iconic Khaja, a crispy layered sweet made from flour and dipped in sugar syrup. Khaja is traditionally offered as prasad at Jagannath Temple, making it one of the most famous sweets associated with Puri tourism. Visitors exploring best food to try near Jagannath Temple in Puri should definitely taste this ultra-crispy sweet delicacy.",
+      "tips": "Buy both Ghee Khaja and Oil Khaja to compare the two varieties. Great as a takeaway gift from Puri.",
+      "fullAddress": "Ganguram Sweets, Puri, Odisha",
+      "routeDetails": "Reach via the main market streets around Jagannath Temple.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Ganguram+Sweets+Puri+Odisha"
+    },
+    {
+      "shopName": "Papodi Stall (Near Temple – South/West Corner)",
+      "images": [
+        "Screenshot_2026-03-19_203255_widqpy",
+        "Screenshot_2026-03-19_203143_khmhbc"
+      ],
+      "dishName": "Papodi (Malai Layer Dessert with Rabri & Sugar)",
+      "avgPrice": "₹150",
+      "touristPlaceNearby": "Jagannath Temple",
+      "distanceFromTouristPlace": "Very close to Jagannath Temple entrance",
+      "description": "This rare Papodi Malai dessert near Jagannath Temple is one of the most unique sweets you can try in Puri. It consists of a thick layer of fresh milk cream topped with rabri and sugar, served on a leaf plate. Tourists visiting the Jagannath Temple often stop here to try this creamy delicacy. If you are searching for unique traditional sweets in Puri, Papodi is a must-try local specialty.",
+      "tips": "Available only near the temple area — don't miss it as it's rarely found elsewhere.",
+      "fullAddress": "Near South-West Corner, Jagannath Temple Area, Puri, Odisha",
+      "routeDetails": "From Jagannath Temple East gate walk toward the south-west corner street where small stalls sell papodi.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Jagannath+Temple+South+West+Corner+Puri+Odisha"
+    },
+    {
+      "shopName": "Nrusingha Sweets",
+      "images": [
+        "puri_nrusingha_1_nvhxnl",
+        "puri_nrusingha_2_rd3dr0"
+      ],
+      "dishName": "Khaja (Temple Prasad Sweet)",
+      "avgPrice": "₹20–₹40",
+      "touristPlaceNearby": "Jagannath Temple",
+      "distanceFromTouristPlace": "~200 m",
+      "description": "Nrusingha Sweets is one of the famous sweet shops near Jagannath Temple known for its authentic Khaja, the iconic Mahaprasad sweet of Puri. Tourists visiting the best tourist locations in Puri often stop here to taste this crispy layered sweet that is closely associated with temple offerings. Trying Khaja from this shop is considered one of the best food experiences in Puri.",
+      "tips": "Buy freshly made Khaja — the texture is best when eaten the same day.",
+      "fullAddress": "Near Jagannath Temple, Grand Road, Puri, Odisha, India",
+      "routeDetails": "Walk straight from Jagannath Temple main gate towards Grand Road market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Nrusingha+Sweets+Grand+Road+Puri+Odisha"
+    },
+    {
+      "shopName": "Adani Group Prasad Seva Kitchen",
+      "images": [
+        "puri_adani_1_uh5niz"
+      ],
+      "dishName": "Dalma Rice, Halwa, Mango Khatta, Gulab Jamun, Chapati, Prasad Thali, Rose Flavoured Milk",
+      "avgPrice": "Free / Donation Based",
+      "touristPlaceNearby": "Jagannath Temple",
+      "distanceFromTouristPlace": "~0.5–1 km",
+      "description": "Adani Group Prasad Seva Kitchen is a massive community kitchen operating during the famous Rath Yatra festival in Puri. Located near the sacred Jagannath Temple, this large-scale kitchen serves thousands of devotees daily with traditional Odia food like Dalma rice, mango khatta, halwa and prasad thali. It represents one of the most unique food experiences in Puri where pilgrims can taste authentic temple-style dishes.",
+      "tips": "Available mainly during Rath Yatra festival season. A rare opportunity to experience community Mahaprasad.",
+      "fullAddress": "Rath Yatra Service Kitchen Area, Near Jagannath Temple, Puri, Odisha, India",
+      "routeDetails": "Located along Rath Yatra service zones near Jagannath Temple where volunteers distribute meals and drinks to devotees.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Jagannath+Temple+Rath+Yatra+Puri+Odisha"
+    },
+    {
+      "shopName": "Ram Mandir Street Food Stalls",
+      "images": [
+        "puri_ram_1_isu9bp",
+        "puri_ram_2_cf2r2y"
+      ],
+      "dishName": "Dahi Vada, Dal, Vada, Singada, Puri, Chhena Sweets",
+      "avgPrice": "₹30–₹80",
+      "touristPlaceNearby": "Ram Mandir",
+      "distanceFromTouristPlace": "~50–100 m",
+      "description": "Ram Mandir Street Food Stalls in Bhubaneswar are popular among locals and tourists for authentic Odia street food like Dahi Vada, Dal, Vada, Singada and fresh Chhena sweets. If you are exploring famous tourist places like Ram Mandir, this street food lane is a must-visit for affordable local snacks and traditional Odia flavors. The thin watery dahi with curry leaves and mustard tempering gives the Dahi Vada a unique regional taste.",
+      "tips": "Try the Singada (Odia samosa) — it has a unique thin crispy shell different from North Indian samosas.",
+      "fullAddress": "Outside Ram Mandir, Bhubaneswar, Odisha, India",
+      "routeDetails": "Located right outside Ram Mandir where multiple small street vendors sell local snacks and breakfast items.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Ram+Mandir+Street+Food+Bhubaneswar+Odisha"
+    },
+    {
+      "shopName": "Ravi Mosa Rasgulla Stall",
+      "images": [
+        "puri_ravi_1_mzeeho"
+      ],
+      "dishName": "Rasgulla (Large Odisha Style Rasgulla)",
+      "avgPrice": "₹30–₹60",
+      "touristPlaceNearby": "Jagannath Temple",
+      "distanceFromTouristPlace": "~300 m",
+      "description": "Ravi Mosa Rasgulla Stall is known for serving large and soft Odisha-style Rasgullas soaked in light sugar syrup. Many visitors compare Odisha Rasgullas with the famous Kolkata version, but locals claim the Puri version has a unique texture and flavor. Tourists exploring the best food places near Jagannath Temple often stop here to try this iconic sweet dish of Odisha.",
+      "tips": "Try the Odisha Rasgulla chilled — the light syrup and spongy texture is best when cold.",
+      "fullAddress": "Near Jagannath Temple Street Market, Puri, Odisha, India",
+      "routeDetails": "Located in the local market lanes near Jagannath Temple where sweet stalls sell traditional Odia desserts.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Rasgulla+Stall+Jagannath+Temple+Market+Puri+Odisha"
+    },
+    {
+      "shopName": "Local Odia Thali Restaurant near Jagannath Temple",
+      "images": [
+        "puri_odia_1_htkbox"
+      ],
+      "dishName": "Odia Thali (Dal, Aloo Posto, Mixed Vegetable Curry, Tomato Mushroom Curry, Papad, Rice, Pickle)",
+      "avgPrice": "₹120–₹200",
+      "touristPlaceNearby": "Jagannath Temple",
+      "distanceFromTouristPlace": "~300 m",
+      "description": "A great place to try an authentic Odia thali near Jagannath Temple, offering a full plate of regional flavors including dal, vegetable curries, papad and rice. This meal represents the traditional cuisine of Puri and Odisha, making it one of the best food experiences for tourists visiting Puri. Travelers exploring top tourist locations in Puri often stop here to enjoy a complete local Odia vegetarian meal.",
+      "tips": "Ask for Aloo Posto — it's a signature Odia dish made with potatoes and poppy seeds.",
+      "fullAddress": "Jagannath Temple Food Lane, Grand Road Area, Near Temple Market, Puri, Odisha, India",
+      "routeDetails": "From Jagannath Temple main road (Grand Road), walk into the nearby food lane where small traditional restaurants serve Odia thalis.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Odia+Thali+Restaurant+Grand+Road+Jagannath+Temple+Puri"
+    }
+  ]
+}

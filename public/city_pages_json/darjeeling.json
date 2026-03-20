@@ -1,0 +1,190 @@
+{
+  "city": "Darjeeling",
+  "hero": {
+    "tagline": "The Queen of Hills serves misty flavours — from heritage Glenary's breakfasts to steaming momos at Tiger Hill sunrise.",
+    "highlights": [
+      "11 curated food spots across Darjeeling's iconic landmarks",
+      "Authentic Tibetan thukpa, momos & Darjeeling tea near Chowrasta & Mall Road",
+      "From colonial-era cafés to hilltop sunrise stalls with Himalayan views"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Glenary's",
+      "images": [
+        "Darjeeling_Glenarys1_bgsjzx",
+        "Darjeeling_Glenarys2_prnfps",
+        "Darjeeling_Glenarys3_fsxm1m"
+      ],
+      "dishName": "Fried Eggs with Grilled Tomatoes, Darjeeling Tea",
+      "avgPrice": "₹140–₹300",
+      "touristPlaceNearby": "Chowrasta (Mall Road), Bhanubhakt Acharya Statue",
+      "distanceFromTouristPlace": "~0–100 m from Chowrasta",
+      "description": "Glenary's is one of the most iconic heritage cafés in Darjeeling, established in 1885. Located on the famous Mall Road near Chowrasta, this colonial-era bakery is a must-visit when exploring the best tourist locations in Darjeeling. Travelers love starting their day here with a classic breakfast and authentic Darjeeling tea, while enjoying panoramic hill views from the outdoor seating. The café is famous among tourists searching for the best food to try in Darjeeling and offers a historic ambiance along with delicious breakfast dishes.",
+      "tips": "Arrive before 8:30 AM to easily get a table. After 10 AM the café usually becomes crowded with tourists.",
+      "fullAddress": "Glenary's Bakery & Café, Mall Road, Chowrasta, Darjeeling, West Bengal 734101, India",
+      "routeDetails": "Located directly on Mall Road near Chowrasta. Easily reachable by walking while exploring the central Darjeeling market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Glenary's+Bakery+Cafe+Mall+Road+Chowrasta+Darjeeling"
+    },
+    {
+      "shopName": "Kunga Restaurant",
+      "images": [
+        "Darjeeling_Kunga1_uge20t",
+        "Darjeeling_Kunga2_l1ymbv",
+        "Darjeeling_Kunga3_i5juao"
+      ],
+      "dishName": "Veg Mushroom Fing (Glass Noodles), Veg Momos, Veg Thukpa, Mix Veg Chilli",
+      "avgPrice": "₹120–₹250",
+      "touristPlaceNearby": "Mall Road / Chowrasta Market",
+      "distanceFromTouristPlace": "~10 minutes walk from Mall Road",
+      "description": "Kunga Restaurant is a popular Tibetan food spot in Darjeeling known for authentic Himalayan flavors. Located about a 10-minute walk from the bustling Chowrasta Mall Road, this small but highly loved restaurant attracts both locals and tourists searching for best Tibetan food in Darjeeling. The eatery is famous for dishes like Fing (glass noodles made from rice), veg momos, thukpa, and chilli vegetables. These noodles are traditionally sourced from nearby Kalimpong, making the dish a unique regional specialty.",
+      "tips": "Visit around 11 AM if you want to avoid crowds. The restaurant opens around 10 AM and closes by 6 PM, and they do not serve dinner.",
+      "fullAddress": "Kunga Restaurant, Gandhi Road, near Chowrasta Market, Darjeeling, West Bengal 734101, India",
+      "routeDetails": "Walk from Chowrasta towards the inner market lanes near Gandhi Road; the restaurant is located slightly downhill from the main market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Kunga+Restaurant+Gandhi+Road+Darjeeling"
+    },
+    {
+      "shopName": "Keventers",
+      "images": [
+        "Darjeeling_Keventers1_emrdsq",
+        "Darjeeling_Keventers2_oia1v6",
+        "Darjeeling_Keventers3_jvoqow"
+      ],
+      "dishName": "Sausages, Salami, Meatloaf, Eggs Breakfast Platter",
+      "avgPrice": "₹300–₹600",
+      "touristPlaceNearby": "Mahakal Temple / Chowrasta / Mall Road Viewpoint",
+      "distanceFromTouristPlace": "~2–3 minutes walk from Chowrasta",
+      "description": "Keventers is one of the most legendary breakfast spots in Darjeeling, originally started by Swedish entrepreneur Edward Keventer during the British era. Located near Chowrasta Mall Road, this rooftop café is famous for its classic English-style breakfast with sausages, salami, meatloaf and eggs, all prepared in-house. The terrace seating offers spectacular views of the Darjeeling hills and Kanchenjunga range, making it one of the best places to eat in Darjeeling while exploring top tourist places like Mall Road and Chowrasta.",
+      "tips": "Visit before 9 AM to avoid long queues. The rooftop seating offers the best views for photos.",
+      "fullAddress": "Keventers, Nehru Road, near Chowrasta Mall Road, Darjeeling, West Bengal 734101, India",
+      "routeDetails": "From Chowrasta walk towards Nehru Road viewpoint terrace where Keventers is located above the market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Keventers+Nehru+Road+Darjeeling"
+    },
+    {
+      "shopName": "Gang Jong Restaurant",
+      "images": [
+        "Darjeeling_Gangjong1_yxu7w9",
+        "Darjeeling_Gangjong2_io8ra4",
+        "Darjeeling_Gangjong3_rtbgm0"
+      ],
+      "dishName": "Chicken Taipho (Giant Steamed Momo), Handmade Tibetan Pasta Soup, Veg Kaudi",
+      "avgPrice": "₹150–₹350",
+      "touristPlaceNearby": "Near Chowrasta / Town Center",
+      "distanceFromTouristPlace": "~5–7 minutes walk from Chowrasta",
+      "description": "Gang Jong Restaurant is one of the oldest Tibetan eateries in Darjeeling with a history of more than 100 years. Located near the central town market, the restaurant is famous for unique Himalayan dishes like Chicken Taipho (a giant steamed momo stuffed with meat and onions), handmade Tibetan pasta soup and traditional local meals. The recipes come from Tibetan heritage brought by earlier generations who settled in Darjeeling. Because of its authenticity and history, this place is considered among the best local restaurants in Darjeeling for Tibetan cuisine.",
+      "tips": "Try Chicken Taipho, also called 'big momo'. Best during cold weather with soup.",
+      "fullAddress": "Gang Jong Restaurant, N. B. Singh Road, Darjeeling, West Bengal 734101, India",
+      "routeDetails": "Walk from Chowrasta towards N.B. Singh Road in the central market area of Darjeeling town.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Gang+Jong+Restaurant+NB+Singh+Road+Darjeeling"
+    },
+    {
+      "shopName": "Santa Banta Dhaba",
+      "images": [
+        "Darjeeling_santabanta1_ryedsi",
+        "Darjeeling_santabanta2_zjucmz"
+      ],
+      "dishName": "Thukpa, Kali Dal, Mix Sabzi, Biryani, Naan Roti, Tandoori Roti",
+      "avgPrice": "₹200–₹400",
+      "touristPlaceNearby": "Darjeeling Town Area",
+      "distanceFromTouristPlace": "Within main town area",
+      "description": "Santa Banta Dhaba is a well-known restaurant in Darjeeling serving hearty meals for travelers exploring the city. The highlight dish here is hot vegetable and chicken Thukpa, a traditional Himalayan noodle soup loaded with vegetables, herbs and thin noodles — perfect for the cold mountain climate. The dhaba also serves satisfying North Indian dishes like Kali Dal, Mix Sabzi, Biryani and fresh Tandoori Roti, making it a good option for tourists searching for best Indian food in Darjeeling.",
+      "tips": "Try Thukpa in cold weather and pair tandoori roti with Kali Dal for a filling meal.",
+      "fullAddress": "Santa Banta Dhaba, Darjeeling Town, Darjeeling, West Bengal",
+      "routeDetails": "Easily accessible by road from central Darjeeling markets and tourist hotels.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Santa+Banta+Dhaba+Darjeeling"
+    },
+    {
+      "shopName": "JOJO Restaurant",
+      "images": [
+        "Darjeeling_Jojo1_zxwqoe",
+        "Darjeeling_Jojo2_ct0jrv",
+        "Darjeeling_Jojo3_n2rjiz"
+      ],
+      "dishName": "Chicken Steam Momos, Veg Squash Momos, Maggi, Wai Wai Mimi with Aloo Curry, Beetroot Juice, Traditional Nepali Raksi Drink",
+      "avgPrice": "₹80–₹200",
+      "touristPlaceNearby": "Fufufatak Area",
+      "distanceFromTouristPlace": "Local neighborhood area",
+      "description": "JOJO Restaurant is a cozy local eatery in the Fufufatak area of Darjeeling, known for serving authentic Himalayan comfort food like steaming chicken momos, squash veg momos, Maggi noodles and Wai Wai Mimi with spicy potato curry. The place also offers unique drinks like beetroot juice and traditional Nepali Raksi, making it a hidden gem for travelers searching for best local food in Darjeeling beyond tourist cafes. The thin momo wrappers and spicy Dalle chilli chutney make it a must-visit spot.",
+      "tips": "Try chicken momos with Dalle chilli chutney and Wai Wai Mimi hot.",
+      "fullAddress": "Fufufatak Area, Darjeeling, West Bengal",
+      "routeDetails": "Located in Fufufatak locality of Darjeeling town.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=JOJO+Restaurant+Fufufatak+Darjeeling"
+    },
+    {
+      "shopName": "Tiger Hill Sunrise Stall",
+      "images": [
+        "Darjleeng_TigerHill_dksqxk"
+      ],
+      "dishName": "Hot Momos with Spicy Chutney",
+      "avgPrice": "₹80–₹120",
+      "touristPlaceNearby": "Tiger Hill Sunrise Point",
+      "distanceFromTouristPlace": "At sunrise viewpoint",
+      "description": "Watching the sunrise at Tiger Hill, one of the most famous tourist attractions in Darjeeling, becomes even better with a plate of hot steaming momos served at small roadside stalls. These stalls serve simple but delicious dumplings with spicy chutney that warm you up during the early morning cold. Eating hot momos while watching the sunrise over the Himalayas is one of the most memorable food experiences in Darjeeling.",
+      "tips": "Eat hot momos while waiting for sunrise because mornings are extremely cold.",
+      "fullAddress": "Tiger Hill View Point Area, Darjeeling, West Bengal",
+      "routeDetails": "Small food stalls located near the sunrise viewing area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Tiger+Hill+Sunrise+Point+Darjeeling"
+    },
+    {
+      "shopName": "Orange Factory Farm Shop",
+      "images": [
+        "Darjeeling_OrangeFactory_yiymmb"
+      ],
+      "dishName": "Fresh Orange Muffin/Cake, Orange Fruit Beer",
+      "avgPrice": "₹80–₹200",
+      "touristPlaceNearby": "Orange Garden Area",
+      "distanceFromTouristPlace": "Inside farm property",
+      "description": "This small Orange Factory farm shop near Darjeeling's orange gardens serves freshly made orange muffins, cakes and orange fruit beer prepared using locally grown oranges. Tourists visiting the scenic orchards often stop here to taste farm-fresh snacks. It's a unique food experience for travelers searching for offbeat food places near Darjeeling tourist attractions and local farm products.",
+      "tips": "Try fresh orange cake when it's warm from the oven.",
+      "fullAddress": "Orange Garden Area near Darjeeling villages",
+      "routeDetails": "Located near local orange orchards and farms.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Orange+Factory+Farm+Darjeeling"
+    },
+    {
+      "shopName": "Local Viewpoint Stall (Tinchuley)",
+      "images": [
+        "Darjeeling_Tinchuley_clwylj"
+      ],
+      "dishName": "Maggi, Chulha Tea",
+      "avgPrice": "₹50–₹120",
+      "touristPlaceNearby": "Tinchuley Viewpoint",
+      "distanceFromTouristPlace": "At viewpoint",
+      "description": "At the beautiful Tinchuley viewpoint near Darjeeling, travelers can enjoy simple yet satisfying snacks like hot Maggi noodles and tea prepared on a traditional chulha stove. With panoramic mountain views, this small stall offers one of the best scenic food experiences near Darjeeling tourist viewpoints where visitors can relax and enjoy warm food in the cold mountain air.",
+      "tips": "Perfect stop for tea and Maggi while enjoying mountain views.",
+      "fullAddress": "Tinchuley Viewpoint Area, Darjeeling District, West Bengal",
+      "routeDetails": "Small roadside stalls near the scenic viewpoint.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Tinchuley+Viewpoint+Darjeeling"
+    },
+    {
+      "shopName": "Mukhiya Restaurant",
+      "images": [
+        "Darjeeling_mukhiya_lkomay"
+      ],
+      "dishName": "Lopchu Peda (Khoya Milk Sweet), Kalimpong Lollipop Candy",
+      "avgPrice": "₹100–₹200",
+      "touristPlaceNearby": "Lopchu Area",
+      "distanceFromTouristPlace": "On road to Tinchuley",
+      "description": "Mukhiya Restaurant in Lopchu is known for its famous Lopchu Peda, a traditional milk-based sweet made from khoya. This roadside stop is popular among travelers driving through the Darjeeling hills who want to taste local sweets. The peda has a slightly firm texture similar to candy and is a unique local dessert to try near Darjeeling hill routes.",
+      "tips": "Buy packed peda as a sweet souvenir.",
+      "fullAddress": "Lopchu Area, Darjeeling District, West Bengal",
+      "routeDetails": "Located on the roadside market in Lopchu village.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mukhiya+Restaurant+Lopchu+Darjeeling"
+    },
+    {
+      "shopName": "Kathmandu Kitchen",
+      "images": [
+        "Darjeeling_Kathmandu1_cihxql",
+        "Darjeeling_Kathmandu2_wtcmtd"
+      ],
+      "dishName": "Pork Sekuwa, Gundruk Chutney, Nepali Pizza (Rice Flour Base with Egg, Chicken, Cheese)",
+      "avgPrice": "₹250–₹400",
+      "touristPlaceNearby": "Darjeeling Town",
+      "distanceFromTouristPlace": "Within town",
+      "description": "Kathmandu Kitchen is a Nepali-style restaurant in Darjeeling serving flavorful dishes like pork sekuwa grilled meat with spicy peanut chutney and traditional gundruk chutney. The restaurant also offers a unique Nepali pizza made with rice flour base topped with egg, chicken and cheese. It is a great spot for tourists looking to try authentic Nepali cuisine in Darjeeling beyond regular street food.",
+      "tips": "Try pork sekuwa with peanut chutney for the best flavor.",
+      "fullAddress": "Darjeeling Town Market Area, Darjeeling, West Bengal",
+      "routeDetails": "Located in the central restaurant area of Darjeeling.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Kathmandu+Kitchen+Darjeeling"
+    }
+  ]
+}

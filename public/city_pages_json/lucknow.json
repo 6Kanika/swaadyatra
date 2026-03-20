@@ -1,0 +1,234 @@
+{
+  "city": "Lucknow",
+  "hero": {
+    "tagline": "The City of Nawabs serves royal Awadhi flavours — from Raheem's legendary Kulcha Nahari in Old Lucknow to basket chaat at Royal Café near Hazratganj.",
+    "highlights": [
+      "14 curated food spots across Lucknow's iconic landmarks and heritage markets",
+      "Authentic Awadhi kebabs, Makhan Malai, Nahari & biryani near Rumi Darwaza & Chowk",
+      "From century-old sweet shops to vibrant street chaat near Hazratganj and Vidhan Sabha"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Local Street Food Stall",
+      "images": [
+        "luc_localstreet_1_fns9qw",
+        "luc_localstreet_2_z5i6sz"
+      ],
+      "dishName": "Bhel Puri (Chatpati Bhel), Veg Burger",
+      "avgPrice": "₹40–₹60",
+      "touristPlaceNearby": "Ambedkar Memorial Park",
+      "distanceFromTouristPlace": "Approx. 50–100 meters",
+      "description": "After exploring Ambedkar Memorial Park, one of the top tourist locations in Lucknow, visitors can enjoy delicious street food from local stalls right outside the park. This vendor serves chatpati Bhel Puri and Veg Burger, freshly prepared with puffed rice, peanuts, tangy chutneys, lemon, onions, and spices that create a perfect spicy and crunchy street snack. The veg burger is made with a crispy patty, tomato, and flavorful red and green chutneys that give it a classic Indian street-style taste. Tourists visiting Ambedkar Park in Gomti Nagar often stop here to enjoy quick bites after sightseeing, making it a popular place for travelers searching for best food to try in Lucknow near Ambedkar Memorial Park while exploring the city's famous attractions.",
+      "tips": "Carry small change; stalls are busiest in the evening after park closing hours.",
+      "fullAddress": "Street food stalls outside Ambedkar Memorial Park main gate, Gomti Nagar, Lucknow, Uttar Pradesh",
+      "routeDetails": "Exit Ambedkar Memorial Park main gate and walk towards the roadside street food vendors located just outside the entrance area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Ambedkar+Memorial+Park+Gomti+Nagar+Lucknow"
+    },
+    {
+      "shopName": "Old Street Snack Stall",
+      "images": [
+        "luc_oldstreet_1_t5czpe"
+      ],
+      "dishName": "Mini Samosa, Samosa, Palak Pakoda, Besan Pakoda, Kachori-style Snack with Chutney",
+      "avgPrice": "₹15–₹40",
+      "touristPlaceNearby": "Jhande Wala Park / Meena Bagh Area",
+      "distanceFromTouristPlace": "Approx. 50–150 meters",
+      "description": "This 40–50 year old traditional snack stall near Jhande Wala Park in Lucknow is known for serving classic Lucknow street snacks like mini samosa, crispy samosa, palak pakoda, besan pakoda and kachori-style snacks with chutney. These items are freshly fried and served hot, making them a perfect breakfast or evening snack for locals and tourists exploring the area. When visiting popular tourist areas and markets in Lucknow, trying authentic fried snacks from such long-running vendors gives travelers a taste of the city's real street food heritage. It is an excellent stop for visitors searching for best street food in Lucknow and traditional snacks near local markets.",
+      "tips": "Visit in the evening when snacks are freshly fried and the stall is at its busiest.",
+      "fullAddress": "Near Jhande Wala Park / Meena Bagh locality, Lucknow, Uttar Pradesh",
+      "routeDetails": "Walk around the street market area near Jhande Wala Park in the Meena Bagh locality where small traditional snack vendors operate.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Jhande+Wala+Park+Meena+Bagh+Lucknow"
+    },
+    {
+      "shopName": "Royal Cafe",
+      "images": [
+        "luc_openair_1_tu1xmo",
+        "luc_royal_2_fjcfbq"
+      ],
+      "dishName": "Veg Galawati-style Kabab with Paratha, Basket Chaat",
+      "avgPrice": "₹120–₹200",
+      "touristPlaceNearby": "Hazratganj / Lalbagh Area",
+      "distanceFromTouristPlace": "Approx. 200–300 meters from Hazratganj Metro Station Gate No.1",
+      "description": "Royal Café in Lalbagh near Hazratganj is one of the most iconic food destinations in Lucknow, famous for its innovative vegetarian galawati-style kabab served with soft paratha and multiple chutneys along with the legendary Basket Chaat. The basket chaat features a crispy fried potato basket filled with chickpeas, yogurt, tangy chutneys and spices creating a perfect balance of crunchy, spicy and tangy flavors. Located near Hazratganj – one of the top tourist and shopping locations in Lucknow, this café attracts both locals and travelers looking for best food to try in Lucknow, famous Lucknow chaat, and iconic Hazratganj food spots. It is widely considered a must-visit place for experiencing Lucknow street food with a modern twist.",
+      "tips": "Try the basket chaat — it is the signature dish here and worth every bite.",
+      "fullAddress": "Lalbagh Main Market near Hazratganj Metro Station Gate No.1, Lucknow, Uttar Pradesh",
+      "routeDetails": "Exit Hazratganj Metro Station and walk towards Lalbagh market area where Royal Café is located among popular eateries.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Royal+Cafe+Lalbagh+Hazratganj+Lucknow"
+    },
+    {
+      "shopName": "Ram Asrey",
+      "images": [
+        "luc_royalasrey_1_x9o7qd",
+        "luc_royalasrey_2_kuqdnl"
+      ],
+      "dishName": "Makhan Malai (Malaiyo), Rabri-style Milk Dessert",
+      "avgPrice": "₹40–₹80",
+      "touristPlaceNearby": "Chowk / Old Lucknow Market",
+      "distanceFromTouristPlace": "Approx. 200–300 meters",
+      "description": "Ram Asrey is one of the oldest and most famous sweet shops in Lucknow, especially known for the winter delicacy Makhan Malai (also called Malaiyo). This airy saffron flavored milk foam dessert is prepared using a traditional overnight process and topped with dry fruits. Located in the historic Chowk area of Old Lucknow, the shop attracts food lovers exploring heritage markets and cultural spots nearby. Visitors searching for best sweets in Lucknow, traditional Lucknow desserts, and must-try food in Chowk Lucknow often come here to experience this iconic Awadhi dessert.",
+      "tips": "Makhan Malai is only available in winter (October–February); visit early morning for the freshest batch.",
+      "fullAddress": "Ram Asrey Sweets, Chowk Market area, Lucknow, Uttar Pradesh",
+      "routeDetails": "Walk through the narrow heritage lanes of Chowk market where the historic Ram Asrey sweet shop is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Ram+Asrey+Sweets+Chowk+Lucknow"
+    },
+    {
+      "shopName": "Veg Tunday Kababi Style Stall",
+      "images": [
+        "luc_vegtunday_1_mlgzt0",
+        "luc_vegtunday_2_sfhmkx"
+      ],
+      "dishName": "Veg Galawati Kabab (made with Chana Dal, Cashew, Spices served with Chutney)",
+      "avgPrice": "₹60–₹120",
+      "touristPlaceNearby": "Hazratganj Area",
+      "distanceFromTouristPlace": "Approx. 200–400 meters",
+      "description": "This popular vegetarian kebab stall near Hazratganj market serves a delicious veg galawati kebab inspired by the famous Tunday kebabs of Lucknow. Made using mashed chana dal, cashews and aromatic Awadhi spices, the kebabs are extremely soft and flavorful, served with lemon and chutney. For visitors exploring Hazratganj – one of the most popular tourist and shopping areas in Lucknow, this spot offers a rare chance to taste vegetarian Lucknow-style kebabs. It is a great option for travelers searching for best veg kebabs in Lucknow, famous Awadhi street food, and vegetarian food in Hazratganj.",
+      "tips": "Pair with roomali roti or paratha for the best experience.",
+      "fullAddress": "Street food stall near Hazratganj market area, Lucknow, Uttar Pradesh",
+      "routeDetails": "Walk inside the busy Hazratganj market streets where local vendors sell vegetarian kebab versions inspired by Lucknow's famous kebabs.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hazratganj+Market+Lucknow"
+    },
+    {
+      "shopName": "Ashwani Rabri Stall",
+      "images": [
+        "luc_ashwani_1_ncsnl5",
+        "luc_ashwani_2_ee91v1"
+      ],
+      "dishName": "Rabri (Thickened Sweet Milk Dessert with Dry Fruits)",
+      "avgPrice": "₹40–₹80",
+      "touristPlaceNearby": "Kaiserbagh Chauraha",
+      "distanceFromTouristPlace": "Approx. 100 meters",
+      "description": "Ashwani Rabri Stall at Kaiserbagh Chauraha is a famous local dessert spot in Lucknow known for serving rich and creamy Rabri topped with dry fruits like cashews. The thick sweet milk dessert has a dense texture and intense flavor, making it a favorite among locals after meals. Located near Kaiserbagh – an important historical and market area in Lucknow, this place attracts food lovers exploring the heritage part of the city. Tourists looking for best sweets in Lucknow, traditional milk desserts, and famous food near Kaiserbagh often stop here to enjoy this classic Awadhi sweet treat.",
+      "tips": "Best enjoyed chilled in summer or at room temperature in winter.",
+      "fullAddress": "Near Kaiserbagh Chauraha, Lucknow, Uttar Pradesh",
+      "routeDetails": "Reach Kaiserbagh Chauraha and ask locals for the famous Ashwani Rabri stall which is well known in the area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Kaiserbagh+Chauraha+Lucknow"
+    },
+    {
+      "shopName": "Pandit Ji Ki Chaat",
+      "images": [
+        "luc_pandit_1_cc58gg"
+      ],
+      "dishName": "Mixed Chaat (Samosa Chaat, Papdi Chaat, Spicy Aloo Chaat, Kadhi Pakoda Mix)",
+      "avgPrice": "₹40–₹90",
+      "touristPlaceNearby": "Lucknow Vidhan Sabha Area",
+      "distanceFromTouristPlace": "Approx. 300–500 meters from Vidhan Sabha",
+      "description": "Pandit Ji Ki Chaat is a popular street food stop near the Lucknow Vidhan Sabha area, serving a large variety of authentic Lucknow chaat. Their specialty is a Mixed Chaat Plate where multiple snacks like samosa chaat, papdi chaat, spicy aloo, kadhi pakoda, and chutneys are combined into one flavorful plate. The chaat is loaded with tangy chutneys, spices, and crispy toppings that create the classic taste loved by locals and tourists alike. When exploring top tourist locations in Lucknow such as Vidhan Sabha, Hazratganj, and nearby heritage streets, this place is perfect to experience the authentic Lucknow street food culture.",
+      "tips": "Visit in the evening when the stall is at its busiest and all chaat varieties are freshly prepared.",
+      "fullAddress": "Street chaat stall near Vidhan Sabha road market area, Lucknow, Uttar Pradesh",
+      "routeDetails": "From Vidhan Sabha road walk towards the nearby local market street where the famous Pandit Ji chaat stall is located among multiple street vendors.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Uttar+Pradesh+Vidhan+Sabha+Lucknow"
+    },
+    {
+      "shopName": "Sardar Ji Punjabi Food Stall",
+      "images": [
+        "luc_ssardarji_2_erzzer",
+        "luc_ssardarji_1_revnv9"
+      ],
+      "dishName": "Chole, Kulcha, Halwa, Mattha (Buttermilk)",
+      "avgPrice": "₹10–₹60",
+      "touristPlaceNearby": "Lucknow Vidhan Sabha Area",
+      "distanceFromTouristPlace": "Approx. 300–500 meters from Vidhan Sabha",
+      "description": "This Punjabi food stall near Lucknow Vidhan Sabha is known for serving flavorful Chole with Kulcha, along with sides like halwa and refreshing mattha (buttermilk). The chole here have a strong North Indian flavor with rich spices, slightly different from typical UP-style chole, giving visitors a unique fusion taste. Locals often visit this stall for a quick meal while exploring nearby places like Hazratganj market and Vidhan Sabha, making it a hidden gem for tourists searching for best food to try in Lucknow street food markets.",
+      "tips": "Try the mattha (buttermilk) alongside chole kulcha — it is a refreshing combination.",
+      "fullAddress": "Street food stall near Vidhan Sabha road market lane, Lucknow, Uttar Pradesh",
+      "routeDetails": "Walk from the Vidhan Sabha building towards the nearby food lane and local market area where small Punjabi food stalls operate.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Uttar+Pradesh+Vidhan+Sabha+Lucknow"
+    },
+    {
+      "shopName": "Dahi Bhalle Stall",
+      "images": [
+        "luc_dahi_1_qsdtgh"
+      ],
+      "dishName": "Dahi Bhalle (Soft Spongy Lentil Dumplings with Yogurt)",
+      "avgPrice": "₹20–₹40",
+      "touristPlaceNearby": "Uttar Pradesh Vidhan Sabha",
+      "distanceFromTouristPlace": "Approx. 200–400 meters from Vidhan Sabha",
+      "description": "While exploring the Vidhan Sabha area – one of the important landmarks in Lucknow, this street vendor is known for serving soft and spongy Dahi Bhalle topped with yogurt, chutneys, and spices. The bhalle are extremely soft and soak up the flavorful yogurt and chutneys, creating a perfect balance of sweet, tangy, and savory taste. Street food lovers visiting top tourist locations in Lucknow such as Hazratganj, Vidhan Sabha, and nearby markets often stop here to enjoy this refreshing snack.",
+      "tips": "Best enjoyed chilled — perfect as a refreshing snack during summer sightseeing.",
+      "fullAddress": "Street stall near Uttar Pradesh Vidhan Sabha road food lane, Lucknow, Uttar Pradesh",
+      "routeDetails": "From Vidhan Sabha walk towards the nearby street food lane where multiple chaat and snack vendors are located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Uttar+Pradesh+Vidhan+Sabha+Lucknow"
+    },
+    {
+      "shopName": "Sharma Ji Ki Chai",
+      "images": [
+        "luc_sharmatea_1_qxe3fk",
+        "luc_shukla_2_padxks"
+      ],
+      "dishName": "Round Samosa, Bun Makkhan, Chai",
+      "avgPrice": "₹40–₹80",
+      "touristPlaceNearby": "Rumi Darwaza",
+      "distanceFromTouristPlace": "Near Rumi Darwaza (within city center area)",
+      "description": "Sharma Ji Ki Chai is one of the most iconic breakfast spots in Lucknow established in 1949 and loved by locals and tourists alike. Located close to major tourist locations in Lucknow like Rumi Darwaza, this legendary tea stall is famous for its unique round samosa, buttery bun makkhan, and rich Lucknow style chai. The samosa is extra crispy with mashed spicy potato filling flavored with black pepper, green chillies, and tangy amchur. Their sweet bun with homemade white butter paired with aromatic cardamom chai makes it a perfect morning stop for anyone exploring the best street food in Lucknow during a food tour of the city's historic attractions.",
+      "tips": "Arrive before 9 AM for the freshest samosas — they sell out fast on busy mornings.",
+      "fullAddress": "Sharma Ji Ki Chai, Lalbagh Area, Lucknow, Uttar Pradesh, India",
+      "routeDetails": "From Rumi Darwaza head towards Lalbagh market area where the famous tea stall is located on a busy local street.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sharma+Ji+Ki+Chai+Lalbagh+Lucknow"
+    },
+    {
+      "shopName": "Raheem's Kulcha Nahari",
+      "images": [
+        "luc_raheem_1_lzveti",
+        "luc_raheem_2_etvisg"
+      ],
+      "dishName": "Kulcha Nahari",
+      "avgPrice": "₹150–₹250",
+      "touristPlaceNearby": "Rumi Darwaza",
+      "distanceFromTouristPlace": "Near Rumi Darwaza in Old Lucknow",
+      "description": "Raheem's Kulcha Nahari is a legendary food destination in Old Lucknow and over 100 years old, famous for serving one of the best Nahari in Lucknow. Located in the historic Chowk area near famous tourist places in Lucknow like Rumi Darwaza, this eatery attracts food lovers searching for authentic Awadhi cuisine. Their signature dish features flaky milk-based layered kulcha served with slow-cooked mutton nahari prepared in rich aromatic gravy with delicate spices like cardamom and cooked onions. The tender mutton and thick flavorful gravy make it a must-try dish for visitors exploring top food spots and tourist attractions in Lucknow.",
+      "tips": "Visit early morning — Nahari is a breakfast dish and the shop closes once it sells out.",
+      "fullAddress": "Raheem's Nihari, Chowk Area, Lucknow, Uttar Pradesh, India",
+      "routeDetails": "From Rumi Darwaza enter the Chowk area famous for Awadhi food streets where Raheem's shop is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Raheem's+Nihari+Chowk+Lucknow"
+    },
+    {
+      "shopName": "Idrees Biryani",
+      "images": [
+        "luc_idrees_1_sgjbub",
+        "luc_idrees_2_j8zydm"
+      ],
+      "dishName": "Mutton Biryani",
+      "avgPrice": "₹180–₹300",
+      "touristPlaceNearby": "Aminabad Market",
+      "distanceFromTouristPlace": "Near Aminabad Market",
+      "description": "Idrees Biryani is among the most popular places to eat authentic Lucknowi Biryani. Situated in a small busy lane near Aminabad market, this outlet is famous for its slow cooked Awadhi style mutton biryani prepared in large traditional deghs over charcoal. The biryani features long fragrant rice grains cooked with tender mutton, saffron water, and whole spices like cloves and cardamom giving it a rich yet delicate flavor. Despite its simple setup and takeaway style service, Idrees Biryani is considered one of the best biryani places in Lucknow and a must visit food stop for tourists exploring Lucknow street food.",
+      "tips": "Arrive by 1 PM for lunch — biryani often sells out by mid-afternoon.",
+      "fullAddress": "Idrees Biryani, Patanala Road, Near Aminabad, Lucknow, Uttar Pradesh, India",
+      "routeDetails": "From Aminabad market walk towards Patanala road where the small but famous takeaway outlet is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Idrees+Biryani+Patanala+Road+Aminabad+Lucknow"
+    },
+    {
+      "shopName": "Shukla Chaat House",
+      "images": [
+        "luc_shukla_1_qq5vuc",
+        "luc_shukla_2_padxks"
+      ],
+      "dishName": "Aloo Tikki Chaat, Golgappe",
+      "avgPrice": "₹50–₹120",
+      "touristPlaceNearby": "Hazratganj Area",
+      "distanceFromTouristPlace": "Near Hazratganj market",
+      "description": "Shukla Chaat House is one of the most famous chaat spots in Lucknow known for its flavorful Aloo Tikki Chaat and Golgappe. Situated near the lively Hazratganj market, this place attracts locals and tourists searching for the best street food in Lucknow. Their crispy potato patties are topped with chilled curd, tangy chutneys, crushed golgappa puris, and aromatic spices creating a perfect balance of crunchy, sweet, and tangy flavors. It is considered one of the top chaat destinations for visitors exploring Lucknow tourist locations and food markets.",
+      "tips": "Try both aloo tikki chaat and golgappe together for the full Lucknow chaat experience.",
+      "fullAddress": "Shukla Chaat House, Hazratganj, Lucknow, Uttar Pradesh, India",
+      "routeDetails": "Located in the Hazratganj food street area accessible by walking through the main market.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Shukla+Chaat+House+Hazratganj+Lucknow"
+    },
+    {
+      "shopName": "Open Air Restaurant",
+      "images": [
+        "luc_openair_1_tu1xmo",
+        "luc_openair_2_iaxemm"
+      ],
+      "dishName": "Mughlai Paratha, Chicken Masala, Afghani Chicken Tikka",
+      "avgPrice": "₹200–₹350",
+      "touristPlaceNearby": "Lucknow City Center",
+      "distanceFromTouristPlace": "Within city food area",
+      "description": "Open Air Restaurant is a paradise for non-vegetarian food lovers looking for authentic Mughlai dishes in Lucknow. Known for its freshly prepared Mughlai Paratha, Chicken Masala, and Afghani Chicken Tikka, the place is filled with the aroma of grilled kebabs and slow cooked spices. The flaky Mughlai paratha made with flour, semolina, eggs, and curd pairs perfectly with tender marinated chicken cooked in onion-tomato masala. For travelers exploring top tourist places and food spots in Lucknow, this restaurant offers a delicious experience of rich Awadhi and Mughlai flavors.",
+      "tips": "Order Afghani Chicken Tikka alongside Mughlai Paratha for the best combination.",
+      "fullAddress": "Open Air Restaurant, Lucknow, Uttar Pradesh, India",
+      "routeDetails": "Located in a busy food street area of Lucknow known for Mughlai cuisine stalls.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Open+Air+Restaurant+Lucknow"
+    }
+  ]
+}

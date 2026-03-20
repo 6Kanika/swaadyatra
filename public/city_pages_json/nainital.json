@@ -1,0 +1,276 @@
+{
+  "city": "Nainital",
+  "hero": {
+    "tagline": "The Lake District of India serves hill-fresh flavours — from Tibetan momos to Kumaoni thalis.",
+    "highlights": [
+      "16 curated food spots across Nainital's iconic landmarks",
+      "Authentic Kumaoni cuisine, Bal Mithai & Tibetan street food near Naini Lake & Mall Road",
+      "From Bakery Market cream buns to hilltop Maggi at Tiffin Top"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Tamang",
+      "images": [
+        "nan_tamang_1_amqmoq",
+        "nan_tamang_2_qdsurh",
+        "nan_tamang_3_arrv4w"
+      ],
+      "dishName": "Veg Momos, Mutton Momos, Chicken Momos, Veg Thukpa, Non-Veg Thukpa, Fried Rice, Spring Rolls, Veg Noodles",
+      "avgPrice": "₹40–₹140",
+      "touristPlaceNearby": "Naini Lake",
+      "distanceFromTouristPlace": "~200–300 m from Naini Lake",
+      "description": "Tamang is a popular Tibetan-style street food spot in Nainital's Tibetan Market, known for fresh handmade momos and hot thukpa bowls. Tourists exploring Naini Lake and Mall Road often stop here to enjoy authentic Tibetan and desi-Chinese street food. The freshly prepared dumplings with spicy red chutney and steaming noodle soups make it one of the best food stops near Naini Lake.",
+      "tips": "Try momos with their spicy red chutney. Visit in evening for fresh batches. Veg and non-veg both available.",
+      "fullAddress": "Tibetan Market, Mallital Area, Near Naini Lake, Nainital, Uttarakhand",
+      "routeDetails": "Walk from Naini Lake Mall Road side towards Tibetan Market, the stall is located inside the busy market lane.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Tamang+Momo+Stall+Tibetan+Market+Mallital+Nainital"
+    },
+    {
+      "shopName": "Narayan Sons Bakery",
+      "images": [
+        "nan_narayan_1_ejgimt",
+        "nan_narayan_2_q7osac"
+      ],
+      "dishName": "Cream Bun, Small Cream Bun, Bakery Puff",
+      "avgPrice": "₹20–₹30",
+      "touristPlaceNearby": "Naini Lake",
+      "distanceFromTouristPlace": "~300 m from Naini Lake",
+      "description": "Narayan Sons Bakery is famous for its iconic cream buns in Nainital's Bakery Market. The freshly baked soft buns filled with sweet cream are a nostalgic local snack loved by both tourists and locals. Located near Naini Lake and Mall Road, this small bakery is one of the best places in Nainital to try traditional bakery snacks.",
+      "tips": "Visit when fresh buns are coming out of the oven for best taste. Great quick snack while exploring Mall Road area.",
+      "fullAddress": "Bakery Market, Mallital, Near Naini Lake, Nainital, Uttarakhand",
+      "routeDetails": "Walk from Mall Road near Naini Lake into Bakery Market narrow lanes; the bakery is inside the famous bakery lane of Mallital.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Narayan+Sons+Bakery+Mallital+Nainital"
+    },
+    {
+      "shopName": "Jagdish Bakery",
+      "images": [
+        "nan_jagdish_wcqqk6",
+        "nan_jagdish_2_wxbnnc"
+      ],
+      "dishName": "Aloo Patty (Potato Puff), Biscuits, Bakery Snacks",
+      "avgPrice": "₹20",
+      "touristPlaceNearby": "Naini Lake",
+      "distanceFromTouristPlace": "~300 m from Naini Lake",
+      "description": "Jagdish Bakery in Nainital's Bakery Market is known for its crispy fresh aloo patties and classic bakery snacks. The puff pastry filled with lightly spiced potatoes is served hot and crunchy, making it a favorite street snack for travelers exploring Mall Road and Naini Lake tourist area.",
+      "tips": "Best eaten hot right after baking. Perfect light snack during a walking tour of Mall Road and nearby markets.",
+      "fullAddress": "Bakery No. 8, Bakery Market, Mallital, Nainital, Uttarakhand",
+      "routeDetails": "Enter Bakery Market near Mall Road and walk through the narrow bakery lane; the shop is marked as Bakery No. 8.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Jagdish+Bakery+Bakery+Market+Mallital+Nainital"
+    },
+    {
+      "shopName": "Bawarchi Namkeen Shop",
+      "images": [
+        "nan_bawarchi_1_a7iq3y",
+        "nan_bawarchi_2_ti1mev"
+      ],
+      "dishName": "Namak Pare, Spicy Peanuts, Black Pepper Peanuts, Besan Peanuts, Kabuli Chana Mix, Dal Mix, Kaju Mix, Chivda and Other Namkeen",
+      "avgPrice": "₹220–₹260 per kg",
+      "touristPlaceNearby": "Naina Devi Temple / Mall Road",
+      "distanceFromTouristPlace": "~500 m from Naini Lake",
+      "description": "Bawarchi Namkeen Shop in Bara Bazaar is a paradise for traditional Indian snacks in Nainital. The shop offers a wide variety of freshly prepared namkeen like namak pare, flavored peanuts, chana mixes and crunchy snacks perfect with evening tea. Located close to Mall Road and popular Nainital tourist spots, it is a great place to buy local snacks and food souvenirs.",
+      "tips": "Taste samples before buying. Good place to buy snacks to take home from Nainital.",
+      "fullAddress": "Bara Bazaar, Mallital, Nainital, Uttarakhand",
+      "routeDetails": "Walk from Mall Road towards Bara Bazaar, inside the narrow market streets full of snack shops.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Bawarchi+Namkeen+Shop+Bara+Bazaar+Nainital"
+    },
+    {
+      "shopName": "Naini Jalebi Bhandar",
+      "images": [
+        "nan_naini_1_cbf1fh",
+        "nan_naini_2_l8ascb"
+      ],
+      "dishName": "Jalebi with Dahi (Curd)",
+      "avgPrice": "₹30–₹50",
+      "touristPlaceNearby": "Naini Lake / Mall Road",
+      "distanceFromTouristPlace": "~500 m from Naini Lake",
+      "description": "Naini Jalebi Bhandar is one of the oldest and most famous sweet shops in Nainital, serving hot jalebis since the British era. The thick syrupy jalebis paired with fresh curd create a unique sweet-and-tangy combination loved by visitors. Located near Mall Road and Naini Lake, this historic shop is considered one of the best places to try traditional sweets in Nainital.",
+      "tips": "Best time to visit is morning when fresh jalebis are prepared. Try jalebi with dahi for the authentic local experience.",
+      "fullAddress": "Bara Bazaar, Mallital, Nainital, Uttarakhand",
+      "routeDetails": "Walk from Mall Road to Bara Bazaar, the shop is a well-known jalebi shop in the busy market lane.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Naini+Jalebi+Bhandar+Bara+Bazaar+Nainital"
+    },
+    {
+      "shopName": "Anupam Restaurant",
+      "images": [
+        "nan_anupam_1_wgpufc",
+        "nan_anupam_2_uvpfet",
+        "nan_anupam_3_axaiuh",
+        "nan_anupam_4_djjl0i",
+        "nan_anupam_5_ep7tjq"
+      ],
+      "dishName": "Paneer Do Pyaza, Mushroom Masala, Tawa Chapati",
+      "avgPrice": "₹200–₹400 per person",
+      "touristPlaceNearby": "Bara Bazaar",
+      "distanceFromTouristPlace": "~400–500 m from Naini Lake",
+      "description": "Anupam Restaurant in Bara Bazaar is a good place in Nainital to enjoy a proper North Indian meal while exploring the local market. The restaurant serves flavorful curries like Paneer Do Pyaza and Mushroom Masala with freshly made chapatis. Located close to Naina Devi Temple and Mall Road, it is a convenient stop for travelers looking for a hearty meal near the main tourist locations in Nainital.",
+      "tips": "Paneer Do Pyaza is a popular dish here. Portion sizes are large and can easily serve multiple people.",
+      "fullAddress": "Bara Bazaar, Mallital, Nainital, Uttarakhand",
+      "routeDetails": "Walk from Naina Devi Temple towards Bara Bazaar market lanes; the restaurant is located within the busy shopping market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Anupam+Restaurant+Bara+Bazaar+Nainital"
+    },
+    {
+      "shopName": "Mamu's Shop",
+      "images": [
+        "nan_mamu_1_dhqiyk",
+        "nan_mamu_2_zf9yqe"
+      ],
+      "dishName": "Bal Mithai",
+      "avgPrice": "₹400–₹600 per kg",
+      "touristPlaceNearby": "Bara Bazaar / Mall Road",
+      "distanceFromTouristPlace": "~500 m from Naini Lake",
+      "description": "Mamu's Shop in Bara Bazaar is one of the well-known places to buy Bal Mithai, a traditional sweet from the Kumaon region. Made from roasted khoya and coated with sugar balls, this sweet is considered a must-try when visiting Nainital. Many travelers buy it as an edible souvenir while exploring the famous markets near Naini Lake and Mall Road.",
+      "tips": "Buy fresh packs as takeaway. It's one of the most famous sweets of the Kumaon region.",
+      "fullAddress": "Bara Bazaar Market, Mallital, Nainital, Uttarakhand",
+      "routeDetails": "Walk through Bara Bazaar shopping lanes near Mall Road; the sweet shop is popular for Kumaoni sweets.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mamu+Sweet+Shop+Bara+Bazaar+Nainital"
+    },
+    {
+      "shopName": "Saraswati Sweets",
+      "images": [
+        "nan_saraswati_1_x54j2i",
+        "nan_saraswati_2_ne56h8"
+      ],
+      "dishName": "Bal Mithai",
+      "avgPrice": "₹400–₹600 per kg",
+      "touristPlaceNearby": "Bara Bazaar / Mall Road",
+      "distanceFromTouristPlace": "~500 m from Naini Lake",
+      "description": "Saraswati Sweets is another famous sweet shop in Nainital known for authentic Bal Mithai and Kumaoni sweets. Tourists visiting Naini Lake, Mall Road and Bara Bazaar often stop here to try traditional desserts from the region. This shop is among the best places in Nainital to experience local Kumaoni sweets and traditional hill station flavors.",
+      "tips": "Great place to buy Bal Mithai as a gift or travel snack. Ask for fresh stock.",
+      "fullAddress": "Bara Bazaar, Mallital, Nainital, Uttarakhand",
+      "routeDetails": "Located within Bara Bazaar market area near Mall Road, easily reachable by walking from the lake.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Saraswati+Sweets+Bara+Bazaar+Nainital"
+    },
+    {
+      "shopName": "Ashok Hotel",
+      "images": [
+        "nan_ashok_1_x3fjib",
+        "nan_ashok_2_gdqded",
+        "nan_ashok_3_mciggq"
+      ],
+      "dishName": "Kumaoni Thali, Rass (Thathwani), Aloo ke Gutke, Chholi Roti, Baingan ke Pue, Kumaoni Raita, Pahadi Halwa",
+      "avgPrice": "₹250–₹500 per person",
+      "touristPlaceNearby": "Nainital Town Area",
+      "distanceFromTouristPlace": "Within main Nainital town",
+      "description": "Ashok Hotel serves authentic Kumaoni cuisine in Nainital when ordered in advance. Traditional dishes like Rass (Thathwani), Aloo ke Gutke, Chholi Roti, Kumaoni Raita and Baingan ke Pue showcase the unique flavors of the Kumaon region. For travelers exploring top tourist locations in Nainital, trying a Kumaoni meal here provides a rare opportunity to experience traditional hill cuisine.",
+      "tips": "Call or request in advance if you want authentic Kumaoni dishes as they may not always be available on the regular menu.",
+      "fullAddress": "Nainital Town Area, Uttarakhand",
+      "routeDetails": "Located inside Nainital town area, accessible from the main market and Mall Road area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Ashok+Hotel+Nainital"
+    },
+    {
+      "shopName": "Gullu Tea Shop / Gullu Tibetan Restaurant",
+      "images": [
+        "nan_gullu_1_yy2xtl",
+        "nan_tibetian_1_fjrjrb"
+      ],
+      "dishName": "Mutton Momo, Chicken Momo, Dry Thukpa, Special Gullu Tea",
+      "avgPrice": "₹80–₹200",
+      "touristPlaceNearby": "Bhotia / Tibetan Market, Mall Road",
+      "distanceFromTouristPlace": "Near Naini Lake Mall Road",
+      "description": "Once a simple tea cart, Gullu Tea Shop evolved into a Tibetan-style restaurant famous among locals. The place is known for juicy mutton momos, dry thukpa noodles with minced meat and black pepper, and its signature Special Gullu Tea. This spot reflects the Tibetan food influence found in many Himalayan hill stations.",
+      "tips": "If ordering momo, mutton is served by default — ask specifically if you want chicken.",
+      "fullAddress": "Bhotia (Tibetan) Market near Mall Road, Nainital, Uttarakhand",
+      "routeDetails": "Walk from Mall Road towards Bhotia Tibetan Market where the small restaurant is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Gullu+Tea+Shop+Tibetan+Market+Nainital"
+    },
+    {
+      "shopName": "Old Bakery Shop (since 1944)",
+      "images": [
+        "nan_oldbakery_1_wx1nam"
+      ],
+      "dishName": "Chocolate Truffle Cake, Cheesecake",
+      "avgPrice": "₹120–₹250",
+      "touristPlaceNearby": "Mall Road Area",
+      "distanceFromTouristPlace": "Near Naini Lake",
+      "description": "One of the oldest dessert spots in Nainital (since 1944) serving classic bakery desserts. Their chocolate truffle and cheesecake are known for their soft, creamy and gooey texture and have been loved by locals for decades.",
+      "tips": "Good stop for dessert during a Mall Road walk.",
+      "fullAddress": "Mall Road area, Nainital, Uttarakhand",
+      "routeDetails": "Located along the Mall Road market stretch.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Old+Bakery+Shop+Mall+Road+Nainital"
+    },
+    {
+      "shopName": "Anchal Doodh Dairy",
+      "images": [
+        "nan_anchal_1_vuxf0k"
+      ],
+      "dishName": "Pineapple Yogurt",
+      "avgPrice": "₹40–₹80",
+      "touristPlaceNearby": "Mallital Area",
+      "distanceFromTouristPlace": "Near Naini Lake",
+      "description": "A historic dairy outlet originally known as Aligarh Dairy Farm (since 1946), now operating as Anchal Doodh Dairy. It serves fresh dairy products and flavored yogurt. The pineapple yogurt with real fruit chunks is a unique refreshing option even during cold weather.",
+      "tips": "Try the pineapple yogurt for a fresh fruit flavor.",
+      "fullAddress": "Mallital area, Nainital, Uttarakhand",
+      "routeDetails": "Located near the market area after shifting from Mall Road about 20 years ago.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Anchal+Doodh+Dairy+Mallital+Nainital"
+    },
+    {
+      "shopName": "Maa Bhagwati Restaurant",
+      "images": [
+        "nan_maadurga_1_pyrcgn",
+        "nan_maadurga_2_ea0iou",
+        "nan_maadurga_3_kxpmor"
+      ],
+      "dishName": "Momos (Veg Momos), Chowmein, Maggi, Tea, Coffee",
+      "avgPrice": "₹40–₹120",
+      "touristPlaceNearby": "Tiffin Top / Dorothy Seat",
+      "distanceFromTouristPlace": "At the Tiffin Top viewpoint area",
+      "description": "Maa Bhagwati Restaurant at Tiffin Top is a small hilltop eatery where trekkers usually stop for snacks after the hike. Located near the famous Dorothy Seat viewpoint, it serves simple hot comfort foods like momos, chowmein, maggi, tea and coffee. Eating hot Maggi or momos here while enjoying the Himalayan peaks like Trishul and Nanda Devi makes the experience memorable.",
+      "tips": "After the trek, Maggi and hot tea are the most popular choices among hikers. Carry cash because digital payments may not always work at hilltop stalls.",
+      "fullAddress": "Near Dorothy Seat, Tiffin Top, Nainital, Uttarakhand",
+      "routeDetails": "Trek 1.5 km from Ayar Jungle Camp to reach Tiffin Top. The restaurant is located directly in front of Dorothy Seat viewpoint.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Maa+Bhagwati+Restaurant+Tiffin+Top+Nainital"
+    },
+    {
+      "shopName": "Local Dhaba / Food Stall (Kainchi Dham)",
+      "images": [
+        "nan_dhaba_1_jdxlyy",
+        "nan_dhaba_2_j4vw1g",
+        "nan_dhaba_3_poud47",
+        "nan_dhaba_4_uwigzu"
+      ],
+      "dishName": "Aloo Paratha with Curd & Pickle",
+      "avgPrice": "₹50",
+      "touristPlaceNearby": "Kainchi Dham / Neem Karoli Baba Temple",
+      "distanceFromTouristPlace": "2–3 minutes walk from temple",
+      "description": "Hot Aloo Paratha served with curd and pickle is one of the most satisfying meals available near Kainchi Dham temple. Pilgrims visiting this famous spiritual tourist place near Nainital enjoy these large freshly cooked parathas at small roadside dhabas after completing their temple darshan.",
+      "tips": "Best eaten fresh and hot.",
+      "fullAddress": "Temple market area, Kainchi Dham, Uttarakhand",
+      "routeDetails": "Walk a little ahead from the temple entrance into the market lane.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Kainchi+Dham+Dhaba+Food+Stall+Nainital"
+    },
+    {
+      "shopName": "Moga Punjabi Restaurant",
+      "images": [
+        "nan_moga_1_dq8gvv",
+        "nan_moga_2_xs7nzn",
+        "nan_moga_3_uutopb"
+      ],
+      "dishName": "Dal Makhani, Matar Paneer, Punjabi Thali Items",
+      "avgPrice": "₹160–₹250",
+      "touristPlaceNearby": "Highway Stop near Gajraula (on the way to Nainital)",
+      "distanceFromTouristPlace": "Highway stop before reaching Nainital",
+      "description": "Moga Punjabi Restaurant near Gajraula is a popular highway stop for travelers heading to Nainital. Visitors often stop here for classic Punjabi dishes like dal makhani and matar paneer. It is a convenient food stop for road trip travelers going to top tourist destinations in Nainital and Jim Corbett region.",
+      "tips": "Good stop for lunch during Delhi to Nainital road trip.",
+      "fullAddress": "Gajraula Highway Area, Uttar Pradesh, India",
+      "routeDetails": "Located along the highway route when traveling from Delhi towards Nainital.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Moga+Punjabi+Restaurant+Gajraula+Highway"
+    },
+    {
+      "shopName": "Aquarium Island Cafe",
+      "images": [
+        "nan_aquarium_1_uq9ugx",
+        "nan_aquarium_2_w6nyfd"
+      ],
+      "dishName": "Tea, Coffee, Sandwiches, Snacks, Cafe Meals",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Bhimtal Lake Island (Aquarium Island Cafe)",
+      "distanceFromTouristPlace": "Located on island in middle of Bhimtal Lake",
+      "description": "Aquarium Island Cafe in Bhimtal Lake is one of the most unique places to eat near Nainital tourist spots. Located on a small island in the middle of Bhimtal Lake, visitors reach the cafe by boating. The cafe offers light meals, snacks and beverages while tourists enjoy beautiful lake views and cool mountain breeze.",
+      "tips": "Visit during daytime to enjoy lake views while eating.",
+      "fullAddress": "Bhimtal Lake Island, Bhimtal, Nainital District, Uttarakhand",
+      "routeDetails": "Take a boat from Bhimtal Boat Stand to reach the island restaurant.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Aquarium+Island+Cafe+Bhimtal+Lake+Nainital"
+    }
+  ]
+}

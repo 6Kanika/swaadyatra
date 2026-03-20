@@ -1,0 +1,294 @@
+{
+  "city": "Mumbai",
+  "hero": {
+    "tagline": "The City of Dreams serves street food dreams — from Chowpatty pav bhaji to Bandra café bites.",
+    "highlights": [
+      "18 curated food spots across Mumbai's iconic landmarks",
+      "Legendary pav bhaji, ice cream sandwiches & Wazwan near Marine Drive & Juhu Beach",
+      "From Zaveri Bazaar khau galli snacks to Bandra café culture"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Pizza By The Bay",
+      "images": [
+        "mum_pizzabay_1_itmi2c",
+        "mum_pizzabay_2_hg07we"
+      ],
+      "dishName": "Paneer Pizza Bread",
+      "avgPrice": "₹250–₹400",
+      "touristPlaceNearby": "Marine Drive",
+      "distanceFromTouristPlace": "~200 m",
+      "description": "Famous sea-facing restaurant on Marine Drive known for its pizzas and Italian food. The pizza bread includes paneer, mushrooms and Indian spices making it a fusion style pizza snack. One of the best places to eat near Marine Drive with a stunning view of the Arabian Sea.",
+      "tips": "Best after 6 PM for sunset view. Try sea-facing seating. Evening time can be crowded.",
+      "fullAddress": "Pizza By The Bay, Soona Mahal, Marine Drive, Churchgate, Mumbai, Maharashtra 400020",
+      "routeDetails": "Walk along Marine Drive promenade towards Churchgate. Pizza By The Bay is located directly on Marine Drive opposite the sea.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Pizza+By+The+Bay+Marine+Drive+Mumbai"
+    },
+    {
+      "shopName": "Amar Pav Bhaji",
+      "images": [
+        "mum_amar_1_ptbfin",
+        "mum_amar_2_cojzxk"
+      ],
+      "dishName": "Pav Bhaji",
+      "avgPrice": "₹150–₹220",
+      "touristPlaceNearby": "Girgaon Chowpatty",
+      "distanceFromTouristPlace": "~150 m",
+      "description": "One of the most famous places in Mumbai for buttery pav bhaji cooked on a large tawa with tomatoes, potatoes, spices and lots of butter served with toasted pav. A must-try food experience at Girgaon Chowpatty beach.",
+      "tips": "Best eaten hot at night. Ask for extra butter pav. Weekend evenings are crowded.",
+      "fullAddress": "Amar Juice Centre, Chowpatty Beach Road, Girgaon Chowpatty, Mumbai, Maharashtra",
+      "routeDetails": "From Girgaon Chowpatty beach entrance walk towards the famous Amar Juice Centre food stalls.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Amar+Pav+Bhaji+Girgaon+Chowpatty+Mumbai"
+    },
+    {
+      "shopName": "K. Rustom & Co.",
+      "images": [
+        "mum_rustom_1_v8gafk",
+        "mum_rustom_2_krlylv"
+      ],
+      "dishName": "Ice Cream Sandwich",
+      "avgPrice": "₹80–₹120",
+      "touristPlaceNearby": "Marine Drive",
+      "distanceFromTouristPlace": "~400 m",
+      "description": "Legendary Mumbai ice cream shop started in the 1930s famous for its handmade wafer ice cream sandwiches with many unique flavours like ginger lemon. One of the oldest and most iconic dessert spots near Marine Drive.",
+      "tips": "Try Ginger Lemon flavor. Perfect dessert after dinner. Walk and enjoy at Marine Drive.",
+      "fullAddress": "K. Rustom & Co., Veer Nariman Road, Churchgate, Mumbai, Maharashtra 400020",
+      "routeDetails": "From Marine Drive walk towards Churchgate station via Veer Nariman Road to reach the shop.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=K+Rustom+Ice+Cream+Churchgate+Mumbai"
+    },
+    {
+      "shopName": "Bhagat Tarachand (Original Outlet)",
+      "images": [
+        "mum_talachand_1_pee7zx",
+        "mum_talachand_2_qkkehe"
+      ],
+      "dishName": "Lassi",
+      "avgPrice": "₹90",
+      "touristPlaceNearby": "Mumba Devi Temple",
+      "distanceFromTouristPlace": "~300 m",
+      "description": "Famous thick lassi served at the legendary restaurant started in 1895. Known for its rich cream texture and traditional preparation. One of the oldest food establishments near Mumba Devi Temple in Zaveri Bazaar.",
+      "tips": "Very thick and creamy. Can feel slightly expensive but high quality.",
+      "fullAddress": "Bhagat Tarachand Restaurant, Zaveri Bazaar, Kalbadevi, Mumbai",
+      "routeDetails": "From Mumba Devi Temple walk towards Zaveri Bazaar main street.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Bhagat+Tarachand+Zaveri+Bazaar+Mumbai"
+    },
+    {
+      "shopName": "Mumbadevi Jalebi Wala",
+      "images": [
+        "mum_mumba_1_pkpmbe",
+        "mum_mumba_2_i8ungz"
+      ],
+      "dishName": "Jalebi",
+      "avgPrice": "₹50",
+      "touristPlaceNearby": "Mumba Devi Temple",
+      "distanceFromTouristPlace": "Walking distance",
+      "description": "Famous ghee fried jalebi sold in the temple market area. The shop claims history from 1897. A must-try sweet snack for tourists visiting Mumba Devi Temple in Zaveri Bazaar.",
+      "tips": "Best when freshly hot. Very sweet traditional style.",
+      "fullAddress": "Near Mumba Devi Temple Market, Zaveri Bazaar, Mumbai",
+      "routeDetails": "From temple walk inside Zaveri Bazaar food lane.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mumbadevi+Jalebi+Zaveri+Bazaar+Mumbai"
+    },
+    {
+      "shopName": "Agrawal Fast Food",
+      "images": [
+        "mum_agrawal_1_auhjia",
+        "mum_agrawal_2_psnzfi"
+      ],
+      "dishName": "Khaman / Khamni",
+      "avgPrice": "₹40",
+      "touristPlaceNearby": "Zaveri Bazaar",
+      "distanceFromTouristPlace": "~400 m",
+      "description": "Spicy khamni topped with sev and green chillies, popular quick snack in the market. A favourite street food stop inside Zaveri Bazaar khau gali for locals and tourists alike.",
+      "tips": "Slightly spicy. Good cheap street snack.",
+      "fullAddress": "Zaveri Bazaar Food Lane, Mumbai",
+      "routeDetails": "Inside Zaveri Bazaar khau gali.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Agrawal+Fast+Food+Zaveri+Bazaar+Mumbai"
+    },
+    {
+      "shopName": "Mohan Pudlawala",
+      "images": [
+        "mum_mohan_1_rdaulm",
+        "mum_mohan_2_urgmsn"
+      ],
+      "dishName": "Bread Pudla",
+      "avgPrice": "₹60",
+      "touristPlaceNearby": "Zaveri Bazaar",
+      "distanceFromTouristPlace": "~450 m",
+      "description": "Unique bread pudla made with besan batter and bread pieces, served with chutneys. A rare and traditional street food item found in the Zaveri Bazaar food lane of Mumbai.",
+      "tips": "Try with chutneys. Heavy snack.",
+      "fullAddress": "Zaveri Bazaar Street Food Lane, Mumbai",
+      "routeDetails": "Walk through Zaveri Bazaar khau gali.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mohan+Pudlawala+Zaveri+Bazaar+Mumbai"
+    },
+    {
+      "shopName": "Raghuvir Papad Stall",
+      "images": ["Screenshot_2026-03-18_143357_jvyjng"],
+      "dishName": "Masala Papad",
+      "avgPrice": "₹50",
+      "touristPlaceNearby": "Zaveri Bazaar",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "Large crispy papad topped with cucumber, chutneys and masala. A popular quick snack stall in Agiary Lane behind Bank of India in Zaveri Bazaar.",
+      "tips": "Very filling. Ask for both chutneys.",
+      "fullAddress": "Agiary Lane, Near Bank of India, Zaveri Bazaar, Mumbai",
+      "routeDetails": "From Zaveri Bazaar go to Agiary Lane behind Bank of India.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Papad+Stall+Agiary+Lane+Zaveri+Bazaar+Mumbai"
+    },
+    {
+      "shopName": "Chhappan Masala Namkeen",
+      "images": [
+        "mum_chhapan_1_igwvmw",
+        "mum_chhapan_2_tkzpst"
+      ],
+      "dishName": "Special Bhel Mix",
+      "avgPrice": "₹50",
+      "touristPlaceNearby": "Zaveri Bazaar",
+      "distanceFromTouristPlace": "~400 m",
+      "description": "Unique bhel mix made with many ingredients and house spices created by the shop famous for namkeen. A tangy and spicy snack loved by regulars in the Zaveri Bazaar market area.",
+      "tips": "Tangy and spicy. Good snack for sharing.",
+      "fullAddress": "Zaveri Bazaar Market Area, Mumbai",
+      "routeDetails": "Inside Zaveri Bazaar market lanes.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Chhappan+Masala+Namkeen+Mumbai"
+    },
+    {
+      "shopName": "Santosh Juice Center",
+      "images": [
+        "mum_santosh_1_o7ubnx"
+      ],
+      "dishName": "Coconut Punch",
+      "avgPrice": "₹70",
+      "touristPlaceNearby": "Zaveri Bazaar",
+      "distanceFromTouristPlace": "~400 m",
+      "description": "Refreshing coconut water mixed with coconut cream and light sugar, a unique juice drink. A great refreshment stop in the busy Zaveri Bazaar market area of Mumbai.",
+      "tips": "Very refreshing drink. Good after spicy food.",
+      "fullAddress": "Zaveri Bazaar Market Area, Mumbai",
+      "routeDetails": "Near food stalls in Zaveri Bazaar.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Santosh+Juice+Center+Zaveri+Bazaar+Mumbai"
+    },
+    {
+      "shopName": "Lal Topi Bhel",
+      "images": [
+        "mum_laltopi_1_bygs9d"
+      ],
+      "dishName": "Sukha Bhel",
+      "avgPrice": "₹30–₹40",
+      "touristPlaceNearby": "Zaveri Bazaar",
+      "distanceFromTouristPlace": "~600 m",
+      "description": "Simple dry bhel made with peanuts, murmura, sev and spicy chillies – traditional Maharashtrian style. One of the most authentic bhel experiences near Zaveri Bazaar in Mumbai.",
+      "tips": "Ask for extra chilli if you like spicy.",
+      "fullAddress": "MG Market Area, Near Zaveri Bazaar, Mumbai",
+      "routeDetails": "Walk towards MG Market area from Zaveri Bazaar.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Lal+Topi+Bhel+Mumbai"
+    },
+    {
+      "shopName": "Pahadi Sandwich Stall",
+      "images": [
+        "mum_pahadi_1_pjfxnh"
+      ],
+      "dishName": "Pahadi Cheese Grill Sandwich",
+      "avgPrice": "₹130",
+      "touristPlaceNearby": "Shivaji Park",
+      "distanceFromTouristPlace": "~700 m",
+      "description": "A famous Mumbai style grilled sandwich made with multiple layers of buttered bread, green chutney, paneer filling and spices. One of the most popular street food items in Dadar West's Khau Galli.",
+      "tips": "Very heavy sandwich. Best eaten hot. Perfect evening street food.",
+      "fullAddress": "Khau Galli, Dadar West, Mumbai",
+      "routeDetails": "Start from Shivaji Park main gate → walk towards Dadar West market → enter the Khau Galli street food lane.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Pahadi+Sandwich+Dadar+West+Mumbai"
+    },
+    {
+      "shopName": "Saurashtra Snacks",
+      "images": [
+        "mum_swarastra_1_qougjb",
+        "mum_swarastra_2_yhtk7f"
+      ],
+      "dishName": "Mixed Samosa Plate",
+      "avgPrice": "₹30–₹50",
+      "touristPlaceNearby": "Siddhivinayak Temple",
+      "distanceFromTouristPlace": "~1.5 km",
+      "description": "Plate including different samosas like patty samosa, Chinese samosa and potato samosa served with chutneys. A popular snack stop near Siddhivinayak Temple in Dadar West.",
+      "tips": "Expect queues. Best in evening.",
+      "fullAddress": "Dadar West Market Area, Mumbai",
+      "routeDetails": "From Siddhivinayak Temple take an auto to Dadar West market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Saurashtra+Snacks+Dadar+Mumbai"
+    },
+    {
+      "shopName": "Dadar Lassi Shop",
+      "images": [
+        "mum_dadar_1_hug4yn"
+      ],
+      "dishName": "Traditional Lassi",
+      "avgPrice": "₹50–₹70",
+      "touristPlaceNearby": "Prabhadevi Temple",
+      "distanceFromTouristPlace": "~1 km",
+      "description": "Thick yogurt drink with sugar and malai topping. A refreshing traditional lassi shop near Dadar market, popular among locals and tourists visiting Prabhadevi Temple.",
+      "tips": "Good during afternoon heat.",
+      "fullAddress": "Near Dadar Market, Mumbai",
+      "routeDetails": "Take an auto from Prabhadevi Temple towards Dadar West market.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Dadar+Lassi+Shop+Mumbai"
+    },
+    {
+      "shopName": "The Nutcracker",
+      "images": [
+        "mum_nutcracker_1_kcf8bk",
+        "mum_nutcracker_2_p9rftr"
+      ],
+      "dishName": "Soya Keema Pav",
+      "avgPrice": "₹350–₹450",
+      "touristPlaceNearby": "Mount Mary Church",
+      "distanceFromTouristPlace": "~1.5 km",
+      "description": "Vegetarian keema pav made with soy mince cooked in spicy gravy served with pav. A popular brunch option in Bandra West near Mount Mary Church.",
+      "tips": "Good brunch option.",
+      "fullAddress": "Waterfield Road, Bandra West, Mumbai",
+      "routeDetails": "From Mount Mary Church take auto to Waterfield Road.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=The+Nutcracker+Bandra+Mumbai"
+    },
+    {
+      "shopName": "Farmer's Cafe",
+      "images": [
+        "mum_farmer_1_kxeftp",
+        "mum_farmer_2_fiiili"
+      ],
+      "dishName": "Farmer's Cafe Pizza",
+      "avgPrice": "₹400–₹600",
+      "touristPlaceNearby": "Bandra Bandstand",
+      "distanceFromTouristPlace": "~1.5 km",
+      "description": "Café pizza made with organic vegetables and multigrain base. A healthy and popular brunch spot on Hill Road in Bandra West near Bandra Bandstand.",
+      "tips": "Healthy brunch.",
+      "fullAddress": "Hill Road, Bandra West, Mumbai",
+      "routeDetails": "Take taxi from Bandra Bandstand to Hill Road café area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Farmer's+Cafe+Bandra+Mumbai"
+    },
+    {
+      "shopName": "Chantilly Cafe",
+      "images": [
+        "mum_chantilly_1_bb6vcx",
+        "mum_chantilly_2_hczp8d"
+      ],
+      "dishName": "Marshmallow Hot Chocolate",
+      "avgPrice": "₹250–₹350",
+      "touristPlaceNearby": "Bandra Fort",
+      "distanceFromTouristPlace": "~2 km",
+      "description": "Thick hot chocolate topped with marshmallows. A cozy café dessert drink in Bandra West, perfect for an evening treat after visiting Bandra Fort.",
+      "tips": "Evening dessert drink.",
+      "fullAddress": "Bandra West, Mumbai",
+      "routeDetails": "Travel from Bandra Fort to Bandra café streets.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Chantilly+Cafe+Bandra+Mumbai"
+    },
+    {
+      "shopName": "Juhu Beach Pav Bhaji Stall",
+      "images": [
+        "mum_juhu_1_s8evqp",
+        "mum_juhu_2_ucubni"
+      ],
+      "dishName": "Butter Pav Bhaji",
+      "avgPrice": "₹120–₹180",
+      "touristPlaceNearby": "Juhu Beach",
+      "distanceFromTouristPlace": "Walking distance",
+      "description": "Iconic butter loaded Mumbai pav bhaji cooked on large tawa with tomatoes and spices. One of the most popular street food experiences at Juhu Chowpatty, a must-try for every tourist visiting Juhu Beach.",
+      "tips": "Best after sunset. Ask extra butter.",
+      "fullAddress": "Juhu Chowpatty Street Food Area, Mumbai",
+      "routeDetails": "From Juhu Beach entrance walk to Chowpatty food stalls.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Juhu+Beach+Pav+Bhaji+Stall+Mumbai"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "city": "Ooty",
+  "hero": {
+    "tagline": "The Queen of Hill Stations serves misty Tamil flavours — from filter coffee at century-old eateries to handmade chocolates and wood-fired pizza in the Nilgiris.",
+    "highlights": [
+      "13 curated food spots across Ooty's iconic landmarks and scenic viewpoints",
+      "Authentic South Indian breakfast, Kerala meals & iconic Ooty Varkey near Ooty Market and Toy Train",
+      "From handmade chocolates at Moddy's to fine dining at Aroma Treat surrounded by tea estates"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Ooty Coffee House",
+      "images": [
+        "ooty_ooty_1_sqrjnk",
+        "ooty_ooty_2_hyk3fh",
+        "ooty_ooty_3_eehu6b"
+      ],
+      "dishName": "Filter Coffee, Medu Vada, Poori Sabzi, Masala Dosa",
+      "avgPrice": "₹80 – ₹150",
+      "touristPlaceNearby": "Ooty Lake & Ooty Market",
+      "distanceFromTouristPlace": "~300 m from Ooty Market",
+      "description": "One of the oldest eateries in Ooty, Ooty Coffee House is famous for its traditional South Indian breakfast and authentic filter coffee. Popular dishes include Medu Vada with sambar, Poori Sabzi, and Masala Dosa, served with coconut chutney and flavorful sambar. The perfectly brewed South Indian filter coffee has a strong roasted aroma balanced with sweetness. Tourists exploring top tourist locations in Ooty like the Ooty Market and nearby sightseeing spots often stop here to enjoy a classic Tamil Nadu breakfast experience. It is considered one of the best places to eat in Ooty for traditional South Indian food.",
+      "tips": "Their Masala Dosa is famous. Sit near the window for a great view of the market and hills.",
+      "fullAddress": "Ooty Coffee House, near Ooty Market, Ooty, Tamil Nadu",
+      "routeDetails": "Located in the main market area of Ooty; easily reachable on foot while exploring the town center.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Ooty+Coffee+House+Ooty+Market+Tamil+Nadu"
+    },
+    {
+      "shopName": "Amma's Kitchen",
+      "images": [
+        "ooty_amma_1_ys9wgx",
+        "ooty_amma_2_ybkpk6"
+      ],
+      "dishName": "Avoli Fish Fry, Mint Leg Fry (Chicken Leg Fry), Ghee Rice, Kanchipuram Chicken, Kerala Meal (Kerala Rice, Rasam, Sambar, Sabzi, Payasam, Buttermilk)",
+      "avgPrice": "₹100 – ₹350",
+      "touristPlaceNearby": "Near Ooty Boathouse / Main Town Area",
+      "distanceFromTouristPlace": "~1 km from Ooty Lake / Boathouse",
+      "description": "Amma's Kitchen is a popular restaurant in Ooty offering a mix of South Indian, Kerala-style meals, and flavorful non-veg dishes. Must-try dishes include crispy Avoli Fish Fry, Mint Chicken Leg Fry, aromatic Ghee Rice, and Kanchipuram Chicken prepared with coconut-based spices and curry leaves. The restaurant also serves a traditional Kerala meal with red Kerala rice, rasam, sambar, vegetable curry, pickle and payasam. For travelers visiting top tourist attractions in Ooty like Ooty Lake and Botanical Garden, this place is known for offering some of the best local food in Ooty, especially for seafood and authentic South Indian flavors.",
+      "tips": "Try the Ghee Rice with Kanchipuram Chicken combo. Fish fry is highly recommended. Kerala meal is affordable but rice is very heavy.",
+      "fullAddress": "Amma's Kitchen Restaurant, Ooty, Tamil Nadu",
+      "routeDetails": "From Ooty Lake or the Boathouse area take a short auto or cab ride towards the town center where Amma's Kitchen is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Amma%27s+Kitchen+Restaurant+Ooty+Tamil+Nadu"
+    },
+    {
+      "shopName": "Hotel Nihar",
+      "images": [
+        "ooty_nihar_1_o1o2cm"
+      ],
+      "dishName": "Plain Dosa, Sambar, Chutney",
+      "avgPrice": "₹100–₹150",
+      "touristPlaceNearby": "Ooty Toy Train Railway Station",
+      "distanceFromTouristPlace": "~1.5 km from Toy Train Station",
+      "description": "A popular breakfast spot in Ooty, Hotel Nihar is perfect for travelers exploring the best tourist places in Ooty like the Toy Train. Known for its authentic South Indian breakfast, the dosa with flavorful sambar and chutney offers a unique local taste. Ideal for tourists searching best food to try in Ooty before starting their sightseeing journey.",
+      "tips": "Visit early morning to avoid rush and catch your Toy Train on time.",
+      "fullAddress": "Near Ooty Collector Office, Ooty, Tamil Nadu",
+      "routeDetails": "From Toy Train Station, head towards Collector Office area; located near District Collectorate & Central Police Station.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hotel+Nihar+Ooty+Collector+Office+Tamil+Nadu"
+    },
+    {
+      "shopName": "Sri Ramachandra Lunch Home",
+      "images": [
+        "ooty_ramachandra_1_gd80dh",
+        "ooty_ramachandra_2_elmtda"
+      ],
+      "dishName": "Idli, Vada, Masala Dosa, Kesari Bhath",
+      "avgPrice": "₹100–₹200",
+      "touristPlaceNearby": "Coonoor Railway Station",
+      "distanceFromTouristPlace": "~100 meters from station",
+      "description": "One of the oldest and most iconic eateries near Coonoor, this place is a must-visit for tourists exploring top tourist locations near Ooty. Famous for its homely South Indian food, their idli, dosa, and kesari bhath are loved by both locals and travelers. A perfect stop after enjoying the scenic Toy Train ride.",
+      "tips": "Try Kesari Bhath even during breakfast; very popular here.",
+      "fullAddress": "Near Coonoor Railway Station Exit, Coonoor, Tamil Nadu",
+      "routeDetails": "Exit Coonoor Railway Station and walk straight for about 100 meters.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sri+Ramachandra+Lunch+Home+Coonoor+Railway+Station+Tamil+Nadu"
+    },
+    {
+      "shopName": "Aroma Treat Restaurant (Orchid Hotels)",
+      "images": [
+        "ooty_aroma_1_prp0ys",
+        "ooty_aroma_2_rb0q65"
+      ],
+      "dishName": "Biryani, Tandoori Roti, Chicken Curry, Dal",
+      "avgPrice": "₹400–₹800",
+      "touristPlaceNearby": "Coonoor (Away from Traffic Areas near Dolphin's Nose & Tea Estates)",
+      "distanceFromTouristPlace": "Located outside main traffic zones of Coonoor",
+      "description": "A premium fine-dining restaurant surrounded by greenery, perfect for lunch while exploring top tourist places in Ooty and Coonoor. Aroma Treat offers a mix of North Indian and local cuisine with excellent service. A great place for tourists looking for best restaurants in Ooty with a relaxing ambiance and quality food.",
+      "tips": "Slightly expensive but worth it for ambiance and quality; good for family lunch.",
+      "fullAddress": "Inside Orchid Hotels Property, Coonoor, Tamil Nadu",
+      "routeDetails": "Take route away from Dolphin's Nose & Lamb's Rock traffic areas; easily accessible by road.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Aroma+Treat+Restaurant+Orchid+Hotels+Coonoor+Tamil+Nadu"
+    },
+    {
+      "shopName": "Little Earth Square & Little Earth Market (Bakery)",
+      "images": [
+        "ooty_littleearth_1_d0nrz9",
+        "ooty_littleearth_2_gi5wxz",
+        "ooty_littleearth_3_pa7xjc"
+      ],
+      "dishName": "Pizza, Pasta, Potato Wedges, Cheesecake, Coffee, Hot Chocolate",
+      "avgPrice": "₹300–₹700",
+      "touristPlaceNearby": "Near Ooty Collector Office (Little Earth Square)",
+      "distanceFromTouristPlace": "Near city center",
+      "description": "One of the best hangout spots in Ooty, Little Earth Square is a modern food hub with cafes and bakeries. Ideal for tourists searching best places to eat in Ooty and enjoy snacks, desserts, and Italian food. Their wood-fired pizza, cheesecakes, and coffee make it a must-visit for a relaxing break during your Ooty sightseeing tour.",
+      "tips": "Great for evening hangouts; try wood-fired pizza and cheesecake.",
+      "fullAddress": "Opposite District Collectorate, Ooty, Tamil Nadu",
+      "routeDetails": "Located opposite Collector Office; easily accessible from main Ooty town area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Little+Earth+Square+Ooty+Collector+Office+Tamil+Nadu"
+    },
+    {
+      "shopName": "Kingstar Bakery",
+      "images": [
+        "ooty_kingstar_1_ozmxtk",
+        "ooty_kingstar_2_iuznun",
+        "ooty_kingstar_3_zwsmgk"
+      ],
+      "dishName": "Ooty Varkey (Bakery Snack)",
+      "avgPrice": "₹50–₹150",
+      "touristPlaceNearby": "Ooty Commercial Road (City Center)",
+      "distanceFromTouristPlace": "Located in main market area",
+      "description": "Kingstar Bakery is one of the best places to try the iconic Ooty Varkey, a light, flaky and buttery snack that defines the best food to try in Ooty. Located in the bustling Commercial Road, it's a must-visit stop for tourists exploring top tourist places in Ooty city center.",
+      "tips": "Buy fresh batches early for best taste.",
+      "fullAddress": "Commercial Road, Ooty, Tamil Nadu",
+      "routeDetails": "Easily accessible while exploring Ooty market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Kingstar+Bakery+Commercial+Road+Ooty+Tamil+Nadu"
+    },
+    {
+      "shopName": "Moddy's Chocolates",
+      "images": [
+        "ooty_moddy_1_nr0z9g",
+        "ooty_moddy_2_so1nmq"
+      ],
+      "dishName": "Handmade Chocolates",
+      "avgPrice": "₹200–₹500",
+      "touristPlaceNearby": "Ooty City Center",
+      "distanceFromTouristPlace": "Central location",
+      "description": "Famous for its rich and melt-in-mouth handmade chocolates, Moddy's is a legendary stop for tourists looking for famous food in Ooty. A must-visit for anyone exploring best tourist locations in Ooty and wanting to take home sweet souvenirs.",
+      "tips": "Try assorted chocolate boxes for variety.",
+      "fullAddress": "Ooty, Tamil Nadu",
+      "routeDetails": "Easily reachable from main market and tourist areas.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Moddy%27s+Chocolates+Ooty+Tamil+Nadu"
+    },
+    {
+      "shopName": "Willy's Coffee Pub",
+      "images": [
+        "ooty_willy_1_trouxm",
+        "ooty_willy_2_rzhddj"
+      ],
+      "dishName": "Vegetable Soup, Coffee",
+      "avgPrice": "₹200–₹400",
+      "touristPlaceNearby": "Near Botanical Garden",
+      "distanceFromTouristPlace": "Walking distance from Botanical Garden",
+      "description": "A cozy café near one of the top tourist attractions in Ooty, this place is perfect for relaxing with hot soup and coffee. Ideal for evening visits after sightseeing, making it a must-stop for those exploring best tourist places in Ooty.",
+      "tips": "Great place to relax in evening chill.",
+      "fullAddress": "Near Botanical Garden, Ooty, Tamil Nadu",
+      "routeDetails": "Short walk from Botanical Garden entrance.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Willy%27s+Coffee+Pub+Botanical+Garden+Ooty+Tamil+Nadu"
+    },
+    {
+      "shopName": "Earl's Secret Restaurant",
+      "images": [
+        "ooty_earl_1_evmiap",
+        "ooty_earl_2_dyasnx",
+        "ooty_earl_3_hpjrqe"
+      ],
+      "dishName": "Carrot Halwa",
+      "avgPrice": "₹200–₹400",
+      "touristPlaceNearby": "Ooty (Near Botanical Garden Area)",
+      "distanceFromTouristPlace": "Near Botanical Garden area",
+      "description": "Known for its rich and slow-cooked carrot halwa, Earl's Secret Restaurant is perfect for dessert lovers exploring best food places in Ooty. A must-visit spot to end your food journey while visiting top tourist places in Ooty.",
+      "tips": "Best enjoyed warm.",
+      "fullAddress": "Ooty, Tamil Nadu",
+      "routeDetails": "Accessible via local roads near garden area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Earl%27s+Secret+Restaurant+Ooty+Tamil+Nadu"
+    },
+    {
+      "shopName": "Shinkow's Chinese Restaurant",
+      "images": [
+        "ooty_shinkow_1_six7jo",
+        "ooty_shinkow_2_lreegr"
+      ],
+      "dishName": "Chicken Clear Soup, Hot Garlic Chicken, Chicken Noodles",
+      "avgPrice": "₹300–₹600",
+      "touristPlaceNearby": "Ooty City Center",
+      "distanceFromTouristPlace": "Central location",
+      "description": "One of the oldest and most iconic Chinese restaurants in Ooty, Shinkow's offers a peaceful ambiance and authentic flavors. A must-visit for tourists exploring best places to eat in Ooty, especially for comforting Chinese food like hot garlic chicken and noodles in chilly weather.",
+      "tips": "Try hot garlic chicken for best experience in cold weather.",
+      "fullAddress": "Ooty, Tamil Nadu",
+      "routeDetails": "Easily accessible from main Ooty market and tourist areas.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Shinkow%27s+Chinese+Restaurant+Ooty+Tamil+Nadu"
+    },
+    {
+      "shopName": "Hyderabad Biryani House",
+      "images": [
+        "ooty_hydrabad_1_d497is",
+        "ooty_hydrabad_2_kex2zl"
+      ],
+      "dishName": "Chicken Biryani, Alfaham Chicken, Brinjal Curry",
+      "avgPrice": "₹250–₹350",
+      "touristPlaceNearby": "Near Welbeck Hotel Area",
+      "distanceFromTouristPlace": "Walking distance from hotel area",
+      "description": "One of the most talked-about food spots in Ooty for biryani lovers, Hyderabad Biryani House serves flavorful dum biryani and juicy Alfaham chicken. A must-visit for tourists searching best non-veg food in Ooty and authentic Hyderabadi flavors.",
+      "tips": "Large portion size; perfect for sharing.",
+      "fullAddress": "Near Welbeck Hotel, Ooty, Tamil Nadu",
+      "routeDetails": "Located just steps away from Welbeck hotel area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hyderabad+Biryani+House+Welbeck+Hotel+Ooty+Tamil+Nadu"
+    },
+    {
+      "shopName": "Adyar Ananda Bhavan",
+      "images": [
+        "ooty_adyar_1_oxjahr",
+        "ooty_adyar_2_o2yvi9",
+        "ooty_adyar_3_ce3wl7"
+      ],
+      "dishName": "Ghee Roast Dosa, Chole Bhature, Filter Coffee",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Ooty Town (Multiple Branches)",
+      "distanceFromTouristPlace": "Central location",
+      "description": "A well-known South Indian chain offering a variety of dishes, Adyar Ananda Bhavan is a reliable stop for tourists exploring best food options in Ooty. Their ghee roast dosa and filter coffee are especially popular among travelers.",
+      "tips": "Visit early morning as many items get sold out quickly.",
+      "fullAddress": "Ooty, Tamil Nadu",
+      "routeDetails": "Easily accessible from main roads and tourist areas.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Adyar+Ananda+Bhavan+Ooty+Tamil+Nadu"
+    }
+  ]
+}

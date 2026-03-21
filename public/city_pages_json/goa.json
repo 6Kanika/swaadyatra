@@ -1,0 +1,259 @@
+{
+  "city": "Goa",
+  "hero": {
+    "tagline": "India's beach paradise serves flavours as vibrant as its sunsets — from heritage Goan breakfast cafes in Panaji to Greek mezze platters overlooking the Arabian Sea at Vagator.",
+    "highlights": [
+      "15 curated food spots across Goa's iconic beaches, heritage streets and village lanes",
+      "Authentic Goan thalis, traditional bakery breads & local desserts near Panaji, Anjuna and Calangute",
+      "From century-old cafes on Rua de Ourem to cliffside sunset restaurants at Vagator and Ozran Beach"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Cafe Tato",
+      "images": [
+        "goa_cafe_1_spbd1p",
+        "goa_cafe_2_rrjm1r",
+        "goa_cafe_3_p3wknh"
+      ],
+      "dishName": "Sweet Bun, Poori Bhaji (Aloo Bhaji, Chana Bhaji), Bun with Bhaji, Horlicks Drink",
+      "avgPrice": "₹120–₹180",
+      "touristPlaceNearby": "Panaji City Center",
+      "distanceFromTouristPlace": "500 m from Panaji City Center",
+      "description": "One of the oldest vegetarian restaurants in Goa, Cafe Tato is famous for its authentic Goan breakfast like sweet buns with spicy bhaji and poori bhaji. This heritage café is a must-visit for travelers exploring Panaji, one of the best tourist locations in Goa, offering a traditional local breakfast experience loved by both locals and tourists searching for the best vegetarian food to try in Goa.",
+      "tips": "Best visited in the morning for a traditional Goan breakfast before exploring Panaji's heritage streets.",
+      "fullAddress": "Cafe Tato, Rua de Ourem Road, Panaji, Goa 403001, India",
+      "routeDetails": "From Panaji Market Square walk towards Rua de Ourem Road for about 5 minutes; Cafe Tato is located on the main road near the commercial market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Cafe+Tato+Rua+de+Ourem+Road+Panaji+Goa"
+    },
+    {
+      "shopName": "Cafe Bhonsle",
+      "images": [
+        "goa_bhonsle_1_v8wzam",
+        "goa_bhonsle_2_esgtyc",
+        "goa_bhonsle_3_myxdp2"
+      ],
+      "dishName": "Goan Samosa, Poha, Tea, Snacks",
+      "avgPrice": "₹80–₹150",
+      "touristPlaceNearby": "Panaji City Center",
+      "distanceFromTouristPlace": "450 m from Panaji City Center",
+      "description": "A historic local eatery in Panaji famous for its unique Goan-style samosa and simple vegetarian snacks. Cafe Bhonsle is one of the old traditional cafes in Goa, making it a great stop for travelers exploring Panaji heritage streets and searching for authentic local snacks in Goa.",
+      "tips": "Stop here for a quick evening snack while walking around Panaji market area.",
+      "fullAddress": "Cafe Bhonsle, Rua de Ourem Road, Panaji, Goa 403001, India",
+      "routeDetails": "From Panaji Market walk towards Rua de Ourem Road for about 4–5 minutes; Cafe Bhonsle is located close to Cafe Tato in the same market district.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Cafe+Bhonsle+Rua+de+Ourem+Road+Panaji+Goa"
+    },
+    {
+      "shopName": "Kokni Kanteen",
+      "images": [
+        "goa_kokni_1_xdxjk8",
+        "goa_kokni_2_c3ssys",
+        "goa_kokni_3_ibmubs"
+      ],
+      "dishName": "Veg Goan Thali, Jackfruit & Mushroom Curry, Pulao, Traditional Peanut Salad, Serradura Dessert",
+      "avgPrice": "₹300–₹400",
+      "touristPlaceNearby": "Panaji City Center",
+      "distanceFromTouristPlace": "700 m from Panaji City Center",
+      "description": "Kokni Kanteen is a must-visit place to experience authentic Goan cuisine in vegetarian style, offering a wholesome Goan thali with local curries, salads, rice, and traditional dessert serradura. Located in Panaji, one of the best food destinations in Goa, this restaurant is popular among travelers searching for authentic Goan food and top places to eat in Goa.",
+      "tips": "Ideal spot for lunch if you want to taste authentic Goan flavors in one meal.",
+      "fullAddress": "Kokni Kanteen, Dada Vaidya Road, Panaji, Goa 403001, India",
+      "routeDetails": "From Panaji Bus Stand head towards Dada Vaidya Road; Kokni Kanteen is located near the municipal garden area in the city center.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Kokni+Kanteen+Dada+Vaidya+Road+Panaji+Goa"
+    },
+    {
+      "shopName": "Mr Baker 1922",
+      "images": [
+        "goa_baker_1_gfci6g",
+        "goa_baker_2_jd3cqy"
+      ],
+      "dishName": "Poee (Goan Bread with Coconut & Chocolate Flavour)",
+      "avgPrice": "₹60–₹120",
+      "touristPlaceNearby": "Panaji City Center",
+      "distanceFromTouristPlace": "400 m from Panaji Market",
+      "description": "Mr Baker 1922 is a historic bakery known for traditional Goan breads and baked snacks like poee with unique coconut and chocolate notes. It's a must-visit bakery for travelers exploring Panaji, one of the best tourist places in Goa, and looking for authentic Goan bakery items.",
+      "tips": "Visit in the morning when fresh breads and bakery items are just out of the oven.",
+      "fullAddress": "Mr Baker 1922, Panaji Market Area, Panaji, Goa 403001, India",
+      "routeDetails": "From Panaji Market walk through the bakery lane area where several heritage bakeries are located; Mr Baker 1922 is one of the oldest bakeries in the area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mr+Baker+1922+Panaji+Goa"
+    },
+    {
+      "shopName": "Temptations",
+      "images": [
+        "goa_temptations_1_g15yio",
+        "goa_temptations_2_yq6myl",
+        "goa_usha_1_ha0lc7"
+      ],
+      "dishName": "Chole Toast Sandwich (Subway Style)",
+      "avgPrice": "₹100–₹180",
+      "touristPlaceNearby": "Panaji City Center",
+      "distanceFromTouristPlace": "450 m from Panaji Market",
+      "description": "Temptations is a casual snack café in Panaji serving toasted sandwiches like chole-filled toasted bread, offering a quick and satisfying bite for travelers exploring the heritage streets of Panaji. Located near the local snack street, it is a popular stop for tourists searching for affordable street food and quick bites in Goa's capital city.",
+      "tips": "Great quick snack stop while exploring Panaji market area; best enjoyed fresh off the grill.",
+      "fullAddress": "Temptations, Near Panaji Market, Panaji, Goa 403001, India",
+      "routeDetails": "From Panaji Market walk towards the local snack street where Temptations café is located among small eateries.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Temptations+Cafe+Panaji+Goa"
+    },
+    {
+      "shopName": "Hanuman Foods",
+      "images": [
+        "goa_hanuman_1_eyemkf"
+      ],
+      "dishName": "Fruit Custard, Fruit Salad with Ice Cream & Jelly, Kokum Soda, Gadbad Ice Cream",
+      "avgPrice": "₹40–₹120",
+      "touristPlaceNearby": "Panaji City Center",
+      "distanceFromTouristPlace": "300 m from Panaji Market",
+      "description": "A historic dessert shop in Panaji known for fruit custard, fruit salad and the iconic Goan Gadbad ice cream. Hanuman Foods is a refreshing stop for tourists exploring Panaji city and nearby tourist places in Goa, especially popular for its cooling kokum soda that perfectly beats the Goan heat.",
+      "tips": "Must try kokum soda during hot weather in Goa.",
+      "fullAddress": "Hanuman Foods, Near Panaji Market Square, Panaji, Goa 403001, India",
+      "routeDetails": "From Panaji Market Square walk towards the dessert stalls where Hanuman Foods is located among local eateries.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hanuman+Foods+Panaji+Market+Goa"
+    },
+    {
+      "shopName": "Angry Sardarji",
+      "images": [
+        "goa_angry_1_hpzgih",
+        "goa_angry_2_rjqqpr"
+      ],
+      "dishName": "Chole Masala with Roti, Veg Chinese Dishes",
+      "avgPrice": "₹250–₹400",
+      "touristPlaceNearby": "Panaji City Center",
+      "distanceFromTouristPlace": "600 m from Church Square Panaji",
+      "description": "Angry Sardarji is a popular North Indian restaurant in Goa known for its Delhi-style chole masala, roti, and Indo-Chinese dishes. Located in Panaji, a key tourist hub in Goa, it's perfect for travelers craving authentic North Indian food while visiting Goa.",
+      "tips": "Best option for dinner if you are missing North Indian home-style food in Goa.",
+      "fullAddress": "Angry Sardarji, Near Church Square, Panaji, Goa 403001, India",
+      "routeDetails": "From Church Square Panaji walk towards the main market road; Angry Sardarji restaurant is located near the commercial dining area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Angry+Sardarji+Church+Square+Panaji+Goa"
+    },
+    {
+      "shopName": "Thalassa",
+      "images": [
+        "goa_thalassa_1_uiq9wh",
+        "goa_thalassa_2_trd7xa",
+        "goa_thalassa_3_nhyakw"
+      ],
+      "dishName": "Greek Dip with Pita Bread, Greek Salad, Tomato Basil Spaghetti, French Fries, Banoffee Pie",
+      "avgPrice": "₹1200–₹1500 per person",
+      "touristPlaceNearby": "Vagator Beach",
+      "distanceFromTouristPlace": "600 m from Vagator Beach",
+      "description": "Famous for its sunset views and vibrant ambiance in North Goa, Thalassa is a Greek-themed restaurant serving dishes like pita with Greek dip, Greek salad, spaghetti, and the iconic banoffee pie. It's one of the most scenic dining spots near Vagator Beach, a top tourist location in Goa, making it perfect for travelers searching for best sunset restaurants and food experiences in Goa.",
+      "tips": "Arrive 30 minutes before sunset to enjoy the famous Vagator sunset view along with your meal.",
+      "fullAddress": "Thalassa, Small Vagator, Ozran Beach Road, Vagator, Goa 403509, India",
+      "routeDetails": "From Vagator Beach head towards Ozran Beach Road and follow signs to Thalassa restaurant located on the hilltop overlooking the Arabian Sea.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Thalassa+Ozran+Beach+Road+Vagator+Goa"
+    },
+    {
+      "shopName": "Olive Bar & Kitchen",
+      "images": [
+        "goa_olive_1_usequo",
+        "goa_olive_2_utgeib",
+        "goa_olive_3_g9f5np"
+      ],
+      "dishName": "Veg Mezze Platter (Hummus, Pita, Falafel, Mediterranean Snacks)",
+      "avgPrice": "₹2000 for platter",
+      "touristPlaceNearby": "Vagator Beach",
+      "distanceFromTouristPlace": "700 m from Vagator Beach",
+      "description": "Olive Bar & Kitchen is a premium seaside restaurant offering Mediterranean cuisine and mezze platters with stunning sunset views. Located near Vagator Beach, one of the top tourist places in Goa, it's a popular dining spot for travelers looking for luxury restaurants and sunset dining experiences in Goa.",
+      "tips": "Visit during sunset hours for the best sea view dining experience in North Goa.",
+      "fullAddress": "Olive Bar & Kitchen, Ozran Beach Road, Vagator, Goa 403509, India",
+      "routeDetails": "From Vagator Beach drive uphill via Ozran Beach Road to reach Olive Bar & Kitchen located near the cliffside restaurants overlooking the sea.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Olive+Bar+Kitchen+Ozran+Beach+Road+Vagator+Goa"
+    },
+    {
+      "shopName": "Baba Au Rhum",
+      "images": [
+        "goa_baba_1_hfl50r",
+        "goa_baba_2_pzltm3"
+      ],
+      "dishName": "Veg Burger, Sourdough Sandwich, French Fries",
+      "avgPrice": "₹350–₹500",
+      "touristPlaceNearby": "Anjuna Beach",
+      "distanceFromTouristPlace": "1 km from Anjuna Beach",
+      "description": "Baba Au Rhum is a famous European-style bakery café in North Goa known for gourmet sandwiches, juicy vegetarian burgers, and artisan baked items. Located near Anjuna Beach, a popular tourist attraction in Goa, it's a favorite brunch destination for travelers looking for best cafes and bakery food in Goa.",
+      "tips": "Perfect place for a late breakfast or brunch while exploring Anjuna and nearby beaches.",
+      "fullAddress": "Baba Au Rhum, Anjuna Beach Road, Monteiro Vaddo, Anjuna, Goa 403509, India",
+      "routeDetails": "From Anjuna Beach drive towards Monteiro Vaddo area via Anjuna Beach Road; the café is located inside a garden-style property popular among backpackers.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Baba+Au+Rhum+Anjuna+Beach+Road+Goa"
+    },
+    {
+      "shopName": "Bean Me Up",
+      "images": [
+        "goa_bean_1_gqj0ai",
+        "goa_bean_2_api9q1"
+      ],
+      "dishName": "Veg Sandwich, Blueberry Cheesecake",
+      "avgPrice": "₹300–₹450",
+      "touristPlaceNearby": "Anjuna Beach",
+      "distanceFromTouristPlace": "2 km from Anjuna Beach",
+      "description": "Bean Me Up is a well-known vegan-friendly café in North Goa serving healthy dishes like sandwiches and delicious blueberry cheesecake. It's a relaxing spot near Anjuna and Vagator beaches, attracting travelers searching for healthy cafes and vegetarian food in Goa.",
+      "tips": "Great place to relax with coffee and dessert during a beach exploration day in North Goa.",
+      "fullAddress": "Bean Me Up, Anjuna Mapusa Road, Vagator, Goa 403509, India",
+      "routeDetails": "From Anjuna Beach take Anjuna–Mapusa Road towards Vagator; Bean Me Up café is located on the roadside surrounded by tropical greenery.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Bean+Me+Up+Anjuna+Mapusa+Road+Goa"
+    },
+    {
+      "shopName": "Vinayak Family Restaurant",
+      "images": [
+        "goa_vinayak_1_whckrm",
+        "goa_vinayak_2_ebpsxf"
+      ],
+      "dishName": "Authentic Veg Goan Thali (Dal, Mix Veg Curry, Cabbage Curry, Bitter Gourd Sabzi, Kadhi, Kokum Coconut Curry, Rice, Chapati, Papad, Pickle)",
+      "avgPrice": "₹200–₹300",
+      "touristPlaceNearby": "Assagao Village",
+      "distanceFromTouristPlace": "6 km from Anjuna Beach",
+      "description": "Vinayak Family Restaurant is a famous spot for authentic Goan cuisine served in traditional style, including a vegetarian Goan thali with coconut, kokum and local spices. It is one of the best places for travelers exploring North Goa tourist locations to try traditional Goan food.",
+      "tips": "Great place for authentic Goan lunch after exploring North Goa villages.",
+      "fullAddress": "Vinayak Family Restaurant, House No 278, Socol Vaddo, Assagao, Goa 403507, India",
+      "routeDetails": "From Anjuna Beach drive towards Assagao village via Mapusa-Anjuna Road; the restaurant is located inside a residential village area known for authentic Goan food.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Vinayak+Family+Restaurant+Assagao+Goa"
+    },
+    {
+      "shopName": "Mannan Mannan Andhra Ruchi",
+      "images": [
+        "goa_mannan_1_ntjmpb",
+        "goa_mannan_2_tj5vqc"
+      ],
+      "dishName": "Andhra Veg Thali (Rasam, Sambhar, Dal, Tomato Chutney, Zucchini Sabzi, Aloo Sabzi, Ghee Rice, Veg Biryani, Papad, Pickle)",
+      "avgPrice": "₹199–₹300",
+      "touristPlaceNearby": "Calangute Beach",
+      "distanceFromTouristPlace": "500 m from Calangute Beach",
+      "description": "Mannan Mannan Andhra Ruchi serves spicy South Indian Andhra meals on banana leaf, including rasam, sambhar and veg biryani. Located near Calangute Beach, one of the top tourist locations in Goa, it is popular among tourists looking for spicy South Indian food in Goa.",
+      "tips": "Ideal dinner option if you enjoy very spicy South Indian meals.",
+      "fullAddress": "Mannan Mannan Andhra Ruchi, Near Calangute Beach Road, Calangute, Goa 403516, India",
+      "routeDetails": "From Calangute Beach walk towards the main market road; the restaurant is located near the tourist shopping street.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mannan+Mannan+Andhra+Ruchi+Calangute+Goa"
+    },
+    {
+      "shopName": "Navtara Vegetarian Restaurant",
+      "images": [
+        "goa_navtara_1_uybov2",
+        "goa_navtara_2_ttzbp4"
+      ],
+      "dishName": "Veg Thali (Chole, Dal, Mixed Sabzi, Papad, Rice, Chapati)",
+      "avgPrice": "₹180–₹250",
+      "touristPlaceNearby": "Calangute–Baga Road",
+      "distanceFromTouristPlace": "800 m from Baga Beach",
+      "description": "One of the most popular vegetarian restaurants near Baga and Calangute beaches, known for affordable thali meals for tourists exploring top North Goa beaches. Navtara Vegetarian Restaurant is a reliable budget dining option on the busy Calangute–Baga Road, serving wholesome North Indian thali meals that are filling and easy on the pocket.",
+      "tips": "Ideal budget lunch place near Baga Beach.",
+      "fullAddress": "Navtara Vegetarian Restaurant, Calangute–Baga Road, Near Baga Beach Junction, Goa 403516, India",
+      "routeDetails": "Located on the main Calangute–Baga Road between Calangute and Baga beaches.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Navtara+Vegetarian+Restaurant+Calangute+Baga+Road+Goa"
+    },
+    {
+      "shopName": "Shree Khodiyar Kathiyawadi Restaurant",
+      "images": [
+        "goa_khodiyar_1_juorio",
+        "goa_khodiyar_2_u4rps3",
+        "goa_khodiyar_3_zooige"
+      ],
+      "dishName": "Khichiya Masala Papad, Paneer Masala, Bhakri, Kathiyawadi Pickles & Chutneys",
+      "avgPrice": "₹300–₹450",
+      "touristPlaceNearby": "Calangute–Baga Road",
+      "distanceFromTouristPlace": "900 m from Baga Beach",
+      "description": "Famous for Gujarati Kathiyawadi cuisine in Goa featuring paneer masala, bhakri and traditional chutneys. A unique food stop for tourists wanting regional Indian cuisine while visiting Goa beaches. Shree Khodiyar Kathiyawadi Restaurant stands out on the Calangute–Baga strip for its authentic Saurashtra-style flavors rarely found in Goa.",
+      "tips": "Try the Kathiyawadi thali for the full experience.",
+      "fullAddress": "Shree Khodiyar Kathiyawadi Restaurant, Calangute–Baga Road, Goa 403516, India",
+      "routeDetails": "Drive or walk along Calangute–Baga Road towards Baga side; the restaurant is located among the main roadside eateries.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Shree+Khodiyar+Kathiyawadi+Restaurant+Calangute+Baga+Road+Goa"
+    }
+  ]
+}

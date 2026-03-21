@@ -61,7 +61,7 @@
     {
       "shopName": "Sri Lakshmi Narayana Bhavan",
       "images": [
-        "tir_lakshmi_1_lwx3kv",
+        "tir_lakshmi_1_wlx3kv",
         "tir_lakshmi_2_oqqxk8"
       ],
       "dishName": "Traditional Indian Veg Meals, Packed Meals",
@@ -201,21 +201,7 @@
       "routeDetails": "From Tirupati main market head towards the dessert café zone where Belgian Waffle Mania is located.",
       "mapLink": "https://www.google.com/maps/search/?api=1&query=Belgian+Waffle+Mania+Tirupati"
     },
-    {
-      "shopName": "Hotel Mayura",
-      "images": [
-        "tir_sarangi_1_xeiyxw"
-      ],
-      "dishName": "Andhra Vegetarian Thali, Regional Curries, Traditional Tiffins",
-      "avgPrice": "₹180–₹320",
-      "touristPlaceNearby": "Govindaraja Swamy Temple",
-      "distanceFromTouristPlace": "~0.9 km",
-      "description": "Hotel Mayura is famous for authentic Andhra-style vegetarian thalis served with spicy regional curries and traditional flavors. Pilgrims searching for authentic Andhra food in Tirupati often visit this restaurant after temple darshan. Its simple setup and delicious meals make it one of the top local food experiences in Tirupati.",
-      "tips": "Try the Andhra thali for lunch to experience local Tirupati flavors.",
-      "fullAddress": "Near Govindaraja Swamy Temple Main Road, Tirupati, Andhra Pradesh, India",
-      "routeDetails": "From Govindaraja Swamy Temple walk toward the nearby temple market road where the restaurant is located.",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hotel+Mayura+Govindaraja+Swamy+Temple+Tirupati"
-    },
+    
     {
       "shopName": "Minerva Coffee Shop",
       "images": [
@@ -235,8 +221,8 @@
     {
       "shopName": "Cafe Tirupati",
       "images": [
-        "tir_cafeturipati_1_jzhqiu",
-        "tir_cafeturipati_2_jfils5"
+        "tir_cafetirupati_1_jzhiqu",
+        "tir_cafetirupati_2_j1fis5"
       ],
       "dishName": "South Indian Tiffins, Snacks, Filter Coffee",
       "avgPrice": "₹100–₹220",
@@ -252,7 +238,7 @@
       "shopName": "Hotel Bliss Restaurant",
       "images": [
         "tir_bliss_1_zblcvv",
-        "tir_bliss_2_atoztm"
+        "tir_bliss_2_a2tozm"
       ],
       "dishName": "Andhra Special Thali, North Indian Dishes, Continental Meals",
       "avgPrice": "₹350–₹800",

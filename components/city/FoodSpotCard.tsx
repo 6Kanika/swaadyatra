@@ -7,7 +7,8 @@ export interface FoodSpot {
   images: string[];
   dishName: string;
   avgPrice: string;
-  touristPlaceNearby: string;
+  landmark?: string;
+  touristPlaceNearby?: string;
   distanceFromTouristPlace: string;
   description: string;
   tips: string;
@@ -18,8 +19,9 @@ export interface FoodSpot {
 
 export default function FoodSpotCard({ spot, index }: { spot: FoodSpot; index: number }) {
   const isFirst = index === 0;
+  const nearbyPlace = spot.landmark ?? spot.touristPlaceNearby ?? "";
   return (
-    <article className="bg-white rounded-3xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+    <article id={`spot-${index}`} className="bg-white rounded-3xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden scroll-mt-20">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-0">
         {/* Image carousel — left on desktop, top on mobile */}
         <div className="md:self-start">
@@ -45,12 +47,12 @@ export default function FoodSpotCard({ spot, index }: { spot: FoodSpot; index: n
             <span className="text-green-700 font-semibold">{spot.avgPrice}</span>
           </div>
 
-          {/* Tourist place nearby + distance */}
+          {/* Landmark / tourist place nearby + distance */}
           <div className="flex items-start gap-1.5 text-gray-700 text-sm">
             <MapPin className="w-4 h-4 text-[#E23744] shrink-0 mt-0.5" />
             <div>
               <span className="font-medium">Near:</span>{" "}
-              <span>{spot.touristPlaceNearby}</span>
+              <span>{nearbyPlace}</span>
               <span className="text-gray-500"> · {spot.distanceFromTouristPlace}</span>
             </div>
           </div>

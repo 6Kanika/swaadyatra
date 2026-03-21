@@ -3,28 +3,13 @@
   "hero": {
     "tagline": "The Oxford of the East serves soulful flavours — from spicy Misal Pav to heritage Irani chai.",
     "highlights": [
-      "14 curated food spots across Pune's iconic landmarks",
+      "12 curated food spots across Pune's iconic landmarks",
       "Authentic Maharashtrian thalis, Misal Pav & Irani chai near Shaniwar Wada & FC Road",
       "From Zaveri Bazaar-style khau gallis to Bandra-style café culture in Koregaon Park"
     ]
   },
   "foodSpots": [
-    {
-      "shopName": "Suraj South Indian Breakfast Stall",
-      "images": [
-        "Pune_shrinath1_cwkzc2",
-        "Pune_shrinath2_k3zuc5"
-      ],
-      "dishName": "Idli, Vada, Upma, Plain Dosa, Batata Vada, Idli Fry with Sambar & Coconut Chutney",
-      "avgPrice": "₹30–₹50",
-      "touristPlaceNearby": "Pune Railway Station",
-      "distanceFromTouristPlace": "~300–500 m from Pune Railway Station",
-      "description": "One of the oldest breakfast stalls in Pune, running for more than 70 years, famous among locals for authentic South Indian breakfast. Travelers visiting top tourist places near Pune Railway Station often stop here for a light and affordable morning meal. Their soft idli, crispy vada, fresh upma, and simple dosa served with hot sambar and coconut chutney make it one of the best food spots to try in Pune for breakfast.",
-      "tips": "Visit early morning as items sell out quickly. Best combo: Idli + Vada mix plate. Stall usually closes by afternoon.",
-      "fullAddress": "Near hospital beside Pune Railway Station, Pune, Maharashtra, India",
-      "routeDetails": "Walk from Pune Railway Station towards the nearby hospital area; inside the local street market you will find the crowded breakfast stall.",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=Suraj+South+Indian+Breakfast+Stall+Pune+Railway+Station"
-    },
+    
     {
       "shopName": "Darpan Misal",
       "images": [
@@ -44,8 +29,9 @@
     {
       "shopName": "Local Sabudana Vada Stall",
       "images": [
-        "Pune_vidya1_p9xb6h",
-        "Pune_vidya2_axhguf"
+        "Pune_shrinath1_cwkzc2",
+        "Pune_shrinath2_k3zuc5"
+        
       ],
       "dishName": "Sabudana Vada (with peanut chutney, cucumber yogurt chutney)",
       "avgPrice": "₹50 per plate",
@@ -58,27 +44,11 @@
       "mapLink": "https://www.google.com/maps/search/?api=1&query=Sabudana+Vada+Stall+Rasta+Peth+Khau+Galli+Pune"
     },
     {
-      "shopName": "Vikas Home-Style Veg Food Stall",
-      "images": [
-        "Pune_kaka1_vy8w2f",
-        "Pune_kaka2_voozwf"
-      ],
-      "dishName": "Maharashtrian Veg Thali (Masoor Dal, Methi Dal, Matki Sprouts Curry, Chana Curry, Farsan Bhaji, Sev Curry, Masala Rice, Chapati, Papad)",
-      "avgPrice": "₹70",
-      "touristPlaceNearby": "Shaniwar Wada",
-      "distanceFromTouristPlace": "~6 km from Shaniwar Wada",
-      "description": "A hidden gem for authentic Maharashtrian home-style food in Pune. This place serves a budget-friendly traditional veg thali featuring local Pune specialties like matki sprouts curry, masoor dal, methi dal, farsan bhaji, sev curry, masala rice, and fresh chapatis. Tourists searching for local cuisine near Pune tourist attractions love this spot for the experience of traditional homemade Maharashtrian meals.",
-      "tips": "Food is freshly cooked by local women, so expect simple but authentic flavors. Best for lunch time visits.",
-      "fullAddress": "Vikas area, Karve Nagar, Pune, Maharashtra, India",
-      "routeDetails": "From Deccan area take a rickshaw or bus to Karve Nagar; the stall is in the Vikas locality.",
-      "mapLink": "https://www.google.com/maps/search/?api=1&query=Vikas+Home+Style+Veg+Food+Karve+Nagar+Pune"
-    },
-    {
       "shopName": "Vaidya Upahar Gruha",
       "images": [
-        "Pune_jaishankar1_jltsi1",
-        "Pune_jaishankar2_alc1y9",
-        "Pune_jaishankar3_pa5q15"
+        "Pune_vidya1_p9xb6h",
+        "Pune_vidya2_axhguf"
+        
       ],
       "dishName": "Green Misal with Bread, Kharvas, Masala Tak",
       "avgPrice": "₹80–₹150",

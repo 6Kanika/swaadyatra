@@ -13,7 +13,7 @@ export default function Footer() {
 
   const popularCities = [
     "Delhi", "Mumbai", "Varanasi", "Jaipur",
-    "Nainital", "Pune", "Amritsar", "Kashmir", "Kolkata", "Puri", "Darjeeling", "Matheran", "Mahabaleshwar", "Lucknow", "Tirupati"
+    "Nainital", "Pune", "Amritsar", "Kashmir", "Kolkata", "Puri", "Darjeeling", "Matheran", "Mahabaleshwar", "Lucknow", "Tirupati", "Rameshwaram", "Goa", "Ooty", "Chennai", "Ahmedabad"
   ];
 
   const socialLinks = [
@@ -71,14 +71,13 @@ export default function Footer() {
           {/* Popular Cities */}
           <div>
             <h3 className="text-lg font-bold mb-4 text-white">Popular Cities</h3>
-            <ul className="space-y-3">
+            <ul className="grid grid-cols-2 gap-x-4 gap-y-2">
               {popularCities.map((city, index) => (
                 <li key={index}>
                   <Link
                     href={`/city/${city.toLowerCase()}`}
-                    className="text-gray-400 hover:text-[#E23744] transition-colors text-sm flex items-center gap-2 group"
+                    className="text-gray-400 hover:text-[#E23744] transition-colors text-sm"
                   >
-                    <span className="w-0 h-0.5 bg-[#E23744] group-hover:w-4 transition-all duration-300"></span>
                     {city}
                   </Link>
                 </li>

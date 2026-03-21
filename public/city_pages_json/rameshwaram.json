@@ -1,0 +1,260 @@
+{
+  "city": "Rameshwaram",
+  "hero": {
+    "tagline": "The sacred island city of Tamil Nadu serves soulful flavours — from ghee-loaded dosas and banana leaf meals near Ramanathaswamy Temple to refreshing Jigarthanda and coastal street snacks.",
+    "highlights": [
+      "13 curated food spots across Rameshwaram's iconic temples and coastal landmarks",
+      "Authentic South Indian banana leaf meals, traditional tiffins & temple-style food near Ramanathaswamy Temple",
+      "From local mess halls and pilgrim eateries to multi-cuisine restaurants on the Dhanushkodi route"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "The Rameshwaram Cafe",
+      "images": [
+        "ram_ram_1_nk0jsp",
+        "ram_ram_2_mzvchd",
+        "ram_ram_3_bte42c",
+        "ram_ram_4_vdcr8i",
+        "ram_ram_5_gpyvom"
+      ],
+      "dishName": "Ghee Podi Masala Dosa, Ghee Button Idli (Coin Idli), Ragi Mudde, Curd Rice, Lemon Rice, Puliyogare, Filter Coffee, Halwa",
+      "avgPrice": "₹150–₹250 per person",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "Around 1 km from Indiranagar Metro Station",
+      "description": "The Rameshwaram Cafe is one of the most talked-about South Indian food destinations and a must-visit spot for travelers exploring the best food experiences connected with Rameshwaram and South Indian cuisine. Famous for its ghee-loaded masala dosa, fluffy ghee button idli, healthy ragi mudde and traditional Karnataka rice dishes, this café offers a lively atmosphere where visitors can watch fresh food being prepared live. Its popularity, hygienic preparation, and authentic flavors make it a trending stop for food lovers searching online for best food to try near Rameshwaram style restaurants, top South Indian breakfast spots and iconic dosa places.",
+      "tips": "Visit early morning or late night to avoid heavy crowds; their ghee podi dosa and filter coffee make an excellent South Indian breakfast experience.",
+      "fullAddress": "2013, HAL 2nd Stage, 100 Feet Rd, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "routeDetails": "From Indiranagar Metro Station walk toward 100 Feet Road in HAL 2nd Stage where the café is located; the restaurant is easy to find due to long queues and its iconic black themed exterior.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=The+Rameshwaram+Cafe+Indiranagar+Bengaluru"
+    },
+    {
+      "shopName": "Ganesh Mess",
+      "images": [
+        "ram_ganesh_1_syl2xn",
+        "ram_ganesh_2_mfgbte",
+        "ram_ganesh_3_p94i2b",
+        "ram_ganesh_4_tdremn"
+      ],
+      "dishName": "South Indian Banana Leaf Meals (Rice, Sambar, Rasam, Chapati, Potato Sabzi, Cauliflower, Tomato Chutney, Chaas/Buttermilk, Papadam, Curd), Local Banana Varieties (Nalipoovan Banana, Red Banana)",
+      "avgPrice": "₹100 per person (unlimited meals)",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "About 200–300 meters from Ramanathaswamy Temple",
+      "description": "Ganesh Mess is a highly recommended local eatery famous for its authentic South Indian banana leaf meals in Rameshwaram. Visitors searching for best food to try in Rameshwaram or top local restaurants near Ramanathaswamy Temple often discover this place for its affordable unlimited thali. The meal includes rice with sambar, rasam, chapati with vegetable sabzi, chutneys, papadam, curd and refreshing buttermilk. Served traditionally on banana leaves, the experience reflects true Tamil Nadu hospitality. Travelers exploring top tourist locations of Rameshwaram frequently stop here for a clean, hygienic and budget-friendly lunch after visiting the temple.",
+      "tips": "Visit during lunch hours for fresh banana-leaf meals; start with sambar rice then rasam rice for the authentic South Indian dining style.",
+      "fullAddress": "Near East Car Street, close to Ramanathaswamy Temple area, Rameswaram, Tamil Nadu, India",
+      "routeDetails": "From the main entrance of Ramanathaswamy Temple walk toward East Car Street market area where several small eateries operate; Ganesh Mess is located nearby and is well known among locals for traditional meals served on banana leaf.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Ganesh+Mess+East+Car+Street+Rameswaram"
+    },
+    {
+      "shopName": "Local Jigarthanda Shop (next to Ganesh Mess)",
+      "images": [
+        "ram_jigarthana_1_t1zc12",
+        "ram_jigarthana_2_q97u3j",
+        "ram_jigarthana_3_otci6i",
+        "ram_jigarthana_4_is9oeh"
+      ],
+      "dishName": "Jigarthanda (Special & Normal), Cooling Milk Dessert Drink with Ice Cream, Cream, Almond Paste",
+      "avgPrice": "₹40–₹70 per glass",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "Around 250 meters from Ramanathaswamy Temple",
+      "description": "This small stall serves Jigarthanda, one of the most famous traditional drinks of Tamil Nadu and a refreshing treat for travelers exploring Rameshwaram tourist places. Made with chilled milk, cream, ice cream, almond paste and natural gums, Jigarthanda is known as a cooling drink that helps beat the hot and humid climate of coastal Rameshwaram. Tourists searching for best street drinks in Rameshwaram or local desserts near Ramanathaswamy Temple often stop here after meals to enjoy this sweet and refreshing beverage.",
+      "tips": "Best enjoyed after lunch during hot afternoons when the coastal heat is high; the chilled drink works as a refreshing dessert.",
+      "fullAddress": "Small beverage stall located next to Ganesh Mess restaurant near Ramanathaswamy Temple area, Rameswaram, Tamil Nadu, India",
+      "routeDetails": "From Ramanathaswamy Temple walk toward East Car Street where Ganesh Mess is located; the Jigarthanda stall is situated right beside the restaurant and is easy to spot among small local drink vendors.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Jigarthanda+Stall+East+Car+Street+Rameswaram"
+    },
+    {
+      "shopName": "Guru Lodge Restaurant",
+      "images": [
+        "ram_guru_1_zgxvdh",
+        "ram_guru_2_pvaxm9",
+        "ram_guru_3_yagtsn"
+      ],
+      "dishName": "Pongal, Sambar, Coconut Chutney, Tomato Chutney",
+      "avgPrice": "₹80–₹120 per person",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "Around 100 meters from Ramanathaswamy Temple South Gate",
+      "description": "Guru Lodge Restaurant is a simple and clean dining place located directly opposite the temple's south gate, making it convenient for pilgrims exploring top tourist places in Rameshwaram. The restaurant is known for its traditional Pongal served with sambar and fresh chutneys, a light and easily digestible South Indian dish prepared with rice, lentils, black pepper and cashews. Travelers searching online for best breakfast near Ramanathaswamy Temple or authentic food in Rameshwaram often find this spot popular for its hygiene and quick service.",
+      "tips": "Pongal is best enjoyed as a light breakfast after temple darshan, especially in the morning when it is freshly prepared.",
+      "fullAddress": "Opposite South Gate of Ramanathaswamy Temple, Rameswaram, Tamil Nadu, India",
+      "routeDetails": "From the South Gate of Ramanathaswamy Temple cross the road directly opposite the entrance where Guru Lodge restaurant is located and known among pilgrims for quick traditional meals.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Guru+Lodge+Restaurant+Ramanathaswamy+Temple+Rameswaram"
+    },
+    {
+      "shopName": "Hotel Aryaas",
+      "images": [
+        "ram_aryaas_1_lvevmp",
+        "ram_aryaas_2_lxlk7r",
+        "ram_aryaas_3_jpxwir"
+      ],
+      "dishName": "Poori with Potato Masala, Idli, Vada, Coconut Chutney, Tomato Chutney, Sambar, South Indian Meals",
+      "avgPrice": "₹80–₹150 per person",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "About 300 meters from Ramanathaswamy Temple",
+      "description": "Hotel Aryaas is considered one of the clean and hygienic restaurants in Rameshwaram and a reliable stop for pilgrims and tourists visiting the Ramanathaswamy Jyotirlinga temple. The restaurant serves classic South Indian tiffin such as soft idli, crispy vada, fluffy poori with potato masala, coconut chutney and sambar. With breakfast service starting early morning, it attracts travelers searching for best breakfast in Rameshwaram or food near major tourist locations in Rameshwaram.",
+      "tips": "Visit between 7 AM – 9 AM for fresh tiffin items; poori with potato masala and idli-vada combo are the most satisfying breakfast choices.",
+      "fullAddress": "Opposite Goswami Mutt Trust, near Ramanathaswamy Temple area, Rameswaram, Tamil Nadu, India",
+      "routeDetails": "From Ramanathaswamy Temple head toward the Goswami Mutt Trust accommodation area; Hotel Aryaas is located exactly opposite the trust building and is a popular breakfast restaurant for visitors.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Hotel+Aryaas+Rameswaram"
+    },
+    {
+      "shopName": "Small Snack Stall near APJ Abdul Kalam Memorial",
+      "images": [
+        "ram_apj_1_h63k0s",
+        "ram_apj_2_jmfknf",
+        "ram_apj_3_oskwxe"
+      ],
+      "dishName": "Milk Coconut Cookie, Milk Badam, Onion Fritters (Pakora)",
+      "avgPrice": "₹20–₹80 per item",
+      "touristPlaceNearby": "Dr. A. P. J. Abdul Kalam Memorial",
+      "distanceFromTouristPlace": "Around 200 meters from APJ Abdul Kalam Memorial",
+      "description": "This small tea-time snack stall near the Dr. APJ Abdul Kalam Memorial in Rameshwaram is a great place to try quick local snacks after visiting the memorial. The stall offers fresh coconut cookies, milk badam drink and crispy onion fritters, making it a popular stop for tourists exploring top tourist attractions in Rameshwaram. The coconut cookie made with grated coconut melts in the mouth and pairs well with warm milk drinks, giving travelers a simple yet memorable local snack experience.",
+      "tips": "Perfect stop for evening tea-time snacks after visiting APJ Abdul Kalam Memorial; try the coconut cookie with milk badam for the best flavor combo.",
+      "fullAddress": "Roadside snack stall near Dr. APJ Abdul Kalam Memorial, Rameswaram, Tamil Nadu, India",
+      "routeDetails": "From the entrance of APJ Abdul Kalam Memorial walk toward the nearby roadside snack vendors where small stalls sell cookies, milk drinks and evening snacks to visitors.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=APJ+Abdul+Kalam+Memorial+Rameswaram"
+    },
+    {
+      "shopName": "Local Street Drink Stall (Akka Buttermilk Stall)",
+      "images": [
+        "ram_apj_4_zrqnpp",
+        "ram_apj_5_a2tnhr",
+        "ram_localdrink_1_jslz4j",
+        "ram_localdrink_2_wzo9bc"
+      ],
+      "dishName": "Spiced Buttermilk Drink, Onion Buttermilk Mix Drink, Mango Chutney, Local Pickles",
+      "avgPrice": "₹20–₹40 per glass",
+      "touristPlaceNearby": "Dr. A. P. J. Abdul Kalam Memorial",
+      "distanceFromTouristPlace": "About 100–200 meters from Dr. A. P. J. Abdul Kalam Memorial",
+      "description": "This humble local street drink stall near the APJ Abdul Kalam Memorial in Rameshwaram offers refreshing traditional South Indian drinks perfect for travelers exploring the city's major tourist attractions. Their spiced buttermilk mixed with onions, coriander and chillies along with tangy mango chutney and pickles provides a cooling and authentic local flavor experience. Visitors searching for best local food experiences in Rameshwaram, traditional Tamil Nadu drinks, and street food near tourist places in Rameshwaram will love stopping here for a refreshing break during sightseeing.",
+      "tips": "Best enjoyed during hot afternoon hours after visiting the memorial as the chilled spiced buttermilk helps beat the Rameshwaram heat and refresh tired travelers.",
+      "fullAddress": "Small roadside stall outside Dr. A. P. J. Abdul Kalam Memorial entrance road, Rameswaram, Ramanathapuram District, Tamil Nadu, India",
+      "routeDetails": "When exiting the Dr. A. P. J. Abdul Kalam Memorial complex, walk toward the roadside vendor stalls near the parking area where local women sell traditional summer drinks and snacks.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=APJ+Abdul+Kalam+Memorial+Rameswaram+street+stalls"
+    },
+    {
+      "shopName": "Grand Delhi Food Plaza",
+      "images": [
+        "ram_grand_1_ntui9o",
+        "ram_grand_2_ue7gww",
+        "ram_grand_3_rwgd54",
+        "ram_grand_4_f3kl75"
+      ],
+      "dishName": "Chole Bhature, Veg Noodles, Veg Pizza, Gulab Jamun with Ice Cream, Cold Coffee, Blue Lagoon Drink",
+      "avgPrice": "₹200–₹350 per person",
+      "touristPlaceNearby": "Dhanushkodi Beach",
+      "distanceFromTouristPlace": "Around 2–3 km from Ramanathaswamy Temple and on route toward Dhanushkodi",
+      "description": "Grand Delhi Food Plaza is a spacious multi-cuisine restaurant in Rameshwaram ideal for travelers craving variety after exploring the city's spiritual landmarks. Known for serving North Indian dishes like chole bhature along with noodles, pizza, desserts like gulab jamun with ice cream, and refreshing beverages, it offers a break from traditional South Indian flavors. Tourists visiting top attractions in Rameshwaram such as Dhanushkodi and Ramanathaswamy Temple often stop here for a comfortable meal, making it a convenient choice for those searching online for best restaurants in Rameshwaram for tourists and family dining options in Rameshwaram.",
+      "tips": "A good lunch stop after sightseeing around Dhanushkodi or Kalam Memorial, especially if you want North Indian or fast food options instead of traditional South Indian meals.",
+      "fullAddress": "Grand Delhi Food Plaza, Rameswaram Main Road Area, Ramanathapuram District, Tamil Nadu, India",
+      "routeDetails": "From Ramanathaswamy Temple or APJ Abdul Kalam Memorial take an auto or cab toward Dhanushkodi road; the restaurant is located on the main road and is easy to identify due to its large seating area and multi-cuisine menu board.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Grand+Delhi+Food+Plaza+Rameswaram"
+    },
+    {
+      "shopName": "Local Temple Street Breakfast Shop",
+      "images": [
+        "ram_temple_1_pziiy8",
+        "ram_temple_2_kv0for",
+        "ram_temple_3_jpwjvp"
+      ],
+      "dishName": "Masala Dosa, Coconut Chutney, Tomato Chutney, Sambar",
+      "avgPrice": "₹40–₹80",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "Walking Distance",
+      "description": "This small breakfast shop near Ramanathaswamy Temple serves fresh South Indian breakfast items like masala dosa with multiple chutneys. For travelers visiting the top tourist places in Rameshwaram, these local stalls offer one of the best budget breakfast options in Rameshwaram. The dosa is served hot with coconut and tomato chutney along with flavorful sambar, making it a great quick meal after temple darshan.",
+      "tips": "Visit early morning for soft and fresh dosa. Local stalls often sell out quickly during temple rush hours.",
+      "fullAddress": "Temple Street Market Area, Near Ramanathaswamy Temple, Rameswaram, Tamil Nadu",
+      "routeDetails": "From the temple gate walk towards the right side market lane where small breakfast stalls and local eateries are located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Temple+Street+Market+Ramanathaswamy+Temple+Rameswaram"
+    },
+    {
+      "shopName": "Temple Area Juice & Lassi Shop",
+      "images": [
+        "ram_juice_1_fcxigl",
+        "ram_juice_2_j8lbi9"
+      ],
+      "dishName": "Lassi, Cold Beverages",
+      "avgPrice": "₹40–₹70",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "Walking Distance",
+      "description": "This juice and lassi shop near the west gate of Ramanathaswamy Temple is a great stop for pilgrims after visiting one of the best tourist locations in Rameshwaram. The refreshing lassi is especially popular during hot weather and provides a quick break while exploring top tourist places in Rameshwaram temple surroundings. Budget travelers often choose this spot for affordable and refreshing drinks near the temple.",
+      "tips": "Best to visit during afternoon heat after temple darshan to refresh with chilled drinks.",
+      "fullAddress": "West Gate Area near Ramanathaswamy Temple, Rameswaram, Tamil Nadu",
+      "routeDetails": "Located near the west entrance side of the temple among several small juice and refreshment stalls.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=West+Gate+Ramanathaswamy+Temple+Rameswaram+juice+stall"
+    },
+    {
+      "shopName": "Amaan Restaurant",
+      "images": [
+        "ram_amaan_1_ib6gas",
+        "ram_amaan_2_netrgb",
+        "ram_amaan_3_watg0w"
+      ],
+      "dishName": "South Indian Meals, South Indian Breakfast, Lassi, Multiple Chutneys",
+      "avgPrice": "₹150–₹350",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "Walking Distance",
+      "description": "Amaan Restaurant is one of the most recommended places near Ramanathaswamy Temple for travelers exploring the best tourist locations in Rameshwaram. Known for its clean environment and tasty South Indian meals, dosa, and refreshing drinks, this restaurant is a favorite among pilgrims searching for the best food to try in Rameshwaram. Though slightly higher priced than local stalls, the quality, hygiene, and variety make it one of the top food places near Rameshwaram temple for breakfast, lunch, and dinner.",
+      "tips": "Ideal for travelers who prefer a cleaner restaurant setup near the temple. Try South Indian meals and chutney varieties.",
+      "fullAddress": "West Gate Area, Near Ramanathaswamy Temple, Rameswaram, Tamil Nadu",
+      "routeDetails": "From the west entrance of Ramanathaswamy Temple walk towards the nearby hotel and restaurant street where Amaan Restaurant is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Amaan+Restaurant+Rameswaram"
+    },
+    {
+      "shopName": "Sri Murugan Mess",
+      "images": [
+        "ram_murugan_1_ojocq3",
+        "ram_murugan_2_g3n25a",
+        "ram_murugan_3_khhyys"
+      ],
+      "dishName": "Unlimited Veg Meals (Rice, Sambar, Papad, Sweet, Buttermilk)",
+      "avgPrice": "₹100",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "Very Close – Temple Area",
+      "description": "Sri Murugan Mess is a budget-friendly restaurant near Ramanathaswamy Temple, popular among pilgrims visiting the top tourist places in Rameshwaram. The restaurant serves simple yet delicious South Indian unlimited veg meals including rice, sambar, papad, sweet dish, and refreshing buttermilk. For travelers searching for best food to try in Rameshwaram near the temple, this place offers great taste at a very affordable price and is perfect after temple darshan.",
+      "tips": "Try the unlimited meals during lunch time. The buttermilk served at the end is refreshing after a hot temple visit.",
+      "fullAddress": "Near Ramanathaswamy Temple Market Area, Rameswaram, Tamil Nadu",
+      "routeDetails": "From Ramanathaswamy Temple walk towards the nearby food street beside the temple where Sri Murugan Mess is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sri+Murugan+Mess+Rameswaram"
+    },
+    {
+      "shopName": "Saravana Bhavan",
+      "images": [
+        "ram_saravana_1_a8wjd9",
+        "ram_saravana_2_iiwn9e",
+        "ram_saravana_3_c3remp",
+        "ram_saravana_4_dsahee",
+        "ram_saravana_5_aih44c"
+      ],
+      "dishName": "Uttapam, Noodles, Filter Coffee",
+      "avgPrice": "₹150–₹300",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "Walking Distance",
+      "description": "Saravana Bhavan is a well-known South Indian restaurant chain and a reliable option for visitors exploring the best tourist locations in Rameshwaram. Located near Ramanathaswamy Temple, the restaurant serves uttapam, filter coffee, and other South Indian dishes along with some fusion items like noodles. Tourists often stop here while visiting top tourist places in Rameshwaram temple area because of its consistent taste and hygienic environment.",
+      "tips": "Filter coffee is highly recommended. Visit during non-peak hours to avoid waiting.",
+      "fullAddress": "Near West Gate, Ramanathaswamy Temple Area, Rameswaram, Tamil Nadu",
+      "routeDetails": "From the west gate of the temple walk towards the main restaurant street where Saravana Bhavan is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Saravana+Bhavan+Rameswaram"
+    },
+    {
+      "shopName": "Star Palace Hotel",
+      "images": [
+        "ram_star_1_vo0tzz",
+        "ram_star_2_g8z8ms",
+        "ram_star_3_wdrjpm",
+        "ram_star_4_wakvvu",
+        "ram_star_5_xptmsc"
+      ],
+      "dishName": "Crispy Fried Veg, Curd Rice, Veg Noodles, Chole Puri, Poha, Pongal, Sambar, Medu Vada, Idli, Uttapam, Bread Butter Jam, Cornflakes, Paneer Gravy, Gobi 65, Roti, Fresh Juice",
+      "avgPrice": "₹180–₹240 for dishes, Buffet ~₹250",
+      "touristPlaceNearby": "Ramanathaswamy Temple",
+      "distanceFromTouristPlace": "~3.3 km",
+      "description": "Star Palace Hotel in Rameswaram is a popular stay option for tourists visiting the Ramanathaswamy Temple. Located on the highway with easy connectivity and parking space, the hotel offers clean rooms and an in-house vegetarian restaurant. Guests can enjoy South Indian breakfast dishes like idli, medu vada, pongal, poha, sambar and chutney along with North Indian options like chole puri. Dinner items include veg noodles, crispy fried veg, paneer gravy, gobi 65 and roti. The attentive staff and convenient location make it a good stay and dining option for pilgrims and travelers visiting Rameswaram.",
+      "tips": "Good option if you want a hotel near the temple with parking. Breakfast buffet is highly recommended compared to the limited dinner menu during peak crowd days.",
+      "fullAddress": "Star Palace Hotel, Highway Road, Rameswaram, Tamil Nadu, India",
+      "routeDetails": "Easily reachable via the main highway road from Ramanathaswamy Temple; 10–15 minutes drive by car or auto.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Star+Palace+Hotel+Rameswaram"
+    }
+  ]
+}

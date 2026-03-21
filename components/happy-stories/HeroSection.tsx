@@ -33,8 +33,8 @@ export default function HeroSection() {
           Real Stories · Real Flavors
         </span>
         <h1 className="text-4xl md:text-6xl font-extrabold text-white leading-tight mb-5">
-          Real Food Journeys from{" "}
-          <span className="text-[#E23744]">Our Travelers</span>
+          Real Street Food Travel Stories{" "}
+          <span className="text-[#E23744]">Across India</span>
         </h1>
         <p className="text-white/80 text-lg md:text-xl mb-8 leading-relaxed">
           Discover how travelers found authentic food experiences across India's

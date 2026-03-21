@@ -13,7 +13,7 @@ export const cityIndex: CityMeta[] = [
   { name: "Varanasi", slug: "varanasi", count: 19 },
   { name: "Kashmir",  slug: "kashmir",  count: 11 },
   { name: "Mumbai",   slug: "mumbai",   count: 18 },
-  { name: "Pune",     slug: "pune",     count: 14 },
+  { name: "Pune",     slug: "pune",     count: 12 },
   { name: "Kolkata",  slug: "kolkata",  count: 14 },
   { name: "Nainital", slug: "nainital", count: 16 },
   { name: "Puri",       slug: "puri",       count: 10 },
@@ -22,4 +22,9 @@ export const cityIndex: CityMeta[] = [
   { name: "Mahabaleshwar", slug: "mahabaleshwar", count: 11 },
   { name: "Lucknow",       slug: "lucknow",       count: 14 },
   { name: "Tirupati",      slug: "tirupati",      count: 19 },
+  { name: "Rameshwaram",   slug: "rameshwaram",   count: 14 },
+  { name: "Goa",           slug: "goa",           count: 15 },
+  { name: "Ooty",          slug: "ooty",          count: 13 },
+  { name: "Chennai",       slug: "chennai",       count: 14 },
+  { name: "Ahmedabad",     slug: "ahmedabad",     count: 11 },
 ];

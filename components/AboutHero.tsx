@@ -19,8 +19,8 @@ export default function AboutHero() {
         </span>
 
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-5 max-w-3xl mx-auto drop-shadow-sm">
-          Discover India&apos;s Cities Through Their Most Loved{" "}
-          <span className="text-[#FFC107]">Flavours</span>
+          India&apos;s Best Street Food &amp; Food Travel Guide —{" "}
+          <span className="text-[#FFC107]">City by City</span>
         </h1>
 
         <p className="text-lg md:text-xl text-white/85 max-w-xl mx-auto leading-relaxed">

@@ -175,8 +175,8 @@ export default function ContactPageClient() {
             <span className="text-[#E23744] text-sm font-bold tracking-wide uppercase">Contact Us</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-5 leading-tight">
-            Get In Touch With{" "}
-            <span className="text-[#E23744]">SwaadYatra</span>
+            Suggest a Food Spot or{" "}
+            <span className="text-[#E23744]">List Your Restaurant on SwaadYatra</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-600 leading-relaxed">
             Have a question, want to suggest a famous food spot, or want to list your food shop?

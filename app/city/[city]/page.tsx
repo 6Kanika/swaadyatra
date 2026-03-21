@@ -10,6 +10,7 @@ import FoodSpotCard, { FoodSpot } from "@/components/city/FoodSpotCard";
 import FloatingReviews from "@/components/city/FloatingReviews";
 import { cityPageSchema } from "@/lib/jsonld";
 import { cityIndex } from "@/lib/cityIndex";
+import { cityCoverImages } from "@/lib/cityCoverImages";
 
 const CLOUD = process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME;
 const cl = (id: string) => `https://res.cloudinary.com/${CLOUD}/image/upload/f_auto,q_auto,w_600/${id}`;
@@ -95,13 +96,19 @@ export default async function CityPage({
 
   const { city, hero, foodSpots } = data;
 
-  // Other cities for the suggestions section — exclude current city
+  // Other cities for the suggestions section — exclude current city, pick 4 randomly
   const otherCities = cityIndex.filter((c) => c.slug !== citySlug);
-  // Read first image of each other city at build time
-  const suggestions = otherCities.map((c) => {
-    const d = getCityData(c.slug);
-    return { ...c, firstImage: d?.foodSpots[0]?.images[0] ?? null };
+  // Deterministic shuffle seeded by citySlug so it's stable per build but varies per city
+  const seed = citySlug.split("").reduce((acc, ch) => acc + ch.charCodeAt(0), 0);
+  const shuffled = [...otherCities].sort((a, b) => {
+    const ha = Math.sin(seed + a.slug.length) * 10000;
+    const hb = Math.sin(seed + b.slug.length) * 10000;
+    return (ha - Math.floor(ha)) - (hb - Math.floor(hb));
   });
+  const suggestions = shuffled.slice(0, 4).map((c) => ({
+    ...c,
+    coverImage: cityCoverImages[c.slug] ?? null,
+  }));
 
   return (
     <>
@@ -177,7 +184,7 @@ export default async function CityPage({
             <div className="container mx-auto max-w-5xl">
               <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-1">Explore More Food Cities</h2>
               <p className="text-gray-500 text-base mb-6">Discover iconic street food in other Indian cities</p>
-              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
                 {suggestions.map((s) => (
                   <Link
                     key={s.slug}
@@ -186,9 +193,9 @@ export default async function CityPage({
                   >
                     {/* Thumbnail */}
                     <div className="relative w-16 h-16 rounded-xl overflow-hidden shrink-0 bg-gray-100">
-                      {s.firstImage && (
+                      {s.coverImage && (
                         <Image
-                          src={cl(s.firstImage)}
+                          src={cl(s.coverImage)}
                           alt={`Food in ${s.name}`}
                           fill
                           className="object-cover"

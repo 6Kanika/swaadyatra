@@ -1,0 +1,241 @@
+{
+  "city": "Chennai",
+  "hero": {
+    "tagline": "The Gateway of South India serves coastal Tamil flavours — from legendary Ratna Cafe sambar to crispy bajjis near ancient temples and refreshing Jigarthanda by the beach.",
+    "highlights": [
+      "14 curated food spots across Chennai's iconic beaches, temples and city landmarks",
+      "Authentic South Indian breakfasts, iconic filter coffee & rare North Indian sweets near Marina Beach and Egmore",
+      "From century-old Ratna Cafe in Triplicane to beachside Jigarthanda at Elliot's Beach"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Ratan Bhai Jalebi Stall",
+      "images": [
+        "che_ratan_1_jgee5o"
+      ],
+      "dishName": "Jalebi (Hot Fresh Jalebi)",
+      "avgPrice": "₹50–₹100",
+      "touristPlaceNearby": "Marina Beach",
+      "distanceFromTouristPlace": "~3 km",
+      "description": "A must-visit street food spot in Chennai famous for its rare hot and crispy jalebi, a delight you usually don't find easily in South India. Located in the bustling Sowcarpet market, this place brings North Indian mithai vibes to Chennai, making it one of the best food experiences for tourists exploring top tourist locations in Chennai. Perfect for those searching best sweets to try in Chennai or authentic street food experiences.",
+      "tips": "Visit in evening hours for freshly prepared hot jalebis and avoid peak crowd time in Sowcarpet lanes.",
+      "fullAddress": "Mint Street, Sowcarpet, Chennai, Tamil Nadu",
+      "routeDetails": "Easily reachable via auto or cab from Marina Beach towards Sowcarpet market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Ratan+Bhai+Jalebi+Stall+Mint+Street+Sowcarpet+Chennai"
+    },
+    {
+      "shopName": "Meeting Circle Eatery",
+      "images": [
+        "che_eatery_1_rxwxir",
+        "che_eatery_2_ntz8zj"
+      ],
+      "dishName": "Paneer Dosa, Mysore Masala Dosa, Sweet Sambar, Chutneys",
+      "avgPrice": "₹100–₹200",
+      "touristPlaceNearby": "T Nagar Shopping District",
+      "distanceFromTouristPlace": "~1 km",
+      "description": "A hidden gem in Chennai offering ultra crispy dosa varieties including paneer dosa and Mysore dosa paired with unique sweet Karnataka-style sambar and multiple chutneys. This spot is perfect for food lovers exploring best food to try in Chennai while visiting top tourist places like T Nagar. A great mix of flavors combining crisp textures with rich South Indian taste.",
+      "tips": "Try dosa with sweet sambar for a unique Karnataka-style flavor experience.",
+      "fullAddress": "Near T Nagar, Chennai, Tamil Nadu",
+      "routeDetails": "Walkable or short auto ride within T Nagar market area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Meeting+Circle+Eatery+T+Nagar+Chennai"
+    },
+    {
+      "shopName": "Shri Balaji Bhavan",
+      "images": [
+        "che_balaji_1_yczeoa",
+        "che_balaji_2_dv04ej",
+        "che_balaji_3_gj4xj0"
+      ],
+      "dishName": "Poori Bhaji, Idli, Vada, Filter Coffee",
+      "avgPrice": "₹80–₹150",
+      "touristPlaceNearby": "Ashtalakshmi Temple",
+      "distanceFromTouristPlace": "~2 km",
+      "description": "A popular South Indian restaurant known for its comforting breakfast meals like poori bhaji, idli, and vada served with flavorful chutneys and sambar. Located near major tourist attractions, it's a great stop for tourists searching top food places near Chennai temples or best breakfast in Chennai. The combination of crispy poori and delicious aloo sabzi makes it a satisfying meal.",
+      "tips": "Best visited in morning hours for fresh breakfast and less waiting time.",
+      "fullAddress": "Adyar, Chennai, Tamil Nadu",
+      "routeDetails": "Easily accessible via local transport from Besant Nagar/Adyar area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Shri+Balaji+Bhavan+Adyar+Chennai"
+    },
+    {
+      "shopName": "Murugan Idli Shop",
+      "images": [
+        "che_murugan_1_vh2rpw",
+        "che_murugan_2_ke3mp2"
+      ],
+      "dishName": "Idli, Vada, Uttapam, Sweet Pongal, Multiple Chutneys",
+      "avgPrice": "₹100–₹200",
+      "touristPlaceNearby": "Kapaleeshwarar Temple",
+      "distanceFromTouristPlace": "~1–3 km",
+      "description": "One of the most iconic food destinations in Chennai, Murugan Idli Shop is famous for its soft idlis, crispy vadas, and variety of chutneys. A must-visit for anyone exploring best tourist locations in Chennai and wanting authentic South Indian food. Their sweet pongal and traditional serving style make it a complete cultural and culinary experience.",
+      "tips": "Try idli with all chutneys and sweet pongal for a complete traditional experience.",
+      "fullAddress": "Multiple outlets (notably T Nagar & Besant Nagar, Chennai)",
+      "routeDetails": "Easily reachable via cab/auto from major temple areas.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Murugan+Idli+Shop+Chennai"
+    },
+    {
+      "shopName": "Local Jigarthanda Stall",
+      "images": [
+        "che_jigarthanda_1_uml2xl",
+        "che_jigarthanda_2_ilecxp"
+      ],
+      "dishName": "Jigarthanda, Cold Dessert Drink",
+      "avgPrice": "₹50–₹120",
+      "touristPlaceNearby": "Elliot's Beach",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "A refreshing and unique cold dessert drink, Jigarthanda is a must-try while exploring Chennai's beachside food culture. Perfect for cooling down after visiting tourist attractions, this drink is popular among those searching best drinks to try in Chennai and offers a rich, creamy texture with traditional flavors.",
+      "tips": "Best enjoyed in evening after beach visit for a refreshing experience.",
+      "fullAddress": "Near Besant Nagar / Elliot's Beach, Chennai",
+      "routeDetails": "Walking distance from Elliot's Beach area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Jigarthanda+Stall+Elliot%27s+Beach+Besant+Nagar+Chennai"
+    },
+    {
+      "shopName": "Royal Paan",
+      "images": [
+        "che_royal_1_y7rzqd",
+        "che_royal_2_cnw2ak"
+      ],
+      "dishName": "Meetha Paan",
+      "avgPrice": "₹50–₹150",
+      "touristPlaceNearby": "Marina Beach",
+      "distanceFromTouristPlace": "~2–4 km",
+      "description": "A sweet ending to your Chennai food journey, this meetha paan offers a refreshing and flavorful experience. Ideal for tourists exploring nightlife or food trails in Chennai, it's a great pick for those searching best dessert after food in Chennai or unique food experiences in the city.",
+      "tips": "Perfect after meals to refresh your taste buds and aid digestion.",
+      "fullAddress": "Near Royal Park, Chennai",
+      "routeDetails": "Reachable via cab/auto from Marina Beach.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Royal+Paan+Royal+Park+Chennai"
+    },
+    {
+      "shopName": "Local Street Breakfast Stall (Anna Nagar)",
+      "images": [
+        "che_anna_1_eiebqf",
+        "che_anna_2_ub1pu8",
+        "che_anna_3_nlawkf"
+      ],
+      "dishName": "Lemon Rice, Curd Rice, Idli, Vada, Peanut Chutney, Sambar, Pongal",
+      "avgPrice": "₹50–₹120",
+      "touristPlaceNearby": "Anna Nagar Tower Park",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "A classic Chennai street-side breakfast experience offering traditional South Indian meals like lemon rice, curd rice, soft idli, crispy vada, and pongal with rich peanut chutney and flavorful sambar. Perfect for tourists exploring best breakfast places in Chennai near top tourist locations like Anna Nagar. This spot captures the authentic taste of Tamil cuisine with simple yet delicious flavors.",
+      "tips": "Visit early morning for freshest items as most dishes get sold out by lunch time.",
+      "fullAddress": "Anna Nagar, Chennai, Tamil Nadu",
+      "routeDetails": "Easily reachable by walking or short auto ride within Anna Nagar area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Street+Breakfast+Stall+Anna+Nagar+Chennai"
+    },
+    {
+      "shopName": "Local Filter Coffee Stall",
+      "images": [
+        "che_filtered_1_jph2by",
+        "che_filtered_2_n0g0ws"
+      ],
+      "dishName": "Filter Coffee (Authentic South Indian)",
+      "avgPrice": "₹30–₹80",
+      "touristPlaceNearby": "City Centre Mall",
+      "distanceFromTouristPlace": "~1 km",
+      "description": "Experience authentic South Indian filter coffee prepared in traditional style with strong decoction and frothy milk. A must-try for anyone searching best filter coffee in Chennai while exploring top tourist attractions in the city. The rich aroma and unique preparation make it a cultural experience as much as a beverage.",
+      "tips": "Try watching the traditional pouring technique for the full experience.",
+      "fullAddress": "Near City Centre, Chennai",
+      "routeDetails": "Walkable or short ride from City Centre Mall.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Filter+Coffee+Stall+City+Centre+Chennai"
+    },
+    {
+      "shopName": "Local Sweet Shop (Egmore)",
+      "images": [
+        "che_sweat_1_gf5zoj",
+        "che_sweat_2_cuegcn"
+      ],
+      "dishName": "Imarti, Paneer Gulab Jamun",
+      "avgPrice": "₹80–₹200",
+      "touristPlaceNearby": "Egmore Museum",
+      "distanceFromTouristPlace": "~1–2 km",
+      "description": "A unique mithai spot offering North Indian-style sweets like imarti and innovative paneer gulab jamun, which is rare in Chennai. Ideal for tourists looking for best mithai in Chennai or fusion desserts near popular tourist places. The rich sweetness and soft textures make it a must-try dessert destination.",
+      "tips": "Try paneer gulab jamun for a unique twist not commonly found in South India.",
+      "fullAddress": "Near Egmore, Chennai",
+      "routeDetails": "Easily reachable via auto/cab from Egmore Museum.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sweet+Shop+Egmore+Chennai"
+    },
+    {
+      "shopName": "Ratna Cafe",
+      "images": [
+        "che_ratna_1_lkd8m1",
+        "che_ratna_2_u21oh0"
+      ],
+      "dishName": "Idli, Vada, Sambar (Thick Grainy Style), Dosa, Idli Sandwich",
+      "avgPrice": "₹100–₹200",
+      "touristPlaceNearby": "Triplicane Parthasarathy Temple",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "One of the most legendary food places in Chennai, Ratna Cafe is famous for its iconic thick, grainy sambar poured generously over soft idlis. A must-visit for tourists exploring best breakfast in Chennai and top tourist locations in Chennai. The unique sambar texture and rich flavor make it stand out from typical South Indian restaurants.",
+      "tips": "Don't miss their signature sambar-idli combination for an authentic Chennai experience.",
+      "fullAddress": "Triplicane, Chennai, Tamil Nadu",
+      "routeDetails": "Walking distance from Parthasarathy Temple.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Ratna+Cafe+Triplicane+Chennai"
+    },
+    {
+      "shopName": "Welcome Hotel",
+      "images": [
+        "che_welcome_1_z0kjaz",
+        "che_welcome_2_epzdy1",
+        "che_welcome_3_wq4ute"
+      ],
+      "dishName": "Idli, Vada, Dosa, Sambar, Chutney",
+      "avgPrice": "₹80–₹180",
+      "touristPlaceNearby": "Egmore Museum",
+      "distanceFromTouristPlace": "~1 km",
+      "description": "A classic South Indian restaurant known for its traditional breakfast offerings like idli, vada, and dosa served with flavorful sambar and chutneys. Popular among locals, it's a great spot for tourists searching best South Indian breakfast in Chennai near major tourist attractions. The flavors are simple yet deeply satisfying.",
+      "tips": "Visit early morning to enjoy hot and fresh breakfast before crowd builds up.",
+      "fullAddress": "Near Egmore, Chennai",
+      "routeDetails": "Easily reachable via cab/auto from Egmore Museum.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Welcome+Hotel+Egmore+Chennai"
+    },
+    {
+      "shopName": "Sree Saravana Bhavan",
+      "images": [
+        "che_saravana_1_elrcdm",
+        "che_saravana_2_ikdppa",
+        "che_saravana_3_lyhnhl"
+      ],
+      "dishName": "Sandwich Dosa, Cheese Dosa, Paneer Dosa, Idli",
+      "avgPrice": "₹150–₹250",
+      "touristPlaceNearby": "Egmore Railway Station",
+      "distanceFromTouristPlace": "~500 meters",
+      "description": "One of the most iconic food spots in Chennai, Sree Saravana Bhavan is famous for its innovative and authentic South Indian dishes like crispy sandwich dosa loaded with cheese, paneer dosa, and soft idlis served with flavorful chutneys and sambar. A must-visit place for tourists exploring best food to try in Chennai and looking for top tourist food experiences in Chennai near Egmore. Perfect blend of traditional taste with modern twists makes it a top food destination in Chennai.",
+      "tips": "Visit during morning or early evening to avoid heavy rush and get freshly made crispy dosas.",
+      "fullAddress": "Near Egmore, Chennai, Tamil Nadu",
+      "routeDetails": "Easily reachable via walking from Egmore Railway Station; located in a busy food street area.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sree+Saravana+Bhavan+Egmore+Chennai"
+    },
+    {
+      "shopName": "Sri Krishna Sweets",
+      "images": [
+        "che_krishna_1_e1ge37",
+        "che_krishna_2_pph3nk",
+        "che_krishna_3_e6dvew"
+      ],
+      "dishName": "Mysore Pak, Laddoo (Tirupati Style)",
+      "avgPrice": "₹200–₹400 (per box)",
+      "touristPlaceNearby": "Besant Nagar Beach",
+      "distanceFromTouristPlace": "~700 meters from beach",
+      "description": "Famous for its melt-in-mouth Mysore Pak and premium laddoos, Sri Krishna Sweets is a paradise for dessert lovers. A must-visit for those exploring best mithai in Chennai and famous sweets to try in Chennai near beachside tourist spots. Perfect takeaway option for tourists.",
+      "tips": "Buy fresh Mysore Pak early in the day for best texture and taste.",
+      "fullAddress": "Besant Nagar, Chennai, Tamil Nadu",
+      "routeDetails": "Walkable from Besant Nagar Beach; located in a popular sweets lane.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Sri+Krishna+Sweets+Besant+Nagar+Chennai"
+    },
+    {
+      "shopName": "Local Bajji Shop (Mylapore)",
+      "images": [
+        "che_bajji_1_omsa42",
+        "che_bajji_2_y4dtdk"
+      ],
+      "dishName": "Mirchi Bajji, Raw Banana Bajji",
+      "avgPrice": "₹20–₹50 per piece",
+      "touristPlaceNearby": "Kamleshwar Temple (Mylapore Area)",
+      "distanceFromTouristPlace": "~200 meters",
+      "description": "A hidden street food gem near Kamleshwar Temple, this local vendor serves crispy and spicy Mirchi Bajji along with raw banana bajji, a famous Tamil Nadu snack. Perfect for tourists exploring street food in Chennai and searching for best local food near temples in Chennai. The crunchy texture with chutney makes it a must-try evening snack experience in Chennai.",
+      "tips": "Visit in the evening for fresh hot bajjis and enjoy them right after preparation for best taste.",
+      "fullAddress": "Near Kamleshwar Temple, Mylapore, Chennai, Tamil Nadu",
+      "routeDetails": "Located in street market near temple; easily accessible by walking through temple road.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Bajji+Shop+Kamleshwar+Temple+Mylapore+Chennai"
+    }
+  ]
+}

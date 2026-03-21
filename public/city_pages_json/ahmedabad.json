@@ -1,0 +1,196 @@
+{
+  "city": "Ahmedabad",
+  "hero": {
+    "tagline": "The food capital of Gujarat serves vibrant Gujarati flavours — from crispy fafda-jalebi at ISKCON to legendary Manek Chowk night street food and royal thalis in heritage havelis.",
+    "highlights": [
+      "11 curated food spots across Ahmedabad's iconic landmarks, markets and night food streets",
+      "Authentic Gujarati snacks, royal thalis & iconic khakhra near ISKCON Temple, Lal Darwaja and SG Highway",
+      "From century-old Lucky Restaurant chai to Manek Chowk's famous Jasuben Pizza and Mahalaxmi Pav Bhaji"
+    ]
+  },
+  "foodSpots": [
+    {
+      "shopName": "Iscon Gathiya",
+      "images": [
+        "Ahemdabad_IskonGhatiya1_bogynp",
+        "Ahemdabad_IskonGhatiya2_v8owc8"
+      ],
+      "dishName": "Fafda, Jalebi, Vanilla Style Gathiya, Papdi, Methi Gathiya, Fried Chillies",
+      "avgPrice": "₹80–₹150",
+      "touristPlaceNearby": "ISKCON Temple Ahmedabad",
+      "distanceFromTouristPlace": "~300 m",
+      "description": "Iscon Gathiya is one of the most famous breakfast spots in Ahmedabad known for crispy fafda, hot jalebi and Rajkot-style gathiya. This place is extremely popular among locals and travelers searching for best breakfast in Ahmedabad near ISKCON Temple. Freshly fried Gujarati snacks make it a must-visit for tourists exploring top food places in Ahmedabad and the best food to try in Ahmedabad.",
+      "tips": "Visit early morning for the freshest fafda-jalebi combo before stock runs out.",
+      "fullAddress": "Opp. ISKCON Temple, Sarkhej – Gandhinagar Hwy, Ahmedabad, Gujarat",
+      "routeDetails": "Walk from ISKCON Temple towards SG Highway service road; the famous breakfast shop is located opposite the temple.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Iscon+Gathiya+ISKCON+Temple+Ahmedabad+Gujarat"
+    },
+    {
+      "shopName": "Das Khaman",
+      "images": [
+        "Ahemdabad_DasKhaman1_or5gk8",
+        "Ahemdabad_DasKhaman2_k7apxc",
+        "Ahemdabad_DasKhaman3_n4jvg9"
+      ],
+      "dishName": "Tam Tam Khaman, Patti Samosa, Navtad Samosa, Khaman with Garlic Chutney",
+      "avgPrice": "₹50–₹120",
+      "touristPlaceNearby": "Navrangpura / CG Road Area",
+      "distanceFromTouristPlace": "~1 km",
+      "description": "Das Khaman is a legendary Gujarati snack destination known for its signature Tam Tam Khaman along with crispy samosas and strong garlic chutney. It is considered one of the best places to eat traditional Gujarati snacks in Ahmedabad and is a must stop for anyone exploring Ahmedabad street food culture.",
+      "tips": "Try the Tam Tam Khaman with extra garlic chutney for the full flavour experience.",
+      "fullAddress": "Commerce Six Roads, Navrangpura, Ahmedabad, Gujarat",
+      "routeDetails": "From Navrangpura Market move toward Commerce Six Roads junction; the famous snack shop is located there.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Das+Khaman+Commerce+Six+Roads+Navrangpura+Ahmedabad"
+    },
+    {
+      "shopName": "Agashiye Restaurant",
+      "images": [
+        "Ahemdabad_Agashiye1_nw6nty",
+        "Ahemdabad_Agashiye2_mkjyru",
+        "Ahemdabad_Agashiye3_opmckk"
+      ],
+      "dishName": "Royal Gujarati Thali (Paratha, Kadhi, Khaman, Kachori, Chaas, Desserts)",
+      "avgPrice": "₹700–₹900",
+      "touristPlaceNearby": "Sidi Saiyyed Mosque",
+      "distanceFromTouristPlace": "~100 m",
+      "description": "Agashiye Restaurant offers one of the most premium royal Gujarati thali experiences in Ahmedabad inside a heritage property. Famous among tourists visiting historic sites like Sidi Saiyyed Mosque, it serves unlimited traditional dishes, farsan, sweets and chaas in an authentic royal ambience making it one of the top fine dining food destinations in Ahmedabad.",
+      "tips": "Book a table in advance especially on weekends; rooftop seating offers a beautiful heritage view.",
+      "fullAddress": "House of MG Hotel, Opp. Sidi Saiyyed Mosque, Lal Darwaja, Ahmedabad",
+      "routeDetails": "Located inside House of MG heritage hotel near Lal Darwaja; enter the hotel courtyard and go to rooftop dining.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Agashiye+Restaurant+House+of+MG+Lal+Darwaja+Ahmedabad"
+    },
+    {
+      "shopName": "Gordhan Thal",
+      "images": [
+        "Ahemdabad_Gordhan1_clfp5z",
+        "Ahemdabad_Gordhan2_ggtt5c"
+      ],
+      "dishName": "Gujarati Thali, Mohanthal, Kadhi, Rice, Puri, Farsan, Sweets",
+      "avgPrice": "₹500–₹700",
+      "touristPlaceNearby": "SG Highway",
+      "distanceFromTouristPlace": "~2 km",
+      "description": "Gordhan Thal is one of the most famous restaurants serving a complete authentic Gujarati thali in Ahmedabad. Known for delicious farsan, kadhi and its famous Mohanthal dessert, this place is highly recommended for tourists looking for best traditional Gujarati food in Ahmedabad.",
+      "tips": "Don't miss the Mohanthal dessert — it is one of the best in the city.",
+      "fullAddress": "Near Gota Cross Road, SG Highway, Ahmedabad",
+      "routeDetails": "From SG Highway take the road toward Gota Cross Road; restaurant is located on the highway stretch.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Gordhan+Thal+Gota+Cross+Road+SG+Highway+Ahmedabad"
+    },
+    {
+      "shopName": "Apna Adda",
+      "images": [
+        "Ahemdabad_ApnaAdda1_vdszbd",
+        "Ahemdabad_ApnaAdda2_idkhxu",
+        "Ahemdabad_ApnaAdda3_sphurq",
+        "Ahemdabad_ApnaAdda4_iua2ge"
+      ],
+      "dishName": "Paneer Tikka, Paneer Manchurian Frankie with Cheese & Chips",
+      "avgPrice": "₹120–₹200",
+      "touristPlaceNearby": "University Area / College Street",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "Apna Adda is a lively night street food hub popular among college students for loaded paneer frankies and spicy paneer tikka snacks topped with cheese and chips. It is a great stop for travelers searching for best night street food in Ahmedabad.",
+      "tips": "Best visited after 8 PM when the stalls are fully set up and the food is freshest.",
+      "fullAddress": "Street food lane behind college area, Ahmedabad",
+      "routeDetails": "Walk through the college street food lane behind campus where multiple stalls operate at night.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Apna+Adda+Street+Food+College+Area+Ahmedabad"
+    },
+    {
+      "shopName": "Lucky Restaurant",
+      "images": [
+        "Ahemdabad_Lucky1_tfarg4",
+        "Ahemdabad_Lucky2_w80gy0"
+      ],
+      "dishName": "Special Tea",
+      "avgPrice": "₹30–₹80",
+      "touristPlaceNearby": "Lal Darwaja",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "Lucky Restaurant is one of the most iconic cafés in Ahmedabad famous for its strong chai and unique ambiance built around a graveyard and a large tree. Legendary painter M. F. Husain was known to visit this place, making it a historic tea spot and one of the most unique tourist cafés in Ahmedabad.",
+      "tips": "Visit for the experience and ambiance as much as the chai — it is truly one of a kind in India.",
+      "fullAddress": "Opp. City College, Lal Darwaja, Ahmedabad",
+      "routeDetails": "From Lal Darwaja bus stand walk toward City College road; café is located opposite the college.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Lucky+Restaurant+Lal+Darwaja+City+College+Ahmedabad"
+    },
+    {
+      "shopName": "Balan Dosa",
+      "images": [
+        "Ahemdabad_Balan1_iu04oc",
+        "Ahemdabad_Balan2_oowja7",
+        "Ahemdabad_Balan3_gtbipa",
+        "Ahemdabad_Balan4_dmpnmu"
+      ],
+      "dishName": "Butter Dosa with Sweet Curd",
+      "avgPrice": "₹120–₹180",
+      "touristPlaceNearby": "Manek Chowk Night Market",
+      "distanceFromTouristPlace": "Inside market",
+      "description": "Balan Dosa is a famous stall in the iconic Manek Chowk night food market known for its heavily butter-loaded dosa served with a unique sweet curd combination. A must-visit for travelers exploring Ahmedabad night street food.",
+      "tips": "Visit after 9 PM when Manek Chowk transforms into a full night food market for the best experience.",
+      "fullAddress": "Manek Chowk Night Food Market, Old City, Ahmedabad",
+      "routeDetails": "Located inside the famous night food street of Manek Chowk.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Balan+Dosa+Manek+Chowk+Ahmedabad"
+    },
+    {
+      "shopName": "Mahalaxmi Pav Bhaji",
+      "images": [
+        "Ahemdabad_Mahalaxmi1_rks3x8",
+        "Ahemdabad_Mahalaxmi2_jrj2ki",
+        "Ahemdabad_Mahalaxmi3_plptnl"
+      ],
+      "dishName": "Pav Bhaji, Tawa Pulao, Mahalaxmi Special Pulao with Dry Fruits & Cheese",
+      "avgPrice": "₹150–₹250",
+      "touristPlaceNearby": "Manek Chowk",
+      "distanceFromTouristPlace": "Inside market",
+      "description": "Mahalaxmi Pav Bhaji is one of the most popular food stalls at Manek Chowk known for its rich Mahalaxmi Special Pulao loaded with dry fruits and cheese along with classic pav bhaji. It is one of the best street food experiences in Ahmedabad.",
+      "tips": "Order the Mahalaxmi Special Pulao with extra cheese for the signature experience.",
+      "fullAddress": "Manek Chowk Night Food Market, Old City, Ahmedabad",
+      "routeDetails": "Located inside Manek Chowk food street among multiple stalls.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Mahalaxmi+Pav+Bhaji+Manek+Chowk+Ahmedabad"
+    },
+    {
+      "shopName": "Induben Khakhra Wala",
+      "images": [
+        "Ahemdabad_Induben1_zvkqop",
+        "Ahemdabad_Induben2_gvyidr"
+      ],
+      "dishName": "Khakhra varieties, Cholafali, Jiralu, Dhokla Chips, Farsan",
+      "avgPrice": "₹100–₹300",
+      "touristPlaceNearby": "Navrangpura",
+      "distanceFromTouristPlace": "~1 km",
+      "description": "Induben Khakhra Wala is a famous Gujarati snack shop offering a wide range of khakhra and farsan varieties. It is one of the best places in Ahmedabad to buy authentic Gujarati snacks and food souvenirs.",
+      "tips": "Buy assorted khakhra packs as food souvenirs — they travel well and make great gifts.",
+      "fullAddress": "Navrangpura, Ahmedabad",
+      "routeDetails": "From Navrangpura market walk toward the snack shop lane where the store is located.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Induben+Khakhra+Wala+Navrangpura+Ahmedabad"
+    },
+    {
+      "shopName": "Patel Ice Cream",
+      "images": [
+        "Ahemdabad_Patel1_a7gvgd",
+        "Ahemdabad_Patel2_ogkht3"
+      ],
+      "dishName": "Chickoo Ice Cream, Roasted Almond Ice Cream",
+      "avgPrice": "₹80–₹200",
+      "touristPlaceNearby": "Law Garden",
+      "distanceFromTouristPlace": "~500 m",
+      "description": "Patel Ice Cream is a legendary dessert shop known for unique flavors like chikoo and roasted almond ice cream. A must-visit for travelers searching for best desserts in Ahmedabad after exploring Law Garden market.",
+      "tips": "Try the chikoo ice cream — it is a rare flavour you won't easily find elsewhere.",
+      "fullAddress": "Near Law Garden / Navrangpura area, Ahmedabad",
+      "routeDetails": "Walk from Law Garden night market toward nearby dessert shops.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Patel+Ice+Cream+Law+Garden+Ahmedabad"
+    },
+    {
+      "shopName": "Jasuben Pizza",
+      "images": [
+        "Ahemdabad_Jasuben1_f4bcav",
+        "Ahemdabad_Jasuben2_oh0x20"
+      ],
+      "dishName": "Gujarati Pizza (Pizza Base with Vegetables, Cheese Loaded Street Pizza)",
+      "avgPrice": "₹120–₹200",
+      "touristPlaceNearby": "Manek Chowk Night Market",
+      "distanceFromTouristPlace": "Inside Manek Chowk",
+      "description": "Jasuben Pizza is one of the most talked-about street food stalls in Manek Chowk Ahmedabad famous for its unique Gujarati style street pizza loaded with vegetables and cheese. This experimental pizza is extremely popular among tourists exploring night street food markets in Ahmedabad and is often listed among the best street food dishes to try in Ahmedabad.",
+      "tips": "Try the cheese-loaded version for the full Gujarati street pizza experience.",
+      "fullAddress": "Manek Chowk Night Food Market, Old City, Ahmedabad, Gujarat",
+      "routeDetails": "Located inside the famous Manek Chowk night street food market among pizza stalls.",
+      "mapLink": "https://www.google.com/maps/search/?api=1&query=Jasuben+Pizza+Manek+Chowk+Ahmedabad"
+    }
+  ]
+}

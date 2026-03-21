@@ -63,10 +63,10 @@ export default function TravelFoodExperience() {
         <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-8 gap-4">
           <div>
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-2">
-              Travel + Food Experience
+              What Travelers Say About India&apos;s Street Food
             </h2>
             <p className="text-gray-600 text-base md:text-lg font-medium">
-              Real stories from travelers discovering amazing food
+              Real experiences from food lovers exploring iconic dishes across Indian cities
             </p>
           </div>
 

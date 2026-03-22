@@ -37,8 +37,10 @@ export default function VendorSection() {
   });
 
   const cities = [
-    "Delhi", "Mumbai", "Varanasi", "Jaipur", "Agra",
-    "Lucknow", "Amritsar", "Hyderabad", "Bangalore", "Kolkata", "Other",
+    "Delhi", "Mumbai", "Varanasi", "Jaipur", "Nainital",
+    "Pune", "Amritsar", "Kashmir", "Kolkata", "Puri",
+    "Darjeeling", "Matheran", "Mahabaleshwar", "Lucknow", "Tirupati",
+    "Rameshwaram", "Goa", "Ooty", "Chennai", "Ahmedabad", "Other",
   ];
 
   const handleChange = (

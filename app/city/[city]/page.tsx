@@ -189,28 +189,25 @@ export default async function CityPage({
                   <Link
                     key={s.slug}
                     href={`/city/${s.slug}`}
-                    className="group flex items-center gap-4 bg-white rounded-2xl shadow-sm hover:shadow-md border border-gray-100 p-4 transition-all duration-300 hover:-translate-y-0.5"
+                    className="group flex flex-col sm:flex-row items-center sm:items-center gap-3 bg-white rounded-2xl shadow-sm hover:shadow-md border border-gray-100 p-4 transition-all duration-300 hover:-translate-y-0.5"
                   >
                     {/* Thumbnail */}
-                    <div className="relative w-16 h-16 rounded-xl overflow-hidden shrink-0 bg-gray-100">
+                    <div className="relative w-full h-24 sm:w-14 sm:h-14 sm:shrink-0 rounded-xl overflow-hidden bg-gray-100">
                       {s.coverImage && (
                         <Image
                           src={cl(s.coverImage)}
                           alt={`Food in ${s.name}`}
                           fill
                           className="object-cover"
-                          sizes="64px"
+                          sizes="(max-width: 640px) 50vw, 56px"
                         />
                       )}
                     </div>
                     {/* Text */}
-                    <div className="flex-1 min-w-0">
-                      <p className="font-bold text-gray-900 group-hover:text-[#E23744] transition-colors truncate">{s.name}</p>
-                      <p className="text-sm text-gray-500">{s.count} food spots</p>
+                    <div className="w-full sm:flex-1 sm:min-w-0 text-center sm:text-left">
+                      <p className="font-bold text-gray-900 group-hover:text-[#E23744] transition-colors text-sm leading-tight">{s.name}</p>
+                      <p className="text-xs text-gray-500 mt-0.5">{s.count} food spots</p>
                     </div>
-                    <svg className="w-4 h-4 text-gray-300 group-hover:text-[#E23744] transition-colors shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                    </svg>
                   </Link>
                 ))}
               </div>

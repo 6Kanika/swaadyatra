@@ -40,7 +40,7 @@ export async function POST(req: NextRequest) {
 
     await resend.emails.send({
       from: "SwaadYatra Contact <onboarding@resend.dev>",
-      to: "kanikakathuria2005@gmail.com",
+      to: "jainkanika708@gmail.com",
       replyTo: email,
       subject: `[SwaadYatra] ${esc(subject)}`,
       html: `

@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Linkedin, Instagram, Twitter, Youtube, Mail, MapPin } from "lucide-react";
+import { Instagram, Facebook, Mail, MapPin } from "lucide-react";
 
 export default function Footer() {
   const quickLinks = [
@@ -17,10 +17,8 @@ export default function Footer() {
   ];
 
   const socialLinks = [
-    { icon: Linkedin, href: "#", label: "LinkedIn" },
-    { icon: Instagram, href: "#", label: "Instagram" },
-    { icon: Twitter, href: "#", label: "Twitter" },
-    { icon: Youtube, href: "#", label: "YouTube" },
+    { icon: Instagram, href: "https://www.instagram.com/swaadyatraa/", label: "Instagram" },
+    { icon: Facebook, href: "https://www.facebook.com/profile.php?id=61579496769566", label: "Facebook" },
   ];
 
   return (
@@ -128,7 +126,7 @@ export default function Footer() {
               <Link href="/disclaimer" className="text-gray-400 hover:text-[#E23744] transition-colors">
                 Disclaimer
               </Link>
-              <Link href="/sitemap" className="text-gray-400 hover:text-[#E23744] transition-colors">
+              <Link href="/sitemap.xml" className="text-gray-400 hover:text-[#E23744] transition-colors">
                 Sitemap
               </Link>
             </div>

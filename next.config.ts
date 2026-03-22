@@ -12,7 +12,7 @@ const securityHeaders = [
       "script-src 'self' 'unsafe-inline' 'unsafe-eval'",  // unsafe-inline/eval needed by Next.js dev & RSC
       "style-src 'self' 'unsafe-inline'",
       "img-src 'self' data: blob: https://res.cloudinary.com",
-      "font-src 'self'",
+      "font-src 'self' https://fonts.gstatic.com",
       "connect-src 'self'",
       "frame-ancestors 'none'",
     ].join("; "),

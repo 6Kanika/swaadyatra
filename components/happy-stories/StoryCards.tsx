@@ -11,7 +11,7 @@ const stories = [
     food: "Banarasi Kachori",
     quote: "Tried Banarasi Kachori near Dashashwamedh Ghat. The food was incredibly authentic and the route guidance made it super easy to find the place.",
 
-    foodImg: cl("amrit_sunny_1_sol0vt"),
+    foodImg: cl("varan_tamatarchaat_w6pzg0"),
     gradient: "from-black/80 via-black/40 to-transparent",
     accent: "#E23744",
     align: "items-end",
@@ -31,11 +31,11 @@ const stories = [
   },
   {
     name: "Priya Nair",
-    city: "Hyderabad",
-    food: "Hyderabadi Biryani",
-    quote: "SwaadYatra led me to a tiny biryani shop near Charminar that locals swear by. Best biryani I've ever had — no tourist trap!",
+    city: "Kolkata",
+    food: "Baked Rasgulla",
+    quote: "SwaadYatra led me to Balaram Mullick near Victoria Memorial that locals swear by. Best Baked Rasgulla I've ever had — no tourist trap!",
 
-    foodImg: cl("amrit_kesar_2_gc305z"),
+    foodImg: cl("kol_balarm_1_r1t3bw"),
     gradient: "from-black/80 via-black/40 to-transparent",
     accent: "#E23744",
     align: "items-end",
@@ -68,10 +68,10 @@ const stories = [
   {
     name: "Vikram Singh",
     city: "Lucknow",
-    food: "Galouti Kebab",
-    quote: "The Galouti Kebabs near Bara Imambara were melt-in-your-mouth perfection. I would never have found this place without SwaadYatra.",
+    food: "Kulcha Nahari",
+    quote: "The Kulcha Nahari at Raheem's near Bara Imambara was melt-in-your-mouth perfection. I would never have found this place without SwaadYatra.",
 
-    foodImg: cl("amrit_gurdas_1_bb11ui"),
+    foodImg: cl("luc_raheem_1_lzveti"),
     gradient: "from-black/80 via-black/40 to-transparent",
     accent: "#E23744",
     align: "items-start",

@@ -31,13 +31,15 @@ export function checkCsrf(req: { headers: { get: (k: string) => string | null } 
   const appHost = process.env.NEXT_PUBLIC_APP_URL
     ? new URL(process.env.NEXT_PUBLIC_APP_URL).host
     : null;
-  // In dev there's no APP_URL — skip the check
   if (!appHost) return null;
 
   const origin = req.headers.get("origin") ?? req.headers.get("referer");
   if (!origin) return "Forbidden: missing origin.";
   try {
-    if (new URL(origin).host !== appHost) return "Forbidden: cross-origin request.";
+    const host = new URL(origin).host;
+    // Allow localhost in development
+    if (host === "localhost" || host.startsWith("localhost:") || host === "127.0.0.1") return null;
+    if (host !== appHost) return "Forbidden: cross-origin request.";
   } catch {
     return "Forbidden: invalid origin.";
   }

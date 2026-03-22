@@ -12,7 +12,7 @@ const faqs = [
   },
   {
     q: "How can restaurants get listed on SwaadYatra?",
-    a: "Use the 'Apply For Listing' button or write to business@swaadyatra.com. We verify each listing to ensure quality and authenticity for our travellers.",
+    a: "Use the 'Apply For Listing' form below or fill out the vendor listing form on this page. Our team verifies each listing to ensure quality and authenticity for our travellers.",
   },
   {
     q: "Is SwaadYatra free for travelers?",

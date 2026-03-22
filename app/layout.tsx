@@ -57,6 +57,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta name="theme-color" content="#E23744" />
+      </head>
       <body className={`${plusJakarta.variable} antialiased`} suppressHydrationWarning>
         {children}
       </body>
